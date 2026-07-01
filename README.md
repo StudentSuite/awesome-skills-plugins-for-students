@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-43-blue)
+![Skills](https://img.shields.io/badge/skills-45-blue)
 ![Plugins](https://img.shields.io/badge/plugins-9-purple)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -46,9 +46,9 @@ Copy the skill's `SKILL.md` (or the whole folder) into the path for your tool. F
 |:---:|---|:---:|
 | 📚 | [IB & IGCSE Coursework](#-ib--igcse-coursework) | 3 skills |
 | 🗂️ | [Study & Productivity](#️-study--productivity) | 13 skills |
-| 💻 | [Coding & CS Education](#-coding--cs-education) | 10 skills |
+| 💻 | [Coding & CS Education](#-coding--cs-education) | 11 skills |
 | 🔬 | [STEM Subjects](#-stem-subjects) | 4 skills |
-| ✍️ | [Writing & Humanities](#️-writing--humanities) | 3 skills |
+| ✍️ | [Writing & Humanities](#️-writing--humanities) | 4 skills |
 | 🎓 | [College Applications & Career](#-college-applications--career) | 4 skills |
 | 🔵 | [Google Workspace for Students](#-google-workspace-for-students) | 6 skills |
 | 🧩 | [Plugins](#-plugins) | 9 plugins |
@@ -106,13 +106,14 @@ Spaced repetition, time and task management, note-taking, and focus.
 Algorithm and debugging explainers, learn-to-code starters, and CS project tooling.
 
 <details>
-<summary>Show 10 skills</summary>
+<summary>Show 11 skills</summary>
 
 - **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** - Turns any codebase into an interactive HTML course for beginners.
 - **[kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor)** - Personal tutor with adaptive quizzes and SM-2 spaced repetition.
 - **[mattpocock/skills — diagnosing-bugs](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs)** - Disciplined debug loop: reproduce → minimize → hypothesize → instrument → fix.
 - **[mattpocock/skills — tdd](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd)** - Guides test-driven development with red-green-refactor cycles and behavior-focused tests.
 - **[mattpocock/skills — git-guardrails-claude-code](https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code)** - Blocks dangerous git commands (push, reset --hard, clean) via Claude Code hooks.
+- **[mattpocock/skills — resolving-merge-conflicts](https://github.com/mattpocock/skills/tree/main/skills/engineering/resolving-merge-conflicts)** - Walks through resolving an in-progress git merge or rebase conflict step by step.
 - **[ComposioHQ/awesome-claude-skills — developer-growth-analysis](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/developer-growth-analysis)** - Analyzes your Claude Code chat history to surface coding patterns and learning gaps.
 - **[ComposioHQ/awesome-claude-skills — artifacts-builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/artifacts-builder)** - Builds multi-component React/Tailwind HTML artifacts for interactive demos and projects.
 - **[anthropics/web-artifacts-builder](https://officialskills.sh/anthropics/skills/web-artifacts-builder)** - Builds complex claude.ai HTML artifacts with React and Tailwind — useful for CS project demos and interactive coursework submissions.
@@ -146,11 +147,12 @@ Math, physics, chemistry, and data analysis helpers.
 Essay structuring, academic research, literature analysis, and language learning.
 
 <details>
-<summary>Show 3 skills</summary>
+<summary>Show 4 skills</summary>
 
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
 - **[ComposioHQ/awesome-claude-skills — content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
 - **[xwmxcz/papers-skill](https://github.com/xwmxcz/papers-skill)** - Searches 200M+ papers on Semantic Scholar, inspects citations, and downloads arXiv PDFs.
+- **[mattpocock/skills — edit-article](https://github.com/mattpocock/skills/tree/main/skills/personal/edit-article)** - Restructures article drafts by section and tightens prose for clarity.
 
 </details>
 
