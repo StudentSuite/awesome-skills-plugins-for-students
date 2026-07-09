@@ -10,7 +10,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 ![Skills](https://img.shields.io/badge/skills-46-blue)
-![Plugins](https://img.shields.io/badge/plugins-9-purple)
+![Plugins](https://img.shields.io/badge/plugins-13-purple)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
 ![Copilot](https://img.shields.io/badge/Copilot-%E2%9C%93-2ea043)
@@ -51,7 +51,7 @@ Copy the skill's `SKILL.md` (or the whole folder) into the path for your tool. F
 | ✍️ | [Writing & Humanities](#️-writing--humanities) | 4 skills |
 | 🎓 | [College Applications & Career](#-college-applications--career) | 5 skills |
 | 🔵 | [Google Workspace for Students](#-google-workspace-for-students) | 6 skills |
-| 🧩 | [Plugins](#-plugins) | 9 plugins |
+| 🧩 | [Plugins](#-plugins) | 13 plugins |
 
 [⚙️ Compatibility Paths](#️-compatibility-paths) · [🛡️ Security Notice](#️-security-notice) · [✅ Quality Standards](#-quality-standards) · [Contributing](#contributing) · [License](#license)
 
@@ -202,7 +202,7 @@ These skills require the [Google Workspace CLI (`gws`)](https://officialskills.s
 Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, agents, hooks, or MCP servers.
 
 <details>
-<summary>Show 9 plugins</summary>
+<summary>Show 13 plugins</summary>
 
 - **[olegvg/resume-tailor-plugin](https://github.com/olegvg/resume-tailor-plugin)** - Claude Code plugin that tailors your resume to a job post.
 - **[JeanDiable/academic-research-plugin](https://github.com/JeanDiable/academic-research-plugin)** - Plugin for literature surveys, paper reviews, and citation management.
@@ -213,6 +213,10 @@ Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, 
 - **[dair-ai/dair-academy-plugins — youtube-notetaker](https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/youtube-notetaker)** - Turns YouTube talks into local study notes with slides, transcripts, and editable annotations.
 - **[dair-ai/dair-academy-plugins — lesson-generator](https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/lesson-generator)** - Generates multi-lesson HTML courses with flashcards, quizzes, objectives, and source links.
 - **[dair-ai/dair-academy-plugins — wiki-builder](https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/wiki-builder)** - Builds and maintains structured research wikis with sources, compiled pages, and derived artifacts.
+- **[alirezarezvani/claude-skills — research/litreview](https://github.com/alirezarezvani/claude-skills/tree/main/research/litreview)** - Turns a research question into a planned mini literature review as a Word document.
+- **[alirezarezvani/claude-skills — research/syllabus](https://github.com/alirezarezvani/claude-skills/tree/main/research/syllabus)** - Builds a supplementary reading list and discussion questions from a course syllabus.
+- **[alirezarezvani/claude-skills — research/deep-research](https://github.com/alirezarezvani/claude-skills/tree/main/research/deep-research)** - Runs a multi-source research pipeline with citations for high-stakes research questions.
+- **[alirezarezvani/claude-skills — productivity/capture](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/capture)** - Organizes a brain-dump of mixed thoughts, tasks, and ideas into an actionable list.
 
 </details>
 
