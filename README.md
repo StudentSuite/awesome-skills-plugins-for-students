@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-45-blue)
+![Skills](https://img.shields.io/badge/skills-46-blue)
 ![Plugins](https://img.shields.io/badge/plugins-9-purple)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -49,7 +49,7 @@ Copy the skill's `SKILL.md` (or the whole folder) into the path for your tool. F
 | 💻 | [Coding & CS Education](#-coding--cs-education) | 11 skills |
 | 🔬 | [STEM Subjects](#-stem-subjects) | 4 skills |
 | ✍️ | [Writing & Humanities](#️-writing--humanities) | 4 skills |
-| 🎓 | [College Applications & Career](#-college-applications--career) | 4 skills |
+| 🎓 | [College Applications & Career](#-college-applications--career) | 5 skills |
 | 🔵 | [Google Workspace for Students](#-google-workspace-for-students) | 6 skills |
 | 🧩 | [Plugins](#-plugins) | 9 plugins |
 
@@ -165,12 +165,13 @@ Essay structuring, academic research, literature analysis, and language learning
 Personal statements, resume building, interview prep, and side-project launches.
 
 <details>
-<summary>Show 4 skills</summary>
+<summary>Show 5 skills</summary>
 
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - Resume optimization, ATS scoring, and interview prep skills.
 - **[varunr89/resume-tailoring-skill](https://github.com/varunr89/resume-tailoring-skill)** - AI-powered resume tailoring for specific job descriptions.
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[ComposioHQ/awesome-claude-skills — domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/domain-name-brainstormer)** - Generates domain name ideas and checks availability across TLDs for side projects.
+- **[ComposioHQ/awesome-claude-skills — tailored-resume-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/tailored-resume-generator)** - Analyzes job descriptions and tailors resumes to highlight relevant experience and skills.
 
 </details>
 
