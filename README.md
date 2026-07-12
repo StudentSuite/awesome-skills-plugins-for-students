@@ -53,7 +53,7 @@ Copy the skill's `SKILL.md` (or the whole folder) into the path for your tool. F
 | 🔵 | [Google Workspace for Students](#-google-workspace-for-students) | 6 skills |
 | 🧩 | [Plugins](#-plugins) | 13 plugins |
 
-[⚙️ Compatibility Paths](#️-compatibility-paths) · [🛡️ Security Notice](#️-security-notice) · [✅ Quality Standards](#-quality-standards) · [Contributing](#contributing) · [License](#license)
+[⚙️ Compatibility Paths](#️-compatibility-paths) · [🛡️ Security Notice](#️-security-notice) · [✅ Quality Standards](#-quality-standards) · [Contributing](#contributing) · [More from StudentSuite](#more-from-studentsuite) · [License](#license)
 
 ---
 
@@ -270,6 +270,10 @@ Every entry in this list meets all of the following:
 ## Contributing
 
 PRs adding a skill or plugin are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format and PR checklist.
+
+## More from StudentSuite
+
+Looking for software, tools, textbooks, and other resources beyond skills and plugins? See the sibling list: [awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources).
 
 ## License
 
