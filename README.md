@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-47-blue)
+![Skills](https://img.shields.io/badge/skills-51-blue)
 ![Plugins](https://img.shields.io/badge/plugins-13-purple)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -45,11 +45,11 @@ Copy the skill's `SKILL.md` (or the whole folder) into the path for your tool. F
 | | Section | Count |
 |:---:|---|:---:|
 | 📚 | [IB & IGCSE Coursework](#-ib--igcse-coursework) | 3 skills |
-| 🗂️ | [Study & Productivity](#️-study--productivity) | 13 skills |
+| 🗂️ | [Study & Productivity](#️-study--productivity) | 15 skills |
 | 💻 | [Coding & CS Education](#-coding--cs-education) | 12 skills |
 | 🔬 | [STEM Subjects](#-stem-subjects) | 4 skills |
-| ✍️ | [Writing & Humanities](#️-writing--humanities) | 4 skills |
-| 🎓 | [College Applications & Career](#-college-applications--career) | 5 skills |
+| ✍️ | [Writing & Humanities](#️-writing--humanities) | 5 skills |
+| 🎓 | [College Applications & Career](#-college-applications--career) | 6 skills |
 | 🔵 | [Google Workspace for Students](#-google-workspace-for-students) | 6 skills |
 | 🧩 | [Plugins](#-plugins) | 13 plugins |
 
@@ -81,7 +81,7 @@ IA, EE, and TOK helpers — citation formatting, rubric feedback, and document t
 Spaced repetition, time and task management, note-taking, and focus.
 
 <details>
-<summary>Show 13 skills</summary>
+<summary>Show 15 skills</summary>
 
 - **[jakedahn/pomodoro](https://github.com/jakedahn/pomodoro)** - Pomodoro timer skill that tracks and learns from your focus sessions.
 - **[hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit)** - AI learning coach with spaced repetition, syllabi, and progress tracking.
@@ -96,6 +96,8 @@ Spaced repetition, time and task management, note-taking, and focus.
 - **[openai/transcribe](https://officialskills.sh/openai/skills/transcribe)** - Transcribes audio files to text with optional speaker diarization — great for recording and reviewing lectures.
 - **[sickn33/antigravity-awesome-skills — examprep-ai](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/examprep-ai)** - Converts syllabi, past papers, or notes into a ranked High Score Roadmap with MCQs and question prediction.
 - **[sickn33/antigravity-awesome-skills — bulletmind](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/bulletmind)** - Converts any input into clean hierarchical bullet points for note-taking and summarization.
+- **[RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills)** - Turns PDFs, docs, or codebases into Obsidian study vaults with interactive quizzes.
+- **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed-reads long responses at 600+ WPM using RSVP with ORP highlighting.
 
 </details>
 
@@ -148,12 +150,13 @@ Math, physics, chemistry, and data analysis helpers.
 Essay structuring, academic research, literature analysis, and language learning.
 
 <details>
-<summary>Show 4 skills</summary>
+<summary>Show 5 skills</summary>
 
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
 - **[ComposioHQ/awesome-claude-skills — content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
 - **[xwmxcz/papers-skill](https://github.com/xwmxcz/papers-skill)** - Searches 200M+ papers on Semantic Scholar, inspects citations, and downloads arXiv PDFs.
 - **[mattpocock/skills — edit-article](https://github.com/mattpocock/skills/tree/main/skills/personal/edit-article)** - Restructures article drafts by section and tightens prose for clarity.
+- **[NeoLabHQ/context-engineering-kit — write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely)** - Applies *The Elements of Style* principles to tighten essays and cut wordiness.
 
 </details>
 
@@ -166,13 +169,14 @@ Essay structuring, academic research, literature analysis, and language learning
 Personal statements, resume building, interview prep, and side-project launches.
 
 <details>
-<summary>Show 5 skills</summary>
+<summary>Show 6 skills</summary>
 
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - Resume optimization, ATS scoring, and interview prep skills.
 - **[varunr89/resume-tailoring-skill](https://github.com/varunr89/resume-tailoring-skill)** - AI-powered resume tailoring for specific job descriptions.
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[ComposioHQ/awesome-claude-skills — domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/domain-name-brainstormer)** - Generates domain name ideas and checks availability across TLDs for side projects.
 - **[ComposioHQ/awesome-claude-skills — tailored-resume-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/main/tailored-resume-generator)** - Analyzes job descriptions and tailors resumes to highlight relevant experience and skills.
+- **[santifer/career-ops](https://github.com/santifer/career-ops)** - Scores job listings, tailors resumes, and tracks applications for a job search.
 
 </details>
 
