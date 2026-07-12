@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-46-blue)
+![Skills](https://img.shields.io/badge/skills-47-blue)
 ![Plugins](https://img.shields.io/badge/plugins-13-purple)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -46,7 +46,7 @@ Copy the skill's `SKILL.md` (or the whole folder) into the path for your tool. F
 |:---:|---|:---:|
 | 📚 | [IB & IGCSE Coursework](#-ib--igcse-coursework) | 3 skills |
 | 🗂️ | [Study & Productivity](#️-study--productivity) | 13 skills |
-| 💻 | [Coding & CS Education](#-coding--cs-education) | 11 skills |
+| 💻 | [Coding & CS Education](#-coding--cs-education) | 12 skills |
 | 🔬 | [STEM Subjects](#-stem-subjects) | 4 skills |
 | ✍️ | [Writing & Humanities](#️-writing--humanities) | 4 skills |
 | 🎓 | [College Applications & Career](#-college-applications--career) | 5 skills |
@@ -106,7 +106,7 @@ Spaced repetition, time and task management, note-taking, and focus.
 Algorithm and debugging explainers, learn-to-code starters, and CS project tooling.
 
 <details>
-<summary>Show 11 skills</summary>
+<summary>Show 12 skills</summary>
 
 - **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** - Turns any codebase into an interactive HTML course for beginners.
 - **[kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor)** - Personal tutor with adaptive quizzes and SM-2 spaced repetition.
@@ -119,6 +119,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[anthropics/web-artifacts-builder](https://officialskills.sh/anthropics/skills/web-artifacts-builder)** - Builds complex claude.ai HTML artifacts with React and Tailwind — useful for CS project demos and interactive coursework submissions.
 - **[openai/jupyter-notebook](https://officialskills.sh/openai/skills/jupyter-notebook)** - Creates clean, reproducible Jupyter notebooks for experiments and tutorials — essential for data science coursework.
 - **[sickn33/antigravity-awesome-skills — code-documentation-code-explain](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/code-documentation-code-explain)** - Explains complex code through narratives, visual diagrams, and step-by-step breakdowns.
+- **[FlorianBruniaux/claude-code-ultimate-guide — self-assessment](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/tree/main/.claude/skills/self-assessment)** - Assesses your Claude Code skill level and generates a personalized learning path.
 
 </details>
 
