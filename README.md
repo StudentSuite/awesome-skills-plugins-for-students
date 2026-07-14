@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-51-blue)
+![Skills](https://img.shields.io/badge/skills-52-blue)
 ![Plugins](https://img.shields.io/badge/plugins-13-purple)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -46,7 +46,7 @@ Copy the skill's `SKILL.md` (or the whole folder) into the path for your tool. F
 |:---:|---|:---:|
 | 📚 | [IB & IGCSE Coursework](#-ib--igcse-coursework) | 3 skills |
 | 🗂️ | [Study & Productivity](#️-study--productivity) | 15 skills |
-| 💻 | [Coding & CS Education](#-coding--cs-education) | 12 skills |
+| 💻 | [Coding & CS Education](#-coding--cs-education) | 13 skills |
 | 🔬 | [STEM Subjects](#-stem-subjects) | 4 skills |
 | ✍️ | [Writing & Humanities](#️-writing--humanities) | 5 skills |
 | 🎓 | [College Applications & Career](#-college-applications--career) | 6 skills |
@@ -108,7 +108,7 @@ Spaced repetition, time and task management, note-taking, and focus.
 Algorithm and debugging explainers, learn-to-code starters, and CS project tooling.
 
 <details>
-<summary>Show 12 skills</summary>
+<summary>Show 13 skills</summary>
 
 - **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** - Turns any codebase into an interactive HTML course for beginners.
 - **[kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor)** - Personal tutor with adaptive quizzes and SM-2 spaced repetition.

@@ -34,10 +34,21 @@ Keep the description to one line, roughly 10 words or fewer. Lead with the verb,
 - A **plugin** (a bundle of commands, agents, hooks, or MCP servers, not a single skill file) goes under [Plugins](README.md#plugins) instead, regardless of subject area.
 - If nothing fits, open an issue first to discuss a new section before adding one.
 
+## Update the counts
+
+Adding an entry means three numbers go up by one, all in `README.md`:
+
+1. The `<summary>Show N skills</summary>` (or `plugins`) line for the section you added to.
+2. The section's row in the [Table of Contents](README.md#table-of-contents) (`N skills` / `N plugins`).
+3. The top badge: `![Skills](...)` for a skill, `![Plugins](...)` for a plugin.
+
+PRs that add an entry without bumping these will be asked to update before merge.
+
 ## Submitting
 
 1. Fork the repo, add your single bullet to the right section.
-2. Open a PR titled `Add skill: author/skill-name` or `Add plugin: author/plugin-name`.
-3. In the PR description, link the repo and say in one sentence why it's useful to students.
+2. Bump the counts (see above).
+3. Open a PR titled `Add skill: author/skill-name` or `Add plugin: author/plugin-name`.
+4. In the PR description, link the repo and say in one sentence why it's useful to students.
 
 One entry per PR keeps review fast. Entries are added in the order they're merged; no need to alphabetize.
