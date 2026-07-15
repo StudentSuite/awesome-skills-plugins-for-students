@@ -1,0 +1,68 @@
+name: Suggest a skill or plugin
+description: Suggest a skill or plugin to add (if you're not opening a PR yourself)
+labels: ["resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Prefer opening a PR directly? See [CONTRIBUTING.md](../../blob/main/CONTRIBUTING.md) for the entry format. Use this form if you'd rather suggest it and let a maintainer add it.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The repo slug, as author/name
+      placeholder: author/skill-name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      description: The public repo or skill page, not an affiliate or referral link
+      placeholder: https://github.com/author/skill-name
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Is it a skill or a plugin?
+      description: A plugin is a bundle of commands, agents, hooks, or MCP servers; a skill is a single SKILL.md capability.
+      options:
+        - Skill
+        - Plugin
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Where should it go?
+      description: Pick the closest matching section from the README (skills only; plugins all go under Plugins)
+      options:
+        - IB & IGCSE Coursework
+        - Study & Productivity
+        - Coding & CS Education
+        - STEM Subjects
+        - Writing & Humanities
+        - College Applications & Career
+        - Google Workspace for Students
+        - Plugins
+        - Not sure / none of these fit
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why does this help students?
+      description: One or two sentences on what it does and who it helps.
+    validations:
+      required: true
+  - type: checkboxes
+    id: standards
+    attributes:
+      label: Quality Standards
+      description: Confirm this meets the [Quality Standards](../../blob/main/README.md#quality-standards)
+      options:
+        - label: Public repo, cloneable without requesting access
+          required: true
+        - label: Documented (README or SKILL.md) and a real, working skill or plugin, not a stub
+          required: true
