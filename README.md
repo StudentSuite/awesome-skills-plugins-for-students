@@ -154,6 +154,8 @@ Essay structuring, academic research, literature analysis, and language learning
 
 Personal statements, resume building, interview prep, and side-project launches.
 
+Several resume tools overlap here. To pick one: **tailored-resume-generator** and **resume-tailoring-skill** do plain tailoring to a single job description; **ResumeSkills** adds ATS-compatibility scoring and interview prep; **career-ops** wraps a full job-search workflow that also scores listings and tracks applications; and **resume-tailor-plugin** (under [Plugins](#plugins)) is the same tailoring packaged as a full Claude Code plugin rather than a single skill.
+
 <details open>
 <summary>Show 6 skills</summary>
 
