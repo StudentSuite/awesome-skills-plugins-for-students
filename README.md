@@ -27,6 +27,8 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 
 > Within each section, entries are ordered alphabetically. See the [Quality Standards](#quality-standards) for what earns a spot.
 >
+> A 🔑 marks entries that need a paid API key or a separate account before they work, beyond a local agent install.
+>
 > Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/new/choose) &middot; [Changelog](CHANGELOG.md)
 
 ---
@@ -79,7 +81,7 @@ Spaced repetition, time and task management, note-taking, and focus.
 - **[jakedahn/pomodoro](https://github.com/jakedahn/pomodoro)** - Pomodoro timer skill that tracks and learns from your focus sessions.
 - **[mattpocock/skills - handoff](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff)** - Compresses a long study session into a handoff doc so a fresh agent can continue where you left off.
 - **[mattpocock/skills - teach](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach)** - Multi-session instructor that scaffolds HTML lessons, tracks learning records, and builds reference cheat sheets.
-- **[openai/transcribe](https://officialskills.sh/openai/skills/transcribe)** - Transcribes audio files to text with optional speaker diarization, great for recording and reviewing lectures.
+- **[openai/transcribe](https://officialskills.sh/openai/skills/transcribe)** - Transcribes audio files to text with optional speaker diarization, great for recording and reviewing lectures. 🔑
 - **[RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills)** - Turns PDFs, docs, or codebases into Obsidian study vaults with interactive quizzes.
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed-reads long responses at 600+ WPM using RSVP with ORP highlighting.
 - **[sickn33/antigravity-awesome-skills - bulletmind](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/bulletmind)** - Converts any input into clean hierarchical bullet points for note-taking and summarization.
@@ -124,7 +126,7 @@ Math, physics, chemistry, and data analysis helpers.
 
 - **[chrisvoncsefalvay/claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill)** - Builds interactive D3.js charts, graphs, and network diagrams for data analysis and reports.
 - **[googlarz/math-skill](https://github.com/googlarz/math-skill)** - Solves math problems step by step with built-in verification.
-- **[huggingface/hugging-face-datasets](https://officialskills.sh/huggingface/skills/hugging-face-datasets)** - Creates and manages datasets with SQL querying, useful for statistics and data science projects.
+- **[huggingface/hugging-face-datasets](https://officialskills.sh/huggingface/skills/hugging-face-datasets)** - Creates and manages datasets with SQL querying, useful for statistics and data science projects. 🔑
 - **[openai/spreadsheet](https://officialskills.sh/openai/skills/spreadsheet)** - Creates, edits, analyzes, and visualizes spreadsheets with formulas, handy for physics data tables and chemistry calculations.
 
 </details>
