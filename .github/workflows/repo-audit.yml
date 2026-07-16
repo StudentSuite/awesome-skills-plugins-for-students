@@ -1,0 +1,65 @@
+name: Repo Audit
+
+# Every linked entry points to a repo we do not control. Authors sometimes
+# archive a repo (read-only, unmaintained) without deleting it, so a dead-link
+# check will not catch it. This runs monthly and flags any archived repos.
+
+on:
+  schedule:
+    # 1st of every month at 08:00 UTC
+    - cron: "0 8 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Check for archived linked repos
+        id: audit
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          # Collect unique github.com owner/repo slugs linked from the README.
+          grep -oE 'https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+' README.md \
+            | sed -E 's#https://github\.com/##; s#/$##' \
+            | sort -u > slugs.txt
+
+          {
+            echo "The following linked repositories are **archived** on GitHub and"
+            echo "may be unmaintained. Review each and remove or replace it if needed."
+            echo ""
+          } > archived-report.md
+
+          found=0
+          while read -r slug; do
+            # Skip our own org links; owner/repo only (guard against odd matches).
+            case "$slug" in
+              StudentSuite/*) continue ;;
+              */*) : ;;
+              *) continue ;;
+            esac
+            # 404s (renamed/deleted) are handled by the dead-link check; ignore here.
+            if archived=$(gh api "repos/$slug" --jq '.archived' 2>/dev/null); then
+              if [ "$archived" = "true" ]; then
+                echo "- [ ] \`$slug\` - https://github.com/$slug" >> archived-report.md
+                found=1
+              fi
+            fi
+          done < slugs.txt
+
+          echo "found=$found" >> "$GITHUB_OUTPUT"
+
+      - name: Open or update issue with archived repos
+        if: steps.audit.outputs.found == '1'
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: Archived or inactive linked repos
+          content-filepath: archived-report.md
