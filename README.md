@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 ![Skills](https://img.shields.io/badge/skills-53-blue)
-![Plugins](https://img.shields.io/badge/plugins-14-purple)
+![Plugins](https://img.shields.io/badge/plugins-15-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -44,7 +44,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | ✍️ | [Writing & Humanities](#writing--humanities) | 6 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 6 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 6 skills |
-| 🧩 | [Plugins](#plugins) | 14 plugins |
+| 🧩 | [Plugins](#plugins) | 15 plugins |
 
 [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [License](#license)
 
@@ -196,9 +196,10 @@ These skills require the [Google Workspace CLI (`gws`)](https://officialskills.s
 Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, agents, hooks, or MCP servers.
 
 <details open>
-<summary>Show 14 plugins</summary>
+<summary>Show 15 plugins</summary>
 
 - **[alirezarezvani/claude-skills - productivity/capture](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/capture)** - Organizes a brain-dump of mixed thoughts, tasks, and ideas into an actionable list.
+- **[alirezarezvani/claude-skills - productivity/deep-work](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/deep-work)** - Time-blocks the day into deep and shallow work with focus blocks, Cal Newport style.
 - **[alirezarezvani/claude-skills - research/deep-research](https://github.com/alirezarezvani/claude-skills/tree/main/research/deep-research)** - Runs a multi-source research pipeline with citations for high-stakes research questions.
 - **[alirezarezvani/claude-skills - research/litreview](https://github.com/alirezarezvani/claude-skills/tree/main/research/litreview)** - Turns a research question into a planned mini literature review as a Word document.
 - **[alirezarezvani/claude-skills - research/syllabus](https://github.com/alirezarezvani/claude-skills/tree/main/research/syllabus)** - Builds a supplementary reading list and discussion questions from a course syllabus.
