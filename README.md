@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 ![Skills](https://img.shields.io/badge/skills-53-blue)
-![Plugins](https://img.shields.io/badge/plugins-13-purple)
+![Plugins](https://img.shields.io/badge/plugins-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -44,7 +44,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | ✍️ | [Writing & Humanities](#writing--humanities) | 6 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 6 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 6 skills |
-| 🧩 | [Plugins](#plugins) | 13 plugins |
+| 🧩 | [Plugins](#plugins) | 14 plugins |
 
 [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [License](#license)
 
@@ -196,7 +196,7 @@ These skills require the [Google Workspace CLI (`gws`)](https://officialskills.s
 Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, agents, hooks, or MCP servers.
 
 <details open>
-<summary>Show 13 plugins</summary>
+<summary>Show 14 plugins</summary>
 
 - **[alirezarezvani/claude-skills - productivity/capture](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/capture)** - Organizes a brain-dump of mixed thoughts, tasks, and ideas into an actionable list.
 - **[alirezarezvani/claude-skills - research/deep-research](https://github.com/alirezarezvani/claude-skills/tree/main/research/deep-research)** - Runs a multi-source research pipeline with citations for high-stakes research questions.
@@ -209,6 +209,7 @@ Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, 
 - **[JeanDiable/academic-research-plugin](https://github.com/JeanDiable/academic-research-plugin)** - Plugin for literature surveys, paper reviews, and citation management.
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - Compresses agent responses into concise caveman-style language, reducing token usage while preserving technical accuracy. Supports Claude Code, Cursor, Copilot, and 30+ other agents.
 - **[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)** - 140+ science skills covering biology, chemistry, medicine, and 100+ scientific databases.
+- **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** - Reads, writes, and organizes Obsidian notes, canvases, and databases via the Obsidian CLI.
 - **[obra/superpowers](https://github.com/obra/superpowers)** - 20+ skills for spec-to-code workflows with TDD, brainstorming, and subagent-driven planning commands.
 - **[olegvg/resume-tailor-plugin](https://github.com/olegvg/resume-tailor-plugin)** - Claude Code plugin that tailors your resume to a job post.
 
