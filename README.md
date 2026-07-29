@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-52-blue)
+![Skills](https://img.shields.io/badge/skills-53-blue)
 ![Plugins](https://img.shields.io/badge/plugins-13-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -41,7 +41,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 🗂️ | [Study & Productivity](#study--productivity) | 15 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 13 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 4 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 5 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 6 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 6 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 6 skills |
 | 🧩 | [Plugins](#plugins) | 13 plugins |
@@ -138,12 +138,13 @@ Math, physics, chemistry, and data analysis helpers.
 Essay structuring, academic research, literature analysis, and language learning.
 
 <details open>
-<summary>Show 5 skills</summary>
+<summary>Show 6 skills</summary>
 
 - **[ComposioHQ/awesome-claude-skills - content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
 - **[mattpocock/skills - edit-article](https://github.com/mattpocock/skills/tree/main/skills/personal/edit-article)** - Restructures article drafts by section and tightens prose for clarity.
 - **[NeoLabHQ/context-engineering-kit - write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely)** - Applies *The Elements of Style* principles to tighten essays and cut wordiness.
+- **[phuryn/pm-skills - grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)** - Flags grammar, logic, and flow errors with targeted fixes, no full rewrite.
 - **[xwmxcz/papers-skill](https://github.com/xwmxcz/papers-skill)** - Searches 200M+ papers on Semantic Scholar, inspects citations, and downloads arXiv PDFs.
 
 </details>
