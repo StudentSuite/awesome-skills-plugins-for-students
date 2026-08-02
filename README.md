@@ -262,6 +262,12 @@ Every entry in this list meets all of the following:
 
 PRs adding a skill or plugin are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for the entry format and PR checklist.
 
+## Contributors
+
+Thanks to everyone who has added a skill, fixed an entry, or improved the format.
+
+[![Contributors](https://contrib.rocks/image?repo=StudentSuite/awesome-skills-plugins-for-students)](https://github.com/StudentSuite/awesome-skills-plugins-for-students/graphs/contributors)
+
 ## More from StudentSuite
 
 Looking for software, tools, textbooks, and other resources beyond skills and plugins? See the sibling list: [awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources).
