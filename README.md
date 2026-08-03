@@ -46,7 +46,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 6 skills |
 | 🧩 | [Plugins](#plugins) | 15 plugins |
 
-[Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [License](#license)
+[Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [License](#license)
 
 ---
 
