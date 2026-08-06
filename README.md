@@ -46,7 +46,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 6 skills |
 | 🧩 | [Plugins](#plugins) | 15 plugins |
 
-[Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [License](#license)
+[Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
 
 ---
 
@@ -271,6 +271,12 @@ Thanks to everyone who has added a skill, fixed an entry, or improved the format
 ## More from StudentSuite
 
 Looking for software, tools, textbooks, and other resources beyond skills and plugins? See the sibling list: [awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources).
+
+## Sister lists
+
+- [awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources) - Tools, textbooks and channels for students.
+- [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) - Exam and subject study material.
+- [awesome-skills-plugins-for-students](https://github.com/StudentSuite/awesome-skills-plugins-for-students) - AI coding agent skills and plugins.
 
 ## License
 
