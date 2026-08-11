@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-60-blue)
+![Skills](https://img.shields.io/badge/skills-61-blue)
 ![Plugins](https://img.shields.io/badge/plugins-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -41,7 +41,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 4 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 17 skills |
-| 💻 | [Coding & CS Education](#coding--cs-education) | 13 skills |
+| 💻 | [Coding & CS Education](#coding--cs-education) | 14 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 6 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 7 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 7 skills |
@@ -102,13 +102,14 @@ Spaced repetition, time and task management, note-taking, and focus.
 Algorithm and debugging explainers, learn-to-code starters, and CS project tooling.
 
 <details open>
-<summary>Show 13 skills</summary>
+<summary>Show 14 skills</summary>
 
 - **[0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly)** - Maps codebases into graph-backed architecture evidence.
 - **[anthropics/web-artifacts-builder](https://officialskills.sh/anthropics/skills/web-artifacts-builder)** - Builds complex claude.ai HTML artifacts with React and Tailwind, useful for CS project demos and interactive coursework submissions.
 - **[ComposioHQ/awesome-claude-skills - artifacts-builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder)** - Builds multi-component React/Tailwind HTML artifacts for interactive demos and projects.
 - **[ComposioHQ/awesome-claude-skills - developer-growth-analysis](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/developer-growth-analysis)** - Analyzes your Claude Code chat history to surface coding patterns and learning gaps.
 - **[FlorianBruniaux/claude-code-ultimate-guide - self-assessment](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/tree/main/.claude/skills/self-assessment)** - Assesses your Claude Code skill level and generates a personalized learning path.
+- **[karanb192/algo-sensei](https://github.com/karanb192/algo-sensei)** - Generates LeetCode-style problems with progressive hints and mock interviews.
 - **[kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor)** - Personal tutor with adaptive quizzes and SM-2 spaced repetition.
 - **[mattpocock/skills - diagnosing-bugs](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs)** - Disciplined debug loop: reproduce, minimize, hypothesize, instrument, fix.
 - **[mattpocock/skills - git-guardrails-claude-code](https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code)** - Blocks dangerous git commands (push, reset --hard, clean) via Claude Code hooks.
