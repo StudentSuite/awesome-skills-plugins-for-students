@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-52-blue)
+![Skills](https://img.shields.io/badge/skills-53-blue)
 ![Plugins](https://img.shields.io/badge/plugins-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -39,7 +39,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 
 | | Section | Count |
 | :-: | --- | :-: |
-| 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 3 skills |
+| 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 4 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 15 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 13 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 4 skills |
@@ -57,10 +57,11 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 IA, EE, and TOK helpers: citation formatting, rubric feedback, and document tooling.
 
 <details open>
-<summary>Show 3 skills</summary>
+<summary>Show 4 skills</summary>
 
 - **[anthropics/doc-coauthoring](https://officialskills.sh/anthropics/skills/doc-coauthoring)** - Collaborative document editing and co-authoring, handy for group IAs or shared EE drafts.
 - **[anthropics/pdf](https://officialskills.sh/anthropics/skills/pdf)** - Extracts text from PDFs, creates new PDFs, and fills forms, useful for working with past papers and mark schemes.
+- **[David-Saeteros/claude-skills - academic-writing](https://github.com/David-Saeteros/claude-skills/tree/main/skills/academic-writing)** - Reviews and cites thesis or essay drafts against supervisor feedback and style guides.
 - **[saulmcphd/apa-style](https://github.com/saulmcphd/apa-style)** - Proofreads papers against APA 7th edition rules with inline corrections.
 
 </details>
