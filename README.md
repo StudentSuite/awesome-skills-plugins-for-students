@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-55-blue)
+![Skills](https://img.shields.io/badge/skills-56-blue)
 ![Plugins](https://img.shields.io/badge/plugins-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -43,7 +43,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 🗂️ | [Study & Productivity](#study--productivity) | 15 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 13 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 6 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 5 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 6 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 6 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 6 skills |
 | 🧩 | [Plugins](#plugins) | 14 plugins |
@@ -143,8 +143,9 @@ Math, physics, chemistry, and data analysis helpers.
 Essay structuring, academic research, literature analysis, and language learning.
 
 <details open>
-<summary>Show 5 skills</summary>
+<summary>Show 6 skills</summary>
 
+- **[basicmachines-co/basic-memory - memory-literary-analysis](https://github.com/basicmachines-co/basic-memory/tree/main/skills/memory-literary-analysis)** - Analyzes literary works into a searchable knowledge graph.
 - **[ComposioHQ/awesome-claude-skills - content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
 - **[NeoLabHQ/context-engineering-kit - write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely)** - Applies *The Elements of Style* principles to tighten essays and cut wordiness.
