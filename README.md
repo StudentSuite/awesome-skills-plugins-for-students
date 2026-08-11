@@ -29,6 +29,8 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 >
 > A 🔑 marks entries that need a paid API key or a separate account before they work, beyond a local agent install.
 >
+> None of the entries below need browser automation or full computer-use access beyond a standard local agent install. If you add one that does, note it in your PR so we can introduce a marker for it.
+>
 > Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/new/choose) &middot; [Changelog](CHANGELOG.md)
 
 ---
