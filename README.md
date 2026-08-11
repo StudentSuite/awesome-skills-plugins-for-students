@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-56-blue)
+![Skills](https://img.shields.io/badge/skills-58-blue)
 ![Plugins](https://img.shields.io/badge/plugins-14-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -40,10 +40,10 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | | Section | Count |
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 4 skills |
-| 🗂️ | [Study & Productivity](#study--productivity) | 15 skills |
+| 🗂️ | [Study & Productivity](#study--productivity) | 16 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 13 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 6 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 6 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 7 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 6 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 6 skills |
 | 🧩 | [Plugins](#plugins) | 14 plugins |
@@ -73,7 +73,7 @@ IA, EE, and TOK helpers: citation formatting, rubric feedback, and document tool
 Spaced repetition, time and task management, note-taking, and focus.
 
 <details open>
-<summary>Show 15 skills</summary>
+<summary>Show 16 skills</summary>
 
 - **[anthropics/docx](https://officialskills.sh/anthropics/skills/docx)** - Creates and edits Word documents with tracked changes, comments, and formatting.
 - **[anthropics/internal-comms](https://officialskills.sh/anthropics/skills/internal-comms)** - Writes status reports, newsletters, and FAQs, good for group project updates and lab reports.
@@ -85,6 +85,7 @@ Spaced repetition, time and task management, note-taking, and focus.
 - **[mattpocock/skills - handoff](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff)** - Compresses a long study session into a handoff doc so a fresh agent can continue where you left off.
 - **[mattpocock/skills - teach](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach)** - Multi-session instructor that scaffolds HTML lessons, tracks learning records, and builds reference cheat sheets.
 - **[openai/transcribe](https://officialskills.sh/openai/skills/transcribe)** - 🔑 Transcribes audio files to text with optional speaker diarization, great for recording and reviewing lectures.
+- **[pinakdhabu/Exam-prompt](https://github.com/pinakdhabu/Exam-prompt)** - Generates exam answers, notes, and study plans for any university.
 - **[RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills)** - Turns PDFs, docs, or codebases into Obsidian study vaults with interactive quizzes.
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed-reads long responses at 600+ WPM using RSVP with ORP highlighting.
 - **[sickn33/antigravity-awesome-skills - bulletmind](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/bulletmind)** - Converts any input into clean hierarchical bullet points for note-taking and summarization.
@@ -143,8 +144,9 @@ Math, physics, chemistry, and data analysis helpers.
 Essay structuring, academic research, literature analysis, and language learning.
 
 <details open>
-<summary>Show 6 skills</summary>
+<summary>Show 7 skills</summary>
 
+- **[ayushsao/Capgemini_essay](https://github.com/ayushsao/Capgemini_essay)** - Analyzes student essays and scores grammar, vocabulary, and structure.
 - **[basicmachines-co/basic-memory - memory-literary-analysis](https://github.com/basicmachines-co/basic-memory/tree/main/skills/memory-literary-analysis)** - Analyzes literary works into a searchable knowledge graph.
 - **[ComposioHQ/awesome-claude-skills - content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
