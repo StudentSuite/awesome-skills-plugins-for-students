@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-62-blue)
+![Skills](https://img.shields.io/badge/skills-63-blue)
 ![Plugins](https://img.shields.io/badge/plugins-15-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -40,7 +40,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | | Section | Count |
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 4 skills |
-| 🗂️ | [Study & Productivity](#study--productivity) | 17 skills |
+| 🗂️ | [Study & Productivity](#study--productivity) | 18 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 14 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 6 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 7 skills |
@@ -73,7 +73,7 @@ IA, EE, and TOK helpers: citation formatting, rubric feedback, and document tool
 Spaced repetition, time and task management, note-taking, and focus.
 
 <details open>
-<summary>Show 17 skills</summary>
+<summary>Show 18 skills</summary>
 
 - **[anthropics/docx](https://officialskills.sh/anthropics/skills/docx)** - Creates and edits Word documents with tracked changes, comments, and formatting.
 - **[anthropics/internal-comms](https://officialskills.sh/anthropics/skills/internal-comms)** - Writes status reports, newsletters, and FAQs, good for group project updates and lab reports.
@@ -86,6 +86,7 @@ Spaced repetition, time and task management, note-taking, and focus.
 - **[mattpocock/skills - teach](https://github.com/mattpocock/skills/tree/main/skills/productivity/teach)** - Multi-session instructor that scaffolds HTML lessons, tracks learning records, and builds reference cheat sheets.
 - **[mordor-forge/study-skill](https://github.com/mordor-forge/study-skill)** - Builds spaced-repetition study workspaces with FSRS-based lesson review scheduling.
 - **[openai/transcribe](https://officialskills.sh/openai/skills/transcribe)** - 🔑 Transcribes audio files to text with optional speaker diarization, great for recording and reviewing lectures.
+- **[peter209393/anki-card-skills](https://github.com/peter209393/anki-card-skills)** - Builds importable Anki decks with basic, reversed, and cloze cards.
 - **[pinakdhabu/Exam-prompt](https://github.com/pinakdhabu/Exam-prompt)** - Generates exam answers, notes, and study plans for any university.
 - **[RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills)** - Turns PDFs, docs, or codebases into Obsidian study vaults with interactive quizzes.
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed-reads long responses at 600+ WPM using RSVP with ORP highlighting.
