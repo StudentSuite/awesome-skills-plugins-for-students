@@ -149,6 +149,8 @@ Math, physics, chemistry, and data analysis helpers.
 
 Essay structuring, academic research, literature analysis, and language learning.
 
+Two entries both flag writing errors. **phuryn/pm-skills - grammar-check** targets grammar, logic, and flow with minimal rewriting; **ayushsao/Capgemini_essay** scores an essay's grammar, vocabulary, and structure and charts the feedback.
+
 <details open>
 <summary>Show 7 skills</summary>
 
