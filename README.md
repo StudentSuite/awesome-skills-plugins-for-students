@@ -268,7 +268,7 @@ Claude Code plugins (full bundles) install via `.claude-plugin/marketplace.json`
 
 Every entry in this list meets all of the following:
 
-- [ ] **Public repo** - cloneable without requesting access.
+- [ ] **Public repo** - cloneable without requesting access. A few entries link to [officialskills.sh](https://officialskills.sh) instead of a GitHub repo directly (`anthropics/*`, `openai/*`, `huggingface/*`, `googleworkspace/gws-*`) — that's fine as long as the page is public and the skill's source is inspectable there; it does not need its own separate GitHub repo.
 - [ ] **Documented** - has a README or SKILL.md explaining what it does and how to install it.
 - [ ] **Works** - built for at least one of the tools in the compatibility table above.
 - [ ] **Real, not a stub** - actual working skill, not a placeholder created to pad this list.
