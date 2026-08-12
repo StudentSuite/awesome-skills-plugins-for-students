@@ -56,6 +56,8 @@ Adding an entry means three numbers go up by one, all in `README.md`:
 
 PRs that add an entry without bumping these will be asked to update before merge.
 
+Removing an entry (see the [Security Notice](README.md#security-notice)) works the same way in reverse: decrement the same three numbers by one.
+
 ---
 
 ## Submitting
