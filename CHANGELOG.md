@@ -8,6 +8,47 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Added (2026-08-12 issue-clearing pass)
+
+- 12 skills/plugins closing 12 open issues: `David-Saeteros/claude-skills` -
+  academic-writing and `dbosk/introagents` - honor-defense-prep (IB & IGCSE
+  Coursework); `ghutchis/chem-skill` and `wentorai/research-plugins` -
+  inaturalist-api (STEM Subjects); `basicmachines-co/basic-memory` -
+  memory-literary-analysis and `ayushsao/Capgemini_essay` (Writing &
+  Humanities); `pinakdhabu/Exam-prompt` and `mordor-forge/study-skill` (Study
+  & Productivity); `X-tong6/pscher` (College Applications & Career);
+  `karanb192/algo-sensei` (Coding & CS Education); `HashemALSKKkAF/exam-prep-mcq`
+  (Google Workspace for Students); and `WenyuChiou/zotero-skills` and
+  `emili-kosik/admission-skills` (Plugins) from a second round of 10
+  issues opened and closed the same pass.
+- `peter209393/anki-card-skills` (Study & Productivity).
+- Skills and Plugins badges now read 64 and 16 respectively.
+
+### Changed (2026-08-12)
+
+- Added clarifying notes distinguishing the overlapping spaced-repetition
+  tools in Study & Productivity and the overlapping grammar-checking tools
+  in Writing & Humanities, matching the existing resume-tools note under
+  College Applications & Career.
+- Documented that officialskills.sh-hosted entries meet the "public repo"
+  Quality Standard without needing a separate GitHub repo.
+- Added a note that no listed entry currently needs browser automation or
+  full computer-use access, plus a matching PR template checklist item.
+- `CONTRIBUTING.md` now documents decrementing the three entry counts when
+  removing an entry, not just incrementing them when adding one.
+- Backfilled `CHANGELOG.md` with curated entries from earlier sessions that
+  were never logged (see the bullet list above this one).
+
+### Fixed / Removed (2026-08-12)
+
+- Removed `mattpocock/skills` - edit-article (404, the skill no longer
+  exists in that repo after a directory reorganization) and
+  `gsd-build/get-shit-done` (archived on GitHub).
+- Fixed the Sister lists section listing this repo as its own sister list.
+- Closed two issues suggesting unrelated blog articles as out of scope for
+  a skills/plugins list, and closed four issues (three from a concurrent
+  maintainer pass, one of our own) as duplicates of work already merged.
+
 ### Added
 
 - New curated entries: `0xsarwagya/ontoly` (Coding & CS Education),
