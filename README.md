@@ -73,6 +73,8 @@ IA, EE, and TOK helpers: citation formatting, rubric feedback, and document tool
 
 Spaced repetition, time and task management, note-taking, and focus.
 
+Several spaced-repetition study tools overlap here. To pick one: **hluaguo/learn-faster-kit** is a general learning coach with syllabi and progress tracking; **RoundTable02/tutor-skills** turns source material into an Obsidian vault with quizzes; **sickn33/antigravity-awesome-skills - examprep-ai** ranks topics into a scored study roadmap; and **mordor-forge/study-skill** runs FSRS-scheduled lesson review sessions with git-tracked progress.
+
 <details open>
 <summary>Show 18 skills</summary>
 
