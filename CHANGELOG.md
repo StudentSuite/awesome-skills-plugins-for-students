@@ -14,6 +14,35 @@ software), but releases are still tagged so changes are easy to point to.
   `phuryn/pm-skills` grammar-check (Writing & Humanities), and two Plugins —
   `kepano/obsidian-skills` (Obsidian note-taking bundle) and
   `alirezarezvani/claude-skills` deep-work (Cal Newport time-blocking).
+- Also unlogged from earlier curation passes:
+  - `mattpocock/skills` - `teach`, `handoff`, `diagnosing-bugs`, `tdd`,
+    `git-guardrails-claude-code`, `resolving-merge-conflicts`.
+  - `ComposioHQ/awesome-claude-skills` - `file-organizer`,
+    `document-skills/pptx`, `developer-growth-analysis`, `artifacts-builder`,
+    `content-research-writer`, `domain-name-brainstormer`,
+    `tailored-resume-generator`.
+  - Sourced via `travisvn/awesome-claude-skills`: `zarazhangrui/frontend-slides`,
+    `anthropics/docx`, `anthropics/xlsx`, `chrisvoncsefalvay/claude-d3js-skill`,
+    and two Plugins, `K-Dense-AI/claude-scientific-skills` and
+    `obra/superpowers`.
+  - Sourced via `sickn33/antigravity-awesome-skills`: `examprep-ai`,
+    `bulletmind`, `xwmxcz/papers-skill`, `code-documentation-code-explain`, and
+    the `dair-ai/dair-academy-plugins` bundle (`youtube-notetaker`,
+    `lesson-generator`, `wiki-builder`).
+  - Sourced via `alirezarezvani/claude-skills`: `research/litreview`,
+    `research/syllabus`, `research/deep-research`, `productivity/capture`.
+  - Sourced via `VoltAgent/awesome-agent-skills`: `RoundTable02/tutor-skills`,
+    `SeanZoR/claude-speed-reader`, `santifer/career-ops`.
+  - `FlorianBruniaux/claude-code-ultimate-guide` - `self-assessment`.
+  - Baseline entries present before source-tracking began:
+    `saulmcphd/apa-style`, `jakedahn/pomodoro`, `hluaguo/learn-faster-kit`,
+    `zarazhangrui/codebase-to-course`, `kirilxd/claude-tutor`,
+    `googlarz/math-skill`, `Master-cai/Research-Paper-Writing-Skills`,
+    `Paramchoudhary/ResumeSkills`, `varunr89/resume-tailoring-skill`,
+    `AnayDhawan/oss-launch`, `olegvg/resume-tailor-plugin`,
+    `JeanDiable/academic-research-plugin`, `JuliusBrussee/caveman`.
+- A Contributors section (with a contrib.rocks badge) and a cross-link footer
+  to the sister lists.
 - A 🔑 marker convention that flags entries needing a paid API key or a
   separate account beyond a local agent install.
 - `SECURITY.md`, `.editorconfig`, a `CODE_OF_CONDUCT.md` (Contributor Covenant
