@@ -8,6 +8,35 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Added (2026-08-13 issue-clearing pass)
+
+- 14 skills closing 13 open issues: `davila7/claude-code-templates` -
+  literature-review and `Imbad0202/academic-research-skills` (IB & IGCSE
+  Coursework, from the same issue); `hameefy/claude-latex-skill` (also IB &
+  IGCSE Coursework); `abelsr/Computational-Physics` and
+  `majiayu000/claude-skill-registry` - statistics-math and
+  `juanlurg/data-science-claude-skills` - experiment-tracker (STEM Subjects);
+  `aidankinzett/claude-git-pr-skill` and `hmohamed01/SQL-Expert` (Coding & CS
+  Education); `kgraph57/paper-writer-skill` and `davila7/claude-code-templates`
+  - email-composer (Writing & Humanities); `kevinryan-au/claude-cover-letter`,
+  `borghei/Claude-Skills` - research/grants, and `sourikduttanyu/interview-prep`
+  (College Applications & Career); `googleworkspace/gws-gmail` (Google
+  Workspace for Students).
+- Skills badge now reads 78.
+
+### Fixed (2026-08-13)
+
+- `.github/ISSUE_TEMPLATE/skill_suggestion.yml` pointed at a `resource` label
+  that didn't exist; it now uses `content`.
+- Compatibility Paths now explains how Cursor, Copilot, and Gemini CLI users
+  install a multi-skill plugin bundle (pull the individual files out, no
+  native bundle format for those tools).
+- `dead-link-check.yml` and `markdownlint.yml` now also cover SECURITY.md and
+  CONTRIBUTORS.md; both workflows also retrigger when edited themselves.
+- The README's Contributors section now links to CONTRIBUTORS.md.
+- CODE_OF_CONDUCT.md no longer suggests a public issue as an enforcement
+  report channel, matching the private-reporting promise a few lines later.
+
 ### Added (2026-08-12 issue-clearing pass)
 
 - 12 skills/plugins closing 12 open issues: `David-Saeteros/claude-skills` -
