@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-69-blue)
+![Skills](https://img.shields.io/badge/skills-70-blue)
 ![Plugins](https://img.shields.io/badge/plugins-16-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -44,7 +44,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 💻 | [Coding & CS Education](#coding--cs-education) | 14 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 8 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 7 skills |
-| 🎓 | [College Applications & Career](#college-applications--career) | 8 skills |
+| 🎓 | [College Applications & Career](#college-applications--career) | 9 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 7 skills |
 | 🧩 | [Plugins](#plugins) | 16 plugins |
 
@@ -177,9 +177,10 @@ Personal statements, resume building, interview prep, and side-project launches.
 Several resume tools overlap here. To pick one: **tailored-resume-generator** and **resume-tailoring-skill** do plain tailoring to a single job description; **ResumeSkills** adds ATS-compatibility scoring and interview prep; **career-ops** wraps a full job-search workflow that also scores listings and tracks applications; and **resume-tailor-plugin** (under [Plugins](#plugins)) is the same tailoring packaged as a full Claude Code plugin rather than a single skill.
 
 <details open>
-<summary>Show 8 skills</summary>
+<summary>Show 9 skills</summary>
 
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
+- **[borghei/Claude-Skills - research/grants](https://github.com/borghei/Claude-Skills/tree/main/research/grants)** - Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate.
 - **[ComposioHQ/awesome-claude-skills - domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer)** - Generates domain name ideas and checks availability across TLDs for side projects.
 - **[ComposioHQ/awesome-claude-skills - tailored-resume-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/tailored-resume-generator)** - Analyzes job descriptions and tailors resumes to highlight relevant experience and skills.
 - **[kevinryan-au/claude-cover-letter](https://github.com/kevinryan-au/claude-cover-letter)** - Turns a pasted job posting into a tailored, one-page cover letter.
