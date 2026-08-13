@@ -45,7 +45,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 🔬 | [STEM Subjects](#stem-subjects) | 8 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 7 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 9 skills |
-| 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 7 skills |
+| 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 8 skills |
 | 🧩 | [Plugins](#plugins) | 16 plugins |
 
 [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
@@ -198,11 +198,12 @@ Several resume tools overlap here. To pick one: **tailored-resume-generator** an
 Skills for Google's tools: Docs, Slides, Classroom, and more. Useful if your school runs on Google Workspace for Education.
 
 <details open>
-<summary>Show 7 skills</summary>
+<summary>Show 8 skills</summary>
 
 - **[googleworkspace/gws-classroom](https://officialskills.sh/googleworkspace/skills/gws-classroom)** - Manage Google Classroom classes, rosters, and coursework via the `gws` CLI.
 - **[googleworkspace/gws-docs](https://officialskills.sh/googleworkspace/skills/gws-docs)** - Read and write Google Docs documents via the `gws` CLI.
 - **[googleworkspace/gws-drive](https://officialskills.sh/googleworkspace/skills/gws-drive)** - Manage Google Drive files, folders, and shared drives, handy for keeping coursework organized.
+- **[googleworkspace/gws-gmail](https://officialskills.sh/googleworkspace/skills/gws-gmail)** - Send, read, and manage Gmail messages, labels, and drafts via the `gws` CLI.
 - **[googleworkspace/gws-sheets](https://officialskills.sh/googleworkspace/skills/gws-sheets)** - Read and write Google Sheets spreadsheets via the `gws` CLI.
 - **[googleworkspace/gws-slides](https://officialskills.sh/googleworkspace/skills/gws-slides)** - Read and write Google Slides presentations via the `gws` CLI.
 - **[googleworkspace/gws-tasks](https://officialskills.sh/googleworkspace/skills/gws-tasks)** - Manage Google Tasks task lists and tasks via the `gws` CLI.
