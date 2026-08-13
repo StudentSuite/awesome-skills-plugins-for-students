@@ -73,7 +73,7 @@ One entry per PR keeps review fast. Every list is sorted alphabetically (case-in
 
 ## CI checks
 
-A CI check runs `scripts/check-list-format.mjs` on every PR that touches README.md. It verifies the entry format, alphabetical order, and that the Table of Contents matches the section headings. Run it yourself before opening a PR with:
+A CI check runs `scripts/check-list-format.mjs` on every PR that touches README.md. It verifies the entry format, alphabetical order, that the Table of Contents matches the section headings, and that the badge, Table of Contents, and section-summary counts match the actual entries. Run it yourself before opening a PR with:
 
 ```sh
 node scripts/check-list-format.mjs
