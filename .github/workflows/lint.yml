@@ -5,6 +5,7 @@ on:
     paths:
       - README.md
       - scripts/check-list-format.mjs
+      - scripts/check-counts*.mjs
       - scripts/audit-duplicate-urls.mjs
       - .github/workflows/lint.yml
   push:
@@ -13,6 +14,7 @@ on:
     paths:
       - README.md
       - scripts/check-list-format.mjs
+      - scripts/check-counts*.mjs
       - scripts/audit-duplicate-urls.mjs
       - .github/workflows/lint.yml
 
@@ -24,6 +26,7 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: 20
+      - run: node --test scripts/*.test.mjs
       - run: node scripts/check-list-format.mjs
       # Informational only: reports cross-section URL reuse, never fails the job.
       - run: node scripts/audit-duplicate-urls.mjs

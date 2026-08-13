@@ -4,14 +4,17 @@
 //   - entries within each list are sorted alphabetically, case-insensitive
 //   - no duplicate URLs within the same list
 //   - every section heading has a matching Table of Contents entry, and vice versa
+//   - section and badge counts match the actual number of entries
 
 import { readFileSync } from 'node:fs';
+import { validateCountDeclarations } from './check-counts.mjs';
 
 const README_PATH = new URL('../README.md', import.meta.url);
 const readme = readFileSync(README_PATH, 'utf8');
 const lines = readme.split('\n');
 
 const errors = [];
+errors.push(...validateCountDeclarations(readme));
 
 function slugify(text) {
   return text
@@ -127,5 +130,7 @@ if (errors.length) {
   for (const e of errors) console.error(`  ${e}\n`);
   process.exit(1);
 } else {
-  console.log('✔ README.md list format, alphabetical order, and Table of Contents all check out.');
+  console.log(
+    '✔ README.md list format, alphabetical order, Table of Contents, and counts all check out.'
+  );
 }
