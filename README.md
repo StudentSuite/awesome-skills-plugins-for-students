@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-73-blue)
+![Skills](https://img.shields.io/badge/skills-74-blue)
 ![Plugins](https://img.shields.io/badge/plugins-16-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -43,7 +43,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 🗂️ | [Study & Productivity](#study--productivity) | 18 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 16 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 8 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 7 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 8 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 9 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 8 skills |
 | 🧩 | [Plugins](#plugins) | 16 plugins |
@@ -158,11 +158,12 @@ Essay structuring, academic research, literature analysis, and language learning
 Two entries both flag writing errors. **phuryn/pm-skills - grammar-check** targets grammar, logic, and flow with minimal rewriting; **ayushsao/Capgemini_essay** scores an essay's grammar, vocabulary, and structure and charts the feedback.
 
 <details open>
-<summary>Show 7 skills</summary>
+<summary>Show 8 skills</summary>
 
 - **[ayushsao/Capgemini_essay](https://github.com/ayushsao/Capgemini_essay)** - Analyzes student essays and scores grammar, vocabulary, and structure.
 - **[basicmachines-co/basic-memory - memory-literary-analysis](https://github.com/basicmachines-co/basic-memory/tree/main/skills/memory-literary-analysis)** - Analyzes literary works into a searchable knowledge graph.
 - **[ComposioHQ/awesome-claude-skills - content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
+- **[kgraph57/paper-writer-skill](https://github.com/kgraph57/paper-writer-skill)** - Drafts IMRAD-structured scientific manuscripts, useful for lab reports and write-ups.
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
 - **[NeoLabHQ/context-engineering-kit - write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely)** - Applies *The Elements of Style* principles to tighten essays and cut wordiness.
 - **[phuryn/pm-skills - grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)** - Flags grammar, logic, and flow errors with targeted fixes, no full rewrite.
