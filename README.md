@@ -247,7 +247,7 @@ Install a skill by copying its folder into the path for your tool:
 | GitHub Copilot | `.github/copilot-instructions.md` | N/A | [Copilot custom instructions](https://docs.github.com/en/copilot/customizing-copilot) |
 | Gemini CLI | `.gemini/` | `~/.gemini/` | [Gemini CLI docs](https://github.com/google-gemini/gemini-cli) |
 
-Claude Code plugins (full bundles) install via `.claude-plugin/marketplace.json`. See the [Claude Code plugin docs](https://code.claude.com/docs/en/plugins).
+Claude Code plugins (full bundles) install via `.claude-plugin/marketplace.json`. See the [Claude Code plugin docs](https://code.claude.com/docs/en/plugins). Cursor and Copilot have no equivalent bundle format: pull the individual skill files out of the plugin's folder and drop each one into the Cursor or Copilot path above.
 
 ---
 
