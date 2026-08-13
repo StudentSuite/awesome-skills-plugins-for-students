@@ -294,7 +294,7 @@ PRs adding a skill or plugin are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Contributors
 
-Thanks to everyone who has added a skill, fixed an entry, or improved the format.
+Thanks to everyone who has added a skill, fixed an entry, or improved the format. See [CONTRIBUTORS.md](CONTRIBUTORS.md) for maintainers and how to get listed.
 
 [![Contributors](https://contrib.rocks/image?repo=StudentSuite/awesome-skills-plugins-for-students)](https://github.com/StudentSuite/awesome-skills-plugins-for-students/graphs/contributors)
 
