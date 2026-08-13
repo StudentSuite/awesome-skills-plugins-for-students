@@ -57,9 +57,9 @@ officially representing the project in public spaces.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the maintainers by opening an issue, or by contacting the
-[StudentSuite](https://github.com/StudentSuite) organization directly through
-GitHub. All complaints will be reviewed and investigated promptly and fairly.
+reported by contacting the [StudentSuite](https://github.com/StudentSuite)
+organization directly through GitHub. All complaints will be reviewed and
+investigated promptly and fairly.
 
 All maintainers are obligated to respect the privacy and security of the
 reporter of any incident.
