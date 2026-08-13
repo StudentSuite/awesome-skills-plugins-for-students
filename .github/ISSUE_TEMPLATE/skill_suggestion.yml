@@ -1,6 +1,6 @@
 name: Suggest a skill or plugin
 description: Suggest a skill or plugin to add (if you're not opening a PR yourself)
-labels: ["resource"]
+labels: ["content"]
 body:
   - type: markdown
     attributes:
