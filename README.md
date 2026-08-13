@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-74-blue)
+![Skills](https://img.shields.io/badge/skills-75-blue)
 ![Plugins](https://img.shields.io/badge/plugins-16-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -44,7 +44,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 💻 | [Coding & CS Education](#coding--cs-education) | 16 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 8 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 8 skills |
-| 🎓 | [College Applications & Career](#college-applications--career) | 9 skills |
+| 🎓 | [College Applications & Career](#college-applications--career) | 10 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 8 skills |
 | 🧩 | [Plugins](#plugins) | 16 plugins |
 
@@ -180,7 +180,7 @@ Personal statements, resume building, interview prep, and side-project launches.
 Several resume tools overlap here. To pick one: **tailored-resume-generator** and **resume-tailoring-skill** do plain tailoring to a single job description; **ResumeSkills** adds ATS-compatibility scoring and interview prep; **career-ops** wraps a full job-search workflow that also scores listings and tracks applications; and **resume-tailor-plugin** (under [Plugins](#plugins)) is the same tailoring packaged as a full Claude Code plugin rather than a single skill.
 
 <details open>
-<summary>Show 9 skills</summary>
+<summary>Show 10 skills</summary>
 
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[borghei/Claude-Skills - research/grants](https://github.com/borghei/Claude-Skills/tree/main/research/grants)** - Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate.
@@ -189,6 +189,7 @@ Several resume tools overlap here. To pick one: **tailored-resume-generator** an
 - **[kevinryan-au/claude-cover-letter](https://github.com/kevinryan-au/claude-cover-letter)** - Turns a pasted job posting into a tailored, one-page cover letter.
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - Resume optimization, ATS scoring, and interview prep skills.
 - **[santifer/career-ops](https://github.com/santifer/career-ops)** - Scores job listings, tailors resumes, and tracks applications for a job search.
+- **[sourikduttanyu/interview-prep](https://github.com/sourikduttanyu/interview-prep)** - Builds a tailored interview prep kit from your resume and a job description.
 - **[varunr89/resume-tailoring-skill](https://github.com/varunr89/resume-tailoring-skill)** - AI-powered resume tailoring for specific job descriptions.
 - **[X-tong6/pscher](https://github.com/X-tong6/pscher)** - Generates English personal statements for Hong Kong university applications.
 
