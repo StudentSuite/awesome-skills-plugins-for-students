@@ -61,8 +61,8 @@ IA, EE, and TOK helpers: citation formatting, rubric feedback, and document tool
 
 - **[anthropics/doc-coauthoring](https://officialskills.sh/anthropics/skills/doc-coauthoring)** - Collaborative document editing and co-authoring, handy for group IAs or shared EE drafts.
 - **[anthropics/pdf](https://officialskills.sh/anthropics/skills/pdf)** - Extracts text from PDFs, creates new PDFs, and fills forms, useful for working with past papers and mark schemes.
-- **[davila7/claude-code-templates - literature-review](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/literature-review)** - Runs systematic literature searches across academic databases with formatted citations, handy for EE research.
 - **[David-Saeteros/claude-skills - academic-writing](https://github.com/David-Saeteros/claude-skills/tree/main/skills/academic-writing)** - Reviews and cites thesis or essay drafts against supervisor feedback and style guides.
+- **[davila7/claude-code-templates - literature-review](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/literature-review)** - Runs systematic literature searches across academic databases with formatted citations, handy for EE research.
 - **[dbosk/introagents - honor-defense-prep](https://github.com/dbosk/introagents/tree/main/students/event-202605/skills/honor-defense-prep)** - Rehearses defending your own submission through examiner-style questions.
 - **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** - Full research-to-publication pipeline: research, write, review, revise, and finalize, useful for IA and EE drafts.
 - **[saulmcphd/apa-style](https://github.com/saulmcphd/apa-style)** - Proofreads papers against APA 7th edition rules with inline corrections.
