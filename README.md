@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-67-blue)
+![Skills](https://img.shields.io/badge/skills-68-blue)
 ![Plugins](https://img.shields.io/badge/plugins-16-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -42,7 +42,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 7 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 18 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 14 skills |
-| 🔬 | [STEM Subjects](#stem-subjects) | 7 skills |
+| 🔬 | [STEM Subjects](#stem-subjects) | 8 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 7 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 7 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 7 skills |
@@ -134,13 +134,14 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 Math, physics, chemistry, and data analysis helpers.
 
 <details open>
-<summary>Show 7 skills</summary>
+<summary>Show 8 skills</summary>
 
 - **[abelsr/Computational-Physics](https://github.com/abelsr/Computational-Physics)** - Solves physics problems with Python and Jupyter notebooks, from mechanics to electromagnetism.
 - **[chrisvoncsefalvay/claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill)** - Builds interactive D3.js charts, graphs, and network diagrams for data analysis and reports.
 - **[ghutchis/chem-skill](https://github.com/ghutchis/chem-skill)** - Renders 2D structure diagrams and 3D molecule viewers from chemical names.
 - **[googlarz/math-skill](https://github.com/googlarz/math-skill)** - Solves math problems step by step with built-in verification.
 - **[huggingface/hugging-face-datasets](https://officialskills.sh/huggingface/skills/hugging-face-datasets)** - 🔑 Creates and manages datasets with SQL querying, useful for statistics and data science projects.
+- **[majiayu000/claude-skill-registry - statistics-math](https://github.com/majiayu000/claude-skill-registry/tree/main/skills/data/statistics-math)** - Applies statistical tests, probability calculations, and distribution analysis to data.
 - **[openai/spreadsheet](https://officialskills.sh/openai/skills/spreadsheet)** - Creates, edits, analyzes, and visualizes spreadsheets with formulas, handy for physics data tables and chemistry calculations.
 - **[wentorai/research-plugins - inaturalist-api](https://github.com/wentorai/research-plugins/tree/main/skills/domains/ecology/inaturalist-api)** - Queries the iNaturalist API for biodiversity observation data.
 
