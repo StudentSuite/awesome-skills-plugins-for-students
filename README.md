@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-64-blue)
+![Skills](https://img.shields.io/badge/skills-66-blue)
 ![Plugins](https://img.shields.io/badge/plugins-16-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -39,7 +39,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 
 | | Section | Count |
 | :-: | --- | :-: |
-| 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 5 skills |
+| 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 7 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 18 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 14 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 6 skills |
@@ -57,12 +57,14 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 IA, EE, and TOK helpers: citation formatting, rubric feedback, and document tooling.
 
 <details open>
-<summary>Show 5 skills</summary>
+<summary>Show 7 skills</summary>
 
 - **[anthropics/doc-coauthoring](https://officialskills.sh/anthropics/skills/doc-coauthoring)** - Collaborative document editing and co-authoring, handy for group IAs or shared EE drafts.
 - **[anthropics/pdf](https://officialskills.sh/anthropics/skills/pdf)** - Extracts text from PDFs, creates new PDFs, and fills forms, useful for working with past papers and mark schemes.
+- **[davila7/claude-code-templates - literature-review](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/literature-review)** - Runs systematic literature searches across academic databases with formatted citations, handy for EE research.
 - **[David-Saeteros/claude-skills - academic-writing](https://github.com/David-Saeteros/claude-skills/tree/main/skills/academic-writing)** - Reviews and cites thesis or essay drafts against supervisor feedback and style guides.
 - **[dbosk/introagents - honor-defense-prep](https://github.com/dbosk/introagents/tree/main/students/event-202605/skills/honor-defense-prep)** - Rehearses defending your own submission through examiner-style questions.
+- **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** - Full research-to-publication pipeline: research, write, review, revise, and finalize, useful for IA and EE drafts.
 - **[saulmcphd/apa-style](https://github.com/saulmcphd/apa-style)** - Proofreads papers against APA 7th edition rules with inline corrections.
 
 </details>
