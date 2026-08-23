@@ -12,7 +12,7 @@ respective authors.
 If a listed skill or plugin looks malicious, has been compromised, or its repo
 has been abandoned or taken over:
 
-- Open a [broken or outdated entry issue](../../issues/new/choose), or
+- Open a [broken or outdated entry issue](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/new/choose), or
 - Open a pull request removing the entry.
 
 Please do not post exploit details for a third-party repo in a public issue here;
