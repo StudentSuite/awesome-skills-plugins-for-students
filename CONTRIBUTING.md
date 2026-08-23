@@ -66,6 +66,30 @@ Removing an entry (see the [Security Notice](README.md#security-notice)) works t
 
 ---
 
+## Tracking last-verified dates
+
+Every entry is checked against the [Quality Standards](README.md#quality-standards)
+once, at add time, but nothing records when. `data/last-verified.json` is a
+lightweight, non-generated record of that: a flat JSON object mapping each
+entry's exact README URL to the ISO date (`YYYY-MM-DD`) it was last confirmed
+to resolve and still match its listed description.
+
+- **Adding an entry?** Add its URL and today's date to `data/last-verified.json`
+  in the same PR.
+- **Re-verifying an entry** (e.g. during a quality pass or in response to a
+  [broken-link report](.github/ISSUE_TEMPLATE/broken_link.yml))? Update its
+  date to today.
+- An entry missing from the file simply hasn't been re-checked since this
+  convention started; that's a backlog to work through over time, not a bug.
+
+This file isn't schema-validated or read by any script yet (that's a natural
+extension of the larger data-file migration tracked in
+[#33](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/33)),
+so keep entries in it alphabetical by URL and don't let it silently drift out
+of sync with README.md.
+
+---
+
 ## Submitting
 
 1. Fork the repo, add your single bullet in the right section, in its correct alphabetical position.
