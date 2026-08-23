@@ -5,6 +5,8 @@ body:
   - type: markdown
     attributes:
       value: |
+        This repo only lists **skills and plugins** for an AI coding agent (something with a `SKILL.md`, a Cursor rules file, Copilot custom instructions, or a Gemini CLI extension) — not general articles, blog posts, courses, or other resources. If that's what you have, it belongs on [awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources) or [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) instead.
+
         Prefer opening a PR directly? See [CONTRIBUTING.md](../../blob/main/CONTRIBUTING.md) for the entry format. Use this form if you'd rather suggest it and let a maintainer add it.
   - type: input
     id: name

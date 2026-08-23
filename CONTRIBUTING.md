@@ -1,6 +1,12 @@
 # Contributing
 
-This repository curates links only. Your skill or plugin lives in its own repo, we just point to it.
+This repository curates links only, and only to **skills and plugins** for an AI
+coding agent (a `SKILL.md`, a Cursor rules file, Copilot custom instructions, or
+a Gemini CLI extension). It does not list general articles, blog posts, courses,
+or other non-agent resources — see the sister lists
+([awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources),
+[awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources))
+for those. Your skill or plugin lives in its own repo, we just point to it.
 
 By participating, you're expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
