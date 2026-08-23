@@ -29,6 +29,8 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 >
 > A 🔑 marks entries that need a paid API key or a separate account before they work, beyond a local agent install.
 >
+> A 🌐 marks entries that always call out to a live external service (a search index, a public dataset API, a domain registry) to do their job, so they won't work fully offline, even though they don't need a paid key or account like a 🔑 entry does.
+>
 > None of the entries below need browser automation or full computer-use access beyond a standard local agent install. If you add one that does, note it in your PR so we can introduce a marker for it.
 >
 > Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/new/choose) &middot; [Changelog](CHANGELOG.md)
@@ -150,7 +152,7 @@ Math, physics, chemistry, and data analysis helpers.
 - **[juanlurg/data-science-claude-skills - experiment-tracker](https://github.com/juanlurg/data-science-claude-skills)** - Logs, compares, and visualizes lab experiment runs and results with local JSON storage.
 - **[majiayu000/claude-skill-registry - statistics-math](https://github.com/majiayu000/claude-skill-registry/tree/main/skills/data/statistics-math)** - Applies statistical tests, probability calculations, and distribution analysis to data.
 - **[openai/spreadsheet](https://officialskills.sh/openai/skills/spreadsheet)** - Creates, edits, analyzes, and visualizes spreadsheets with formulas, handy for physics data tables and chemistry calculations.
-- **[wentorai/research-plugins - inaturalist-api](https://github.com/wentorai/research-plugins/tree/main/skills/domains/ecology/inaturalist-api)** - Queries the iNaturalist API for biodiversity observation data.
+- **[wentorai/research-plugins - inaturalist-api](https://github.com/wentorai/research-plugins/tree/main/skills/domains/ecology/inaturalist-api)** - 🌐 Queries the iNaturalist API for biodiversity observation data.
 
 </details>
 
@@ -173,7 +175,7 @@ Two entries both flag writing errors. **phuryn/pm-skills - grammar-check** targe
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
 - **[NeoLabHQ/context-engineering-kit - write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely)** - Applies *The Elements of Style* principles to tighten essays and cut wordiness.
 - **[phuryn/pm-skills - grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)** - Flags grammar, logic, and flow errors with targeted fixes, no full rewrite.
-- **[xwmxcz/papers-skill](https://github.com/xwmxcz/papers-skill)** - Searches 200M+ papers on Semantic Scholar, inspects citations, and downloads arXiv PDFs.
+- **[xwmxcz/papers-skill](https://github.com/xwmxcz/papers-skill)** - 🌐 Searches 200M+ papers on Semantic Scholar, inspects citations, and downloads arXiv PDFs.
 
 </details>
 
@@ -190,7 +192,7 @@ Several resume tools overlap here. To pick one: **tailored-resume-generator** an
 
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[borghei/Claude-Skills - research/grants](https://github.com/borghei/Claude-Skills/tree/main/research/grants)** - Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate.
-- **[ComposioHQ/awesome-claude-skills - domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer)** - Generates domain name ideas and checks availability across TLDs for side projects.
+- **[ComposioHQ/awesome-claude-skills - domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer)** - 🌐 Generates domain name ideas and checks availability across TLDs for side projects.
 - **[ComposioHQ/awesome-claude-skills - tailored-resume-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/tailored-resume-generator)** - Analyzes job descriptions and tailors resumes to highlight relevant experience and skills.
 - **[kevinryan-au/claude-cover-letter](https://github.com/kevinryan-au/claude-cover-letter)** - Turns a pasted job posting into a tailored, one-page cover letter.
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - Resume optimization, ATS scoring, and interview prep skills.
