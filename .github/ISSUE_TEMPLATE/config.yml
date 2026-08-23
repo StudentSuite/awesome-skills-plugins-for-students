@@ -3,3 +3,6 @@ contact_links:
   - name: Contributing Guide
     url: https://github.com/StudentSuite/awesome-skills-plugins-for-students/blob/main/CONTRIBUTING.md
     about: Read this before adding a skill or plugin yourself via PR.
+  - name: Ask a question
+    url: https://github.com/StudentSuite/awesome-skills-plugins-for-students/discussions/categories/q-a
+    about: Have an open-ended question that isn't a skill/plugin suggestion, broken link, or new-section proposal? Ask it in Discussions instead.
