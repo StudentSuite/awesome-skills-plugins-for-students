@@ -8,6 +8,14 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Verified (2026-08-23)
+
+- Spot-checked all 18 officialskills.sh-hosted entries by hand (the 6
+  `anthropics/*`, 3 `openai/*`, `huggingface/hugging-face-datasets`, the 7
+  `googleworkspace/gws-*` skills, and `gws-shared`): every one resolves and
+  its page still matches its README description. No drift found; nothing
+  needed fixing. Recorded in `data/last-verified.json`.
+
 ### Added (2026-08-13 issue-clearing pass)
 
 - 14 skills closing 13 open issues: `davila7/claude-code-templates` -
