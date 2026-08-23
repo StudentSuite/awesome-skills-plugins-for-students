@@ -15,3 +15,5 @@ Why it helps students: <!-- one sentence -->
 - [ ] Meets the [Quality Standards](../README.md#quality-standards): public, documented, real, works with at least one listed tool
 - [ ] Not a duplicate of an existing entry in the same section
 - [ ] If this entry needs browser automation or full computer-use access beyond a standard local agent install, said so in this PR description
+- [ ] Added a 🔑 or 🌐 marker if the entry needs one (see CONTRIBUTING.md)
+- [ ] Added the entry's URL and today's date to `data/last-verified.json`

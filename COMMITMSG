@@ -1,0 +1,7 @@
+fix: docs: mention 🔑/🌐 markers and last-verified.json in PR template
+
+- .github/PULL_REQUEST_TEMPLATE.md
+
+Fixes #113
+
+Signed-off-by: Vedant Madane <6527493+VedantMadane@users.noreply.github.com>
