@@ -33,7 +33,9 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 >
 > None of the entries below need browser automation or full computer-use access beyond a standard local agent install. If you add one that does, note it in your PR so we can introduce a marker for it.
 >
-> Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/new/choose) &middot; [Changelog](CHANGELOG.md)
+> Maintained by [StudentSuite](https://github.com/StudentSuite) &middot; [Report a broken link](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/new/choose) &middot; [Changelog](CHANGELOG.md) &middot; [Discussions](https://github.com/StudentSuite/awesome-skills-plugins-for-students/discussions)
+>
+> Written your own skill or plugin? Post it in [Show and tell](https://github.com/StudentSuite/awesome-skills-plugins-for-students/discussions/categories/show-and-tell) — a maintainer can turn it into a list entry from there.
 
 ---
 
