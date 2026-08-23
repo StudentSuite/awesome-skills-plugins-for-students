@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-82-blue)
+![Skills](https://img.shields.io/badge/skills-83-blue)
 ![Plugins](https://img.shields.io/badge/plugins-16-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -39,7 +39,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 
 | | Section | Count |
 | :-: | --- | :-: |
-| 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 8 skills |
+| 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 9 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 18 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 17 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 10 skills |
@@ -57,7 +57,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 IA, EE, and TOK helpers: citation formatting, rubric feedback, and document tooling.
 
 <details open>
-<summary>Show 8 skills</summary>
+<summary>Show 9 skills</summary>
 
 - **[anthropics/doc-coauthoring](https://officialskills.sh/anthropics/skills/doc-coauthoring)** - Collaborative document editing and co-authoring, handy for group IAs or shared EE drafts.
 - **[anthropics/pdf](https://officialskills.sh/anthropics/skills/pdf)** - Extracts text from PDFs, creates new PDFs, and fills forms, useful for working with past papers and mark schemes.
@@ -67,6 +67,7 @@ IA, EE, and TOK helpers: citation formatting, rubric feedback, and document tool
 - **[hameefy/claude-latex-skill](https://github.com/hameefy/claude-latex-skill)** - Produces compilable LaTeX for math proofs, derivations, and Beamer slides.
 - **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** - Full research-to-publication pipeline: research, write, review, revise, and finalize, useful for IA and EE drafts.
 - **[saulmcphd/apa-style](https://github.com/saulmcphd/apa-style)** - Proofreads papers against APA 7th edition rules with inline corrections.
+- **[SJY051/music-composition](https://github.com/SJY051/music-composition)** - Guides music composition and analysis across harmony, melody, form, and genre conventions, useful for IB Music investigations.
 
 </details>
 
