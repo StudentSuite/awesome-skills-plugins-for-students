@@ -8,13 +8,59 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-08-23
+
+### Added (2026-08-23 issue-clearing pass)
+
+- 4 new skills closing #66, #91, #92, and #105: `gemini-cli-extensions/datacommons`
+  (STEM Subjects, 🔑 — the first entry built specifically for Gemini CLI, not
+  just Claude Code/Cursor/Copilot), `googleworkspace/gws-forms` and
+  `googleworkspace/gws-calendar` (Google Workspace for Students), and
+  `SJY051/music-composition` (IB & IGCSE Coursework's first Group 6/Arts
+  entry).
+- Skills badge now reads 84.
+- A 🌐 marker for entries that always call out to a live external service
+  without needing a paid key or account, distinct from the existing 🔑
+  marker. Documented in the README's emoji legend and CONTRIBUTING.md's
+  entry-format section, applied to `xwmxcz/papers-skill`,
+  `wentorai/research-plugins` - inaturalist-api, and
+  `ComposioHQ/awesome-claude-skills` - domain-name-brainstormer. Closes #95
+  and #101.
+- `data/last-verified.json`, a lightweight per-entry last-verified-date
+  tracker documented in CONTRIBUTING.md (closes #94), plus CI validation for
+  it via `scripts/check-last-verified.mjs` (closes #103).
+- CI validation for the 🔑/🌐 marker format via `scripts/check-markers.mjs`
+  (closes #106).
+- A mention of GitHub Discussions in the README header, pointing students who
+  write their own skill at Show and tell (closes #104).
+
 ### Verified (2026-08-23)
 
 - Spot-checked all 18 officialskills.sh-hosted entries by hand (the 6
   `anthropics/*`, 3 `openai/*`, `huggingface/hugging-face-datasets`, the 7
   `googleworkspace/gws-*` skills, and `gws-shared`): every one resolves and
   its page still matches its README description. No drift found; nothing
-  needed fixing. Recorded in `data/last-verified.json`.
+  needed fixing. Recorded in `data/last-verified.json`. Closes #68.
+
+### Fixed (2026-08-23)
+
+- SECURITY.md's "broken or outdated entry issue" link used a relative path
+  that resolved as a local file instead of a GitHub issue URL (closes #98).
+- CONTRIBUTING.md's CI-checks section was missing SECURITY.md and
+  CONTRIBUTORS.md from its list of scanned files (closes #100).
+- `.github/ISSUE_TEMPLATE/skill_suggestion.yml` and CONTRIBUTING.md's opening
+  paragraph now clarify this repo only lists skills/plugins, not general
+  articles or resources (closes #70).
+
+### Changed / Infra (2026-08-23)
+
+- Enabled GitHub Discussions with the default category set (General, Ideas,
+  Q&A, Show and tell, Polls, Announcements) and pointed the issue template's
+  contact links at Q&A (closes #31).
+- Enabled private vulnerability reporting (closes #90).
+- Enabled "Automatically delete head branches" after merge (closes #88).
+- Added a branch protection rule on `main` requiring the `check-list-format`
+  and `markdownlint` status checks to pass (closes #89).
 
 ### Added (2026-08-13 issue-clearing pass)
 
@@ -160,5 +206,6 @@ software), but releases are still tagged so changes are easy to point to.
 - Compatibility paths for Claude Code, Cursor, GitHub Copilot, and Gemini CLI.
 - `CONTRIBUTING.md`, `LICENSE` (MIT), and a Security Notice in the README.
 
-[Unreleased]: https://github.com/StudentSuite/awesome-skills-plugins-for-students/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/StudentSuite/awesome-skills-plugins-for-students/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/StudentSuite/awesome-skills-plugins-for-students/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/StudentSuite/awesome-skills-plugins-for-students/releases/tag/v1.0.0
