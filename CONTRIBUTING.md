@@ -109,8 +109,8 @@ A CI check runs `scripts/check-list-format.mjs` on every PR that touches README.
 node scripts/check-list-format.mjs
 ```
 
-A separate scheduled workflow (`.github/workflows/dead-link-check.yml`) checks every link in README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, and CHANGELOG.md weekly using [lychee](https://github.com/lycheeverse/lychee), configured via `lychee.toml`. Some legitimate sites reject automated requests with a 403 or 429, so those statuses are accepted rather than treated as broken.
+A separate scheduled workflow (`.github/workflows/dead-link-check.yml`) checks every link in README.md, CONTRIBUTING.md, CODE_OF_CONDUCT.md, CHANGELOG.md, SECURITY.md, and CONTRIBUTORS.md weekly using [lychee](https://github.com/lycheeverse/lychee), configured via `lychee.toml`. Some legitimate sites reject automated requests with a 403 or 429, so those statuses are accepted rather than treated as broken.
 
-A third workflow (`.github/workflows/markdownlint.yml`) runs `markdownlint-cli2` on every Markdown file. Its config, `.markdownlint.jsonc`, turns off the rules that conflict with this repo's intentional style: long single-line entries (MD013) and the `<details>`/`<picture>` inline HTML used for collapsible sections and the logo (MD033).
+A third workflow (`.github/workflows/markdownlint.yml`) runs `markdownlint-cli2` on those same six Markdown files. Its config, `.markdownlint.jsonc`, turns off the rules that conflict with this repo's intentional style: long single-line entries (MD013) and the `<details>`/`<picture>` inline HTML used for collapsible sections and the logo (MD033).
 
 The lint workflow also runs `scripts/audit-duplicate-urls.mjs`, which reports every URL used more than once in README.md. This is informational only and never fails the build.
