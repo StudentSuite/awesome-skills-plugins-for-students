@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-80-blue)
+![Skills](https://img.shields.io/badge/skills-81-blue)
 ![Plugins](https://img.shields.io/badge/plugins-16-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.0.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -42,7 +42,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 8 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 18 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 17 skills |
-| 🔬 | [STEM Subjects](#stem-subjects) | 9 skills |
+| 🔬 | [STEM Subjects](#stem-subjects) | 10 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 9 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 11 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 8 skills |
@@ -138,10 +138,11 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 Math, physics, chemistry, and data analysis helpers.
 
 <details open>
-<summary>Show 9 skills</summary>
+<summary>Show 10 skills</summary>
 
 - **[abelsr/Computational-Physics](https://github.com/abelsr/Computational-Physics)** - Solves physics problems with Python and Jupyter notebooks, from mechanics to electromagnetism.
 - **[chrisvoncsefalvay/claude-d3js-skill](https://github.com/chrisvoncsefalvay/claude-d3js-skill)** - Builds interactive D3.js charts, graphs, and network diagrams for data analysis and reports.
+- **[gemini-cli-extensions/datacommons](https://github.com/gemini-cli-extensions/datacommons)** - 🔑 Queries Data Commons public statistical datasets in natural language for research and coursework.
 - **[ghutchis/chem-skill](https://github.com/ghutchis/chem-skill)** - Renders 2D structure diagrams and 3D molecule viewers from chemical names.
 - **[googlarz/math-skill](https://github.com/googlarz/math-skill)** - Solves math problems step by step with built-in verification.
 - **[huggingface/hugging-face-datasets](https://officialskills.sh/huggingface/skills/hugging-face-datasets)** - 🔑 Creates and manages datasets with SQL querying, useful for statistics and data science projects.
