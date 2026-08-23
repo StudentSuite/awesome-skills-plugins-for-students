@@ -7,6 +7,7 @@ on:
       - data/last-verified.json
       - scripts/check-list-format.mjs
       - scripts/check-counts*.mjs
+      - scripts/check-markers*.mjs
       - scripts/check-last-verified*.mjs
       - scripts/audit-duplicate-urls.mjs
       - .github/workflows/lint.yml
@@ -18,6 +19,7 @@ on:
       - data/last-verified.json
       - scripts/check-list-format.mjs
       - scripts/check-counts*.mjs
+      - scripts/check-markers*.mjs
       - scripts/check-last-verified*.mjs
       - scripts/audit-duplicate-urls.mjs
       - .github/workflows/lint.yml

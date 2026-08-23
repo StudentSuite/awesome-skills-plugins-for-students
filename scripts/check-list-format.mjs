@@ -8,6 +8,7 @@
 
 import { readFileSync } from 'node:fs';
 import { validateCountDeclarations } from './check-counts.mjs';
+import { validateMarkers } from './check-markers.mjs';
 
 const README_PATH = new URL('../README.md', import.meta.url);
 const readme = readFileSync(README_PATH, 'utf8');
@@ -74,7 +75,7 @@ for (let i = 0; i < lines.length; i++) {
       continue;
     }
     const item = line.match(/^- \*\*\[(.+?)\]\((.+?)\)\*\*\s*-\s*(.+)$/);
-    currentItems.push({ name: item[1], url: item[2], line: i + 1 });
+    currentItems.push({ name: item[1], url: item[2], description: item[3], line: i + 1 });
   }
 }
 flushBlock();
@@ -99,6 +100,9 @@ for (const block of blocks) {
     seenUrls.set(item.url, item.line);
   }
 }
+
+// --- Rule: 🔑/🌐 markers, when present, are well-formed (see CONTRIBUTING.md) ---
+errors.push(...validateMarkers(blocks.flatMap((block) => block.items)));
 
 // --- Rule: Table of Contents matches section headings ---
 const tocStart = lines.findIndex((l) => l.trim() === '## Table of Contents');
