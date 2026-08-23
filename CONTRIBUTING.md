@@ -40,6 +40,19 @@ Check the entry meets the [Quality Standards](README.md#quality-standards):
 
 Keep the description to one line, roughly 10 words or fewer. Lead with the verb, skip adjectives like "amazing" or "powerful," and end with a period. No em dashes.
 
+If the entry needs a paid API key or a separate account before it works (beyond
+installing the agent itself), prefix the description with 🔑. If it doesn't
+need either of those but always calls out to a live external service to do its
+job — so it won't work fully offline — prefix it with 🌐 instead. Either marker goes right at the start of the description, immediately after
+the dash, e.g.:
+
+```md
+- **[author/skill-name](https://github.com/author/skill-name)** - 🔑 Short description of what it does.
+```
+
+See the emoji legend near the top of [README.md](README.md) for the exact
+wording of what each marker promises.
+
 ---
 
 ## Where it goes
