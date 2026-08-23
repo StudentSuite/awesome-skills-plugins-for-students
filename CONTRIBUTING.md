@@ -95,11 +95,13 @@ to resolve and still match its listed description.
 - An entry missing from the file simply hasn't been re-checked since this
   convention started; that's a backlog to work through over time, not a bug.
 
-This file isn't schema-validated or read by any script yet (that's a natural
+`scripts/check-last-verified.mjs` (run in CI alongside `check-list-format.mjs`)
+checks that the file is valid JSON, that every key is sorted alphabetically
+and matches a real README.md entry, and that every value is a
+non-future `YYYY-MM-DD` date. It doesn't check that a date is actually
+*recent* — nothing yet flags a stale entry, which would be a natural
 extension of the larger data-file migration tracked in
-[#33](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/33)),
-so keep entries in it alphabetical by URL and don't let it silently drift out
-of sync with README.md.
+[#33](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/33).
 
 ---
 

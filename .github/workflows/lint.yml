@@ -4,8 +4,10 @@ on:
   pull_request:
     paths:
       - README.md
+      - data/last-verified.json
       - scripts/check-list-format.mjs
       - scripts/check-counts*.mjs
+      - scripts/check-last-verified*.mjs
       - scripts/audit-duplicate-urls.mjs
       - .github/workflows/lint.yml
   push:
@@ -13,8 +15,10 @@ on:
       - main
     paths:
       - README.md
+      - data/last-verified.json
       - scripts/check-list-format.mjs
       - scripts/check-counts*.mjs
+      - scripts/check-last-verified*.mjs
       - scripts/audit-duplicate-urls.mjs
       - .github/workflows/lint.yml
 
@@ -28,5 +32,6 @@ jobs:
           node-version: 20
       - run: node --test scripts/*.test.mjs
       - run: node scripts/check-list-format.mjs
+      - run: node scripts/check-last-verified.mjs
       # Informational only: reports cross-section URL reuse, never fails the job.
       - run: node scripts/audit-duplicate-urls.mjs
