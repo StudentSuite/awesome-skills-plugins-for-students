@@ -1,0 +1,89 @@
+name: Staleness Audit
+
+# Flags entries whose data/last-verified.json date is more than 6 months old,
+# or missing entirely, so they get a fresh look. Runs quarterly rather than
+# monthly since re-verifying an entry takes real human time (install it, run
+# it, confirm it still does what its description claims -- see "What
+# verification means" in CONTRIBUTING.md's Tracking last-verified dates
+# section), and this is meant to seed a to-do list, not nag.
+
+on:
+  schedule:
+    # 1st of January, April, July, and October at 08:00 UTC
+    - cron: "0 8 1 1,4,7,10 *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Find entries not verified in 6+ months
+        id: audit
+        run: |
+          set -euo pipefail
+          node <<'EOF' > stale-report.md
+          const { readFileSync } = require('node:fs');
+
+          const readme = readFileSync('README.md', 'utf8');
+          const verified = JSON.parse(readFileSync('data/last-verified.json', 'utf8'));
+
+          const readmeUrls = [...readme.matchAll(/^- \*\*\[(.+?)\]\((.+?)\)\*\*/gm)].map((m) => ({
+            name: m[1],
+            url: m[2],
+          }));
+
+          const sixMonthsAgo = new Date();
+          sixMonthsAgo.setMonth(sixMonthsAgo.getMonth() - 6);
+
+          const stale = readmeUrls.filter(({ url }) => {
+            const date = verified[url];
+            if (!date) return true; // never verified
+            return new Date(date) < sixMonthsAgo;
+          });
+
+          if (stale.length === 0) {
+            console.log('none');
+            process.exit(0);
+          }
+
+          console.log("The following entries have no data/last-verified.json date, or one older");
+          console.log("than 6 months. Re-verify each against the [Quality Standards](https://github.com/StudentSuite/awesome-skills-plugins-for-students/blob/main/README.md#quality-standards)");
+          console.log("(the skill loads and does what its description claims -- see CONTRIBUTING.md's");
+          console.log("Tracking last-verified dates section for exactly what that means), then update");
+          console.log("its date in `data/last-verified.json`.");
+          console.log('');
+          for (const { name, url } of stale) {
+            const date = verified[url] ?? 'never';
+            console.log(`- [ ] \`${name}\` (last verified: ${date}) - ${url}`);
+          }
+          EOF
+
+          if grep -q '^none$' stale-report.md; then
+            echo "found=0" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=1" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Check for an existing open staleness issue
+        id: existing
+        if: steps.audit.outputs.found == '1'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          count=$(gh issue list --repo "$GITHUB_REPOSITORY" --state open --label staleness-audit --json number --jq 'length')
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+
+      - name: Open a staleness issue
+        if: steps.audit.outputs.found == '1' && steps.existing.outputs.count == '0'
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: Quarterly staleness audit — entries due for re-verification
+          content-filepath: stale-report.md
+          labels: staleness-audit, quality, help wanted

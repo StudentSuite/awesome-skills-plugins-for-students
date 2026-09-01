@@ -134,6 +134,21 @@ lightweight, non-generated record of that: a flat JSON object mapping each
 entry's exact README URL to the ISO date (`YYYY-MM-DD`) it was last confirmed
 to resolve and still match its listed description.
 
+**What verification means:** install the skill or plugin per the
+[Compatibility Paths](README.md#compatibility-paths) table, run it against a
+task matching its description, and confirm it still loads and does what it
+claims. A link that merely resolves (a 200) is not verification on its own —
+that's what the weekly dead-link check already covers automatically; a
+last-verified date means a human actually ran it.
+
+Verifying an entry is a great low-effort recurring contribution: no writing
+required, just install one and see if it still works. A quarterly scheduled
+workflow (`.github/workflows/staleness-audit.yml`) opens (or leaves open, if
+one's already there — it checks for an existing open issue labeled
+`staleness-audit` first) an issue listing every entry with no
+`data/last-verified.json` date, or one older than 6 months, as a ready-made
+to-do list.
+
 - **Adding an entry?** Add its URL and today's date to `data/last-verified.json`
   in the same PR.
 - **Re-verifying an entry** (e.g. during a quality pass or in response to a
