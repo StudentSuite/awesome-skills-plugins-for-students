@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 ![Skills](https://img.shields.io/badge/skills-89-blue)
-![Plugins](https://img.shields.io/badge/plugins-16-purple)
+![Plugins](https://img.shields.io/badge/plugins-17-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -51,7 +51,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 🗣️ | [Language Learning](#language-learning) | 2 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 11 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 10 skills |
-| 🧩 | [Plugins](#plugins) | 16 plugins |
+| 🧩 | [Plugins](#plugins) | 17 plugins |
 
 [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
 
@@ -209,7 +209,7 @@ Translation practice, vocabulary drilling, and grammar correction in a target (n
 
 Personal statements, resume building, interview prep, and side-project launches.
 
-Several resume tools overlap here. To pick one: **tailored-resume-generator** and **resume-tailoring-skill** do plain tailoring to a single job description; **ResumeSkills** adds ATS-compatibility scoring and interview prep; **career-ops** wraps a full job-search workflow that also scores listings and tracks applications; and **resume-tailor-plugin** (under [Plugins](#plugins)) is the same tailoring packaged as a full Claude Code plugin rather than a single skill.
+Several resume tools overlap here. To pick one: **tailored-resume-generator** and **resume-tailoring-skill** do plain tailoring to a single job description; **ResumeSkills** adds ATS-compatibility scoring and interview prep; **career-ops** wraps a full job-search workflow that also scores listings and tracks applications; **resume-tailor-plugin** (under [Plugins](#plugins)) is the same tailoring packaged as a full Claude Code plugin rather than a single skill; and **danielrosehill/Claude-Career-Plugin** (also under [Plugins](#plugins)) bundles resume, cover-letter, and interview-prep commands into one broader career-operations plugin.
 
 <details open>
 <summary>Show 11 skills</summary>
@@ -261,7 +261,7 @@ These skills require the [Google Workspace CLI (`gws`)](https://officialskills.s
 Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, agents, hooks, or MCP servers.
 
 <details open>
-<summary>Show 16 plugins</summary>
+<summary>Show 17 plugins</summary>
 
 - **[alirezarezvani/claude-skills - productivity/capture](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/capture)** - Organizes a brain-dump of mixed thoughts, tasks, and ideas into an actionable list.
 - **[alirezarezvani/claude-skills - productivity/deep-work](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/deep-work)** - Time-blocks the day into deep and shallow work with focus blocks, Cal Newport style.
@@ -271,6 +271,7 @@ Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, 
 - **[dair-ai/dair-academy-plugins - lesson-generator](https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/lesson-generator)** - Generates multi-lesson HTML courses with flashcards, quizzes, objectives, and source links.
 - **[dair-ai/dair-academy-plugins - wiki-builder](https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/wiki-builder)** - Builds and maintains structured research wikis with sources, compiled pages, and derived artifacts.
 - **[dair-ai/dair-academy-plugins - youtube-notetaker](https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/youtube-notetaker)** - Turns YouTube talks into local study notes with slides, transcripts, and editable annotations.
+- **[danielrosehill/Claude-Career-Plugin](https://github.com/danielrosehill/Claude-Career-Plugin)** - Bundles resume tailoring, cover letters, and interview prep in one plugin.
 - **[emili-kosik/admission-skills](https://github.com/emili-kosik/admission-skills)** - Tracks college application deadlines, checklists, and exports a reminder calendar.
 - **[JeanDiable/academic-research-plugin](https://github.com/JeanDiable/academic-research-plugin)** - Plugin for literature surveys, paper reviews, and citation management.
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - Compresses agent responses into concise caveman-style language, reducing token usage while preserving technical accuracy. Supports Claude Code, Cursor, Copilot, and 30+ other agents.
