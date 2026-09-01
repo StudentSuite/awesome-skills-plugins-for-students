@@ -83,6 +83,8 @@ Spaced repetition, time and task management, note-taking, and focus.
 
 Several spaced-repetition study tools overlap here. To pick one: **hluaguo/learn-faster-kit** is a general learning coach with syllabi and progress tracking; **RoundTable02/tutor-skills** turns source material into an Obsidian vault with quizzes; **sickn33/antigravity-awesome-skills - examprep-ai** ranks topics into a scored study roadmap; and **mordor-forge/study-skill** runs FSRS-scheduled lesson review sessions with git-tracked progress.
 
+Three entries generate exam-prep material with no prior note on how they differ. **sickn33/antigravity-awesome-skills - examprep-ai** (this section) ranks syllabus topics into a scored roadmap with MCQs and question prediction; **pinakdhabu/Exam-prompt** (this section) generates exam answers, notes, and study plans for any university; and **HashemALSKKkAF/exam-prep-mcq** (under [Google Workspace for Students](#google-workspace-for-students)) turns study material into an MCQ quiz delivered as a Google Form.
+
 <details open>
 <summary>Show 18 skills</summary>
 
@@ -212,6 +214,8 @@ Several resume tools overlap here. To pick one: **tailored-resume-generator** an
 ## Google Workspace for Students
 
 Skills for Google's tools: Docs, Slides, Classroom, and more. Useful if your school runs on Google Workspace for Education.
+
+**HashemALSKKkAF/exam-prep-mcq** generates exam-prep MCQs like **sickn33/antigravity-awesome-skills - examprep-ai** and **pinakdhabu/Exam-prompt** (both under [Study & Productivity](#study--productivity)), but its distinguishing feature is delivering the quiz as a native Google Form.
 
 <details open>
 <summary>Show 10 skills</summary>
