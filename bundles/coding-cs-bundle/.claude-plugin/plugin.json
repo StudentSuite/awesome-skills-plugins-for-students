@@ -1,0 +1,29 @@
+{
+  "name": "coding-cs-bundle",
+  "version": "1.0.0",
+  "description": "Coding & CS Education skills in one install.",
+  "author": {
+    "name": "StudentSuite",
+    "url": "https://github.com/StudentSuite"
+  },
+  "dependencies": [
+    "0xsarwagya-ontoly",
+    "aidankinzett-claude-git-pr-skill",
+    "anthropics-web-artifacts-builder",
+    "anthropics-webapp-testing",
+    "composiohq-awesome-claude-skills-artifacts-builder",
+    "composiohq-awesome-claude-skills-developer-growth-analysis",
+    "florianbruniaux-claude-code-ultimate-guide-self-assessment",
+    "hmohamed01-sql-expert",
+    "karanb192-algo-sensei",
+    "kirilxd-claude-tutor",
+    "mattpocock-skills-diagnosing-bugs",
+    "mattpocock-skills-git-guardrails-claude-code",
+    "mattpocock-skills-resolving-merge-conflicts",
+    "mattpocock-skills-tdd",
+    "openai-jupyter-notebook",
+    "shauryagangrade-intent-drift-skill",
+    "sickn33-agentic-awesome-skills-code-documentation-code-explain",
+    "zarazhangrui-codebase-to-course"
+  ]
+}

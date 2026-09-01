@@ -1,0 +1,21 @@
+{
+  "name": "google-workspace-bundle",
+  "version": "1.0.0",
+  "description": "Google Workspace for Students skills in one install.",
+  "author": {
+    "name": "StudentSuite",
+    "url": "https://github.com/StudentSuite"
+  },
+  "dependencies": [
+    "googleworkspace-gws-calendar",
+    "googleworkspace-gws-classroom",
+    "googleworkspace-gws-docs",
+    "googleworkspace-gws-drive",
+    "googleworkspace-gws-forms",
+    "googleworkspace-gws-gmail",
+    "googleworkspace-gws-sheets",
+    "googleworkspace-gws-slides",
+    "googleworkspace-gws-tasks",
+    "hashemalskkkaf-exam-prep-mcq"
+  ]
+}

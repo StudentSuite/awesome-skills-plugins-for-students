@@ -39,6 +39,46 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 
 ---
 
+## Install a bundle in one command
+
+Install a themed bundle of skills into Claude Code with one command, via the
+[Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces) —
+no cloning or hand-copying files:
+
+```sh
+claude plugin marketplace add StudentSuite/awesome-skills-plugins-for-students
+claude plugin install ib-igcse-bundle
+```
+
+Swap `ib-igcse-bundle` for any bundle below, or install one entry on its own
+by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json)
+(e.g. `claude plugin install jakedahn-pomodoro`).
+
+| Bundle | Skills | Install |
+| --- | :-: | --- |
+| IB & IGCSE Coursework | 9 | `claude plugin install ib-igcse-bundle` |
+| Study & Productivity | 17 | `claude plugin install study-productivity-bundle` |
+| Coding & CS Education | 18 | `claude plugin install coding-cs-bundle` |
+| STEM Subjects | 8 | `claude plugin install stem-bundle` |
+| Writing & Humanities | 11 | `claude plugin install writing-humanities-bundle` |
+| Language Learning | 2 | `claude plugin install language-learning-bundle` |
+| College Applications & Career | 11 | `claude plugin install college-career-bundle` |
+| Google Workspace for Students | 10 | `claude plugin install google-workspace-bundle` |
+
+Every 🔑 entry (needs a paid API key or separate account) is excluded from
+every bundle by design, so a default bundle install never silently expects
+one — install those individually if you want them.
+
+This covers Claude Code specifically: Cursor, Copilot, and Gemini CLI don't
+have an equivalent one-command bundle mechanism today (see
+[Compatibility Paths](#compatibility-paths) below), so for those, install
+individual skills by hand at the paths listed there. `.claude-plugin/marketplace.json`
+and `bundles/` are generated from `data/skills.json` / `data/plugins.json` by
+`scripts/generate-marketplace.mjs`, the same way README.md's catalogue is —
+see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync.
+
+---
+
 ## Table of Contents
 
 | | Section | Count |
@@ -53,7 +93,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 10 skills |
 | 🧩 | [Plugins](#plugins) | 18 plugins |
 
-[Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
+[Install a bundle in one command](#install-a-bundle-in-one-command) &middot; [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
 
 ---
 

@@ -1,0 +1,20 @@
+{
+  "name": "ib-igcse-bundle",
+  "version": "1.0.0",
+  "description": "IB & IGCSE Coursework skills in one install.",
+  "author": {
+    "name": "StudentSuite",
+    "url": "https://github.com/StudentSuite"
+  },
+  "dependencies": [
+    "anthropics-doc-coauthoring",
+    "anthropics-pdf",
+    "david-saeteros-claude-skills-academic-writing",
+    "davila7-claude-code-templates-literature-review",
+    "dbosk-introagents-honor-defense-prep",
+    "hameefy-claude-latex-skill",
+    "imbad0202-academic-research-skills",
+    "saulmcphd-apa-style",
+    "sjy051-music-composition"
+  ]
+}

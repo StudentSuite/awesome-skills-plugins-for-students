@@ -8,12 +8,15 @@ on:
       - data/skills.json
       - data/plugins.json
       - data/schema/entry.schema.json
+      - .claude-plugin/marketplace.json
+      - bundles/**
       - scripts/check-list-format.mjs
       - scripts/check-counts*.mjs
       - scripts/check-markers*.mjs
       - scripts/check-last-verified*.mjs
       - scripts/validate-data*.mjs
       - scripts/generate-readme.mjs
+      - scripts/generate-marketplace.mjs
       - scripts/audit-duplicate-urls.mjs
       - .github/workflows/lint.yml
   push:
@@ -25,12 +28,15 @@ on:
       - data/skills.json
       - data/plugins.json
       - data/schema/entry.schema.json
+      - .claude-plugin/marketplace.json
+      - bundles/**
       - scripts/check-list-format.mjs
       - scripts/check-counts*.mjs
       - scripts/check-markers*.mjs
       - scripts/check-last-verified*.mjs
       - scripts/validate-data*.mjs
       - scripts/generate-readme.mjs
+      - scripts/generate-marketplace.mjs
       - scripts/audit-duplicate-urls.mjs
       - .github/workflows/lint.yml
 
@@ -50,5 +56,6 @@ jobs:
       # contributors edit the data files and run `node scripts/generate-readme.mjs`
       # locally to update README.md (see CONTRIBUTING.md).
       - run: node scripts/generate-readme.mjs --check
+      - run: node scripts/generate-marketplace.mjs --check
       # Informational only: reports cross-section URL reuse, never fails the job.
       - run: node scripts/audit-duplicate-urls.mjs

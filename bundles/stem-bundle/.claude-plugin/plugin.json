@@ -1,0 +1,19 @@
+{
+  "name": "stem-bundle",
+  "version": "1.0.0",
+  "description": "STEM Subjects skills in one install.",
+  "author": {
+    "name": "StudentSuite",
+    "url": "https://github.com/StudentSuite"
+  },
+  "dependencies": [
+    "abelsr-computational-physics",
+    "chrisvoncsefalvay-claude-d3js-skill",
+    "ghutchis-chem-skill",
+    "googlarz-math-skill",
+    "juanlurg-data-science-claude-skills-experiment-tracker",
+    "majiayu000-claude-skill-registry-statistics-math",
+    "openai-spreadsheet",
+    "wentorai-research-plugins-inaturalist-api"
+  ]
+}

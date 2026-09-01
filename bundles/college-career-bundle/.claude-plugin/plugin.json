@@ -1,0 +1,22 @@
+{
+  "name": "college-career-bundle",
+  "version": "1.0.0",
+  "description": "College Applications & Career skills in one install.",
+  "author": {
+    "name": "StudentSuite",
+    "url": "https://github.com/StudentSuite"
+  },
+  "dependencies": [
+    "anaydhawan-oss-launch",
+    "borghei-claude-skills-research-grants",
+    "composiohq-awesome-claude-skills-domain-name-brainstormer",
+    "composiohq-awesome-claude-skills-tailored-resume-generator",
+    "kevinryan-au-claude-cover-letter",
+    "paramchoudhary-resumeskills",
+    "santifer-career-ops",
+    "shauryagangrade-scout-issue",
+    "sourikduttanyu-interview-prep",
+    "varunr89-resume-tailoring-skill",
+    "x-tong6-pscher"
+  ]
+}

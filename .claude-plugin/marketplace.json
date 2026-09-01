@@ -1,0 +1,1102 @@
+{
+  "name": "awesome-skills-plugins-for-students",
+  "owner": {
+    "name": "StudentSuite",
+    "url": "https://github.com/StudentSuite"
+  },
+  "description": "Skills and plugins for students, curated by StudentSuite. Install a themed bundle in one command, or install any single entry by name.",
+  "plugins": [
+    {
+      "name": "0xsarwagya-ontoly",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/0xsarwagya/ontoly.git"
+      },
+      "description": "Maps codebases into graph-backed architecture evidence."
+    },
+    {
+      "name": "abelsr-computational-physics",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/abelsr/Computational-Physics.git"
+      },
+      "description": "Solves physics problems with Python and Jupyter notebooks, from mechanics to electromagnetism."
+    },
+    {
+      "name": "aidankinzett-claude-git-pr-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/aidankinzett/claude-git-pr-skill.git"
+      },
+      "description": "Runs consistent, professional GitHub pull-request reviews with pending reviews and code suggestions."
+    },
+    {
+      "name": "anaydhawan-oss-launch",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/AnayDhawan/oss-launch.git"
+      },
+      "description": "Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal."
+    },
+    {
+      "name": "anthropics-doc-coauthoring",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/anthropics/skills.git",
+        "path": "skills/doc-coauthoring"
+      },
+      "description": "Collaborative document editing and co-authoring, handy for group IAs or shared EE drafts."
+    },
+    {
+      "name": "anthropics-docx",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/anthropics/skills.git",
+        "path": "skills/docx"
+      },
+      "description": "Creates and edits Word documents with tracked changes, comments, and formatting."
+    },
+    {
+      "name": "anthropics-internal-comms",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/anthropics/skills.git",
+        "path": "skills/internal-comms"
+      },
+      "description": "Writes status reports, newsletters, and FAQs, good for group project updates and lab reports."
+    },
+    {
+      "name": "anthropics-pdf",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/anthropics/skills.git",
+        "path": "skills/pdf"
+      },
+      "description": "Extracts text from PDFs, creates new PDFs, and fills forms, useful for working with past papers and mark schemes."
+    },
+    {
+      "name": "anthropics-web-artifacts-builder",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/anthropics/skills.git",
+        "path": "skills/web-artifacts-builder"
+      },
+      "description": "Builds complex claude.ai HTML artifacts with React and Tailwind, useful for CS project demos and interactive coursework submissions."
+    },
+    {
+      "name": "anthropics-webapp-testing",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/anthropics/skills.git",
+        "path": "skills/webapp-testing"
+      },
+      "description": "Automates browser testing of local web apps with Playwright, handy for verifying CS class projects."
+    },
+    {
+      "name": "anthropics-xlsx",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/anthropics/skills.git",
+        "path": "skills/xlsx"
+      },
+      "description": "Creates and analyzes spreadsheets with formulas, charts, and data cleaning."
+    },
+    {
+      "name": "ayushsao-capgemini-essay",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ayushsao/Capgemini_essay.git"
+      },
+      "description": "Analyzes student essays and scores grammar, vocabulary, and structure."
+    },
+    {
+      "name": "basicmachines-co-basic-memory-memory-literary-analysis",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/basicmachines-co/basic-memory.git",
+        "path": "skills/memory-literary-analysis",
+        "ref": "main"
+      },
+      "description": "Analyzes literary works into a searchable knowledge graph."
+    },
+    {
+      "name": "bevibing-tutor-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/bevibing/tutor-skills.git"
+      },
+      "description": "Turns PDFs, docs, or codebases into Obsidian study vaults with interactive quizzes."
+    },
+    {
+      "name": "borghei-claude-skills-research-grants",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/borghei/Claude-Skills.git",
+        "path": "research/grants",
+        "ref": "main"
+      },
+      "description": "Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate."
+    },
+    {
+      "name": "chrisvoncsefalvay-claude-d3js-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/chrisvoncsefalvay/claude-d3js-skill.git"
+      },
+      "description": "Builds interactive D3.js charts, graphs, and network diagrams for data analysis and reports."
+    },
+    {
+      "name": "composiohq-awesome-claude-skills-artifacts-builder",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "artifacts-builder",
+        "ref": "master"
+      },
+      "description": "Builds multi-component React/Tailwind HTML artifacts for interactive demos and projects."
+    },
+    {
+      "name": "composiohq-awesome-claude-skills-content-research-writer",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "content-research-writer",
+        "ref": "master"
+      },
+      "description": "Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles."
+    },
+    {
+      "name": "composiohq-awesome-claude-skills-developer-growth-analysis",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "developer-growth-analysis",
+        "ref": "master"
+      },
+      "description": "Analyzes your Claude Code chat history to surface coding patterns and learning gaps."
+    },
+    {
+      "name": "composiohq-awesome-claude-skills-document-skills-pptx",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "document-skills/pptx",
+        "ref": "master"
+      },
+      "description": "Creates, edits, and analyzes .pptx presentations."
+    },
+    {
+      "name": "composiohq-awesome-claude-skills-domain-name-brainstormer",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "domain-name-brainstormer",
+        "ref": "master"
+      },
+      "description": "🌐 Generates domain name ideas and checks availability across TLDs for side projects."
+    },
+    {
+      "name": "composiohq-awesome-claude-skills-file-organizer",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "file-organizer",
+        "ref": "master"
+      },
+      "description": "Organizes files and folders, finds duplicates, and cleans up your digital workspace."
+    },
+    {
+      "name": "composiohq-awesome-claude-skills-tailored-resume-generator",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills.git",
+        "path": "tailored-resume-generator",
+        "ref": "master"
+      },
+      "description": "Analyzes job descriptions and tailors resumes to highlight relevant experience and skills."
+    },
+    {
+      "name": "cooperwu-star-a-level-econ-marking-sample-cie-econ-essay",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/CooperWu-star/A-Level-Econ-Marking-Sample.git",
+        "path": "cie-econ-essay",
+        "ref": "main"
+      },
+      "description": "Marks and writes CIE A-Level Economics essays to grade descriptors."
+    },
+    {
+      "name": "david-saeteros-claude-skills-academic-writing",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/David-Saeteros/claude-skills.git",
+        "path": "skills/academic-writing",
+        "ref": "main"
+      },
+      "description": "Reviews and cites thesis or essay drafts against supervisor feedback and style guides."
+    },
+    {
+      "name": "davila7-claude-code-templates-email-composer",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/davila7/claude-code-templates.git",
+        "path": "cli-tool/components/skills/enterprise-communication/email-composer",
+        "ref": "main"
+      },
+      "description": "Drafts professional emails, handy for messaging professors or admissions offices."
+    },
+    {
+      "name": "davila7-claude-code-templates-literature-review",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/davila7/claude-code-templates.git",
+        "path": "cli-tool/components/skills/scientific/literature-review",
+        "ref": "main"
+      },
+      "description": "Runs systematic literature searches across academic databases with formatted citations, handy for EE research."
+    },
+    {
+      "name": "dbosk-introagents-honor-defense-prep",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/dbosk/introagents.git",
+        "path": "students/event-202605/skills/honor-defense-prep",
+        "ref": "main"
+      },
+      "description": "Rehearses defending your own submission through examiner-style questions."
+    },
+    {
+      "name": "florianbruniaux-claude-code-ultimate-guide-self-assessment",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide.git",
+        "path": ".claude/skills/self-assessment",
+        "ref": "main"
+      },
+      "description": "Assesses your Claude Code skill level and generates a personalized learning path."
+    },
+    {
+      "name": "gemini-cli-extensions-datacommons",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/gemini-cli-extensions/datacommons.git"
+      },
+      "description": "🔑 Queries Data Commons public statistical datasets in natural language for research and coursework."
+    },
+    {
+      "name": "ghutchis-chem-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ghutchis/chem-skill.git"
+      },
+      "description": "Renders 2D structure diagrams and 3D molecule viewers from chemical names."
+    },
+    {
+      "name": "googlarz-math-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/googlarz/math-skill.git"
+      },
+      "description": "Solves math problems step by step with built-in verification."
+    },
+    {
+      "name": "googleworkspace-gws-calendar",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/googleworkspace/cli.git",
+        "path": "skills/gws-calendar"
+      },
+      "description": "Manage calendars, events, and free/busy queries via the `gws` CLI."
+    },
+    {
+      "name": "googleworkspace-gws-classroom",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/googleworkspace/cli.git",
+        "path": "skills/gws-classroom"
+      },
+      "description": "Manage Google Classroom classes, rosters, and coursework via the `gws` CLI."
+    },
+    {
+      "name": "googleworkspace-gws-docs",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/googleworkspace/cli.git",
+        "path": "skills/gws-docs"
+      },
+      "description": "Read and write Google Docs documents via the `gws` CLI."
+    },
+    {
+      "name": "googleworkspace-gws-drive",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/googleworkspace/cli.git",
+        "path": "skills/gws-drive"
+      },
+      "description": "Manage Google Drive files, folders, and shared drives, handy for keeping coursework organized."
+    },
+    {
+      "name": "googleworkspace-gws-forms",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/googleworkspace/cli.git",
+        "path": "skills/gws-forms"
+      },
+      "description": "Create Google Forms, edit questions, and read responses via the `gws` CLI, handy for quizzes and surveys."
+    },
+    {
+      "name": "googleworkspace-gws-gmail",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/googleworkspace/cli.git",
+        "path": "skills/gws-gmail"
+      },
+      "description": "Send, read, and manage Gmail messages, labels, and drafts via the `gws` CLI."
+    },
+    {
+      "name": "googleworkspace-gws-sheets",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/googleworkspace/cli.git",
+        "path": "skills/gws-sheets"
+      },
+      "description": "Read and write Google Sheets spreadsheets via the `gws` CLI."
+    },
+    {
+      "name": "googleworkspace-gws-slides",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/googleworkspace/cli.git",
+        "path": "skills/gws-slides"
+      },
+      "description": "Read and write Google Slides presentations via the `gws` CLI."
+    },
+    {
+      "name": "googleworkspace-gws-tasks",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/googleworkspace/cli.git",
+        "path": "skills/gws-tasks"
+      },
+      "description": "Manage Google Tasks task lists and tasks via the `gws` CLI."
+    },
+    {
+      "name": "hameefy-claude-latex-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hameefy/claude-latex-skill.git"
+      },
+      "description": "Produces compilable LaTeX for math proofs, derivations, and Beamer slides."
+    },
+    {
+      "name": "hamsamilton-lang-tutor",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hamsamilton/lang-tutor.git"
+      },
+      "description": "Gives grammar corrections and vocabulary help in your target language."
+    },
+    {
+      "name": "hashemalskkkaf-exam-prep-mcq",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/HashemALSKKkAF/exam-prep-mcq.git"
+      },
+      "description": "Generates MCQ quizzes from study material and delivers them as a Google Form."
+    },
+    {
+      "name": "hluaguo-learn-faster-kit",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hluaguo/learn-faster-kit.git"
+      },
+      "description": "AI learning coach with spaced repetition, syllabi, and progress tracking."
+    },
+    {
+      "name": "hmohamed01-sql-expert",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/hmohamed01/SQL-Expert.git"
+      },
+      "description": "Guides writing, optimizing, and debugging T-SQL queries, good for SQL coursework practice."
+    },
+    {
+      "name": "huggingface-hugging-face-datasets",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/huggingface/skills.git",
+        "path": "skills/huggingface-datasets"
+      },
+      "description": "🔑 Creates and manages datasets with SQL querying, useful for statistics and data science projects."
+    },
+    {
+      "name": "imbad0202-academic-research-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Imbad0202/academic-research-skills.git"
+      },
+      "description": "Full research-to-publication pipeline: research, write, review, revise, and finalize, useful for IA and EE drafts."
+    },
+    {
+      "name": "jakedahn-pomodoro",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jakedahn/pomodoro.git"
+      },
+      "description": "Pomodoro timer skill that tracks and learns from your focus sessions."
+    },
+    {
+      "name": "juanlurg-data-science-claude-skills-experiment-tracker",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/juanlurg/data-science-claude-skills.git"
+      },
+      "description": "Logs, compares, and visualizes lab experiment runs and results with local JSON storage."
+    },
+    {
+      "name": "karanb192-algo-sensei",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/karanb192/algo-sensei.git"
+      },
+      "description": "Generates LeetCode-style problems with progressive hints and mock interviews."
+    },
+    {
+      "name": "kevinryan-au-claude-cover-letter",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kevinryan-au/claude-cover-letter.git"
+      },
+      "description": "Turns a pasted job posting into a tailored, one-page cover letter."
+    },
+    {
+      "name": "kgraph57-paper-writer-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kgraph57/paper-writer-skill.git"
+      },
+      "description": "Drafts IMRAD-structured scientific manuscripts, useful for lab reports and write-ups."
+    },
+    {
+      "name": "kirilxd-claude-tutor",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kirilxd/claude-tutor.git"
+      },
+      "description": "Personal tutor with adaptive quizzes and SM-2 spaced repetition."
+    },
+    {
+      "name": "m98-fluent",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/m98/fluent.git"
+      },
+      "description": "Drills vocabulary and corrects target-language writing using spaced repetition."
+    },
+    {
+      "name": "majiayu000-claude-skill-registry-statistics-math",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/majiayu000/claude-skill-registry.git",
+        "path": "skills/data/statistics-math",
+        "ref": "main"
+      },
+      "description": "Applies statistical tests, probability calculations, and distribution analysis to data."
+    },
+    {
+      "name": "master-cai-research-paper-writing-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills.git"
+      },
+      "description": "Skill package for planning and writing research papers."
+    },
+    {
+      "name": "mattpocock-skills-diagnosing-bugs",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mattpocock/skills.git",
+        "path": "skills/engineering/diagnosing-bugs",
+        "ref": "main"
+      },
+      "description": "Disciplined debug loop: reproduce, minimize, hypothesize, instrument, fix."
+    },
+    {
+      "name": "mattpocock-skills-git-guardrails-claude-code",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mattpocock/skills.git",
+        "path": "skills/misc/git-guardrails-claude-code",
+        "ref": "main"
+      },
+      "description": "Blocks dangerous git commands (push, reset --hard, clean) via Claude Code hooks."
+    },
+    {
+      "name": "mattpocock-skills-handoff",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mattpocock/skills.git",
+        "path": "skills/productivity/handoff",
+        "ref": "main"
+      },
+      "description": "Compresses a long study session into a handoff doc so a fresh agent can continue where you left off."
+    },
+    {
+      "name": "mattpocock-skills-resolving-merge-conflicts",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mattpocock/skills.git",
+        "path": "skills/engineering/resolving-merge-conflicts",
+        "ref": "main"
+      },
+      "description": "Walks through resolving an in-progress git merge or rebase conflict step by step."
+    },
+    {
+      "name": "mattpocock-skills-tdd",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mattpocock/skills.git",
+        "path": "skills/engineering/tdd",
+        "ref": "main"
+      },
+      "description": "Guides test-driven development with red-green-refactor cycles and behavior-focused tests."
+    },
+    {
+      "name": "mattpocock-skills-teach",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mattpocock/skills.git",
+        "path": "skills/productivity/teach",
+        "ref": "main"
+      },
+      "description": "Multi-session instructor that scaffolds HTML lessons, tracks learning records, and builds reference cheat sheets."
+    },
+    {
+      "name": "mordor-forge-study-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/mordor-forge/study-skill.git"
+      },
+      "description": "Builds spaced-repetition study workspaces with FSRS-based lesson review scheduling."
+    },
+    {
+      "name": "neolabhq-context-engineering-kit-write-concisely",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/NeoLabHQ/context-engineering-kit.git",
+        "path": "plugins/docs/skills/write-concisely",
+        "ref": "master"
+      },
+      "description": "Applies *The Elements of Style* principles to tighten essays and cut wordiness."
+    },
+    {
+      "name": "openai-jupyter-notebook",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/openai/skills.git",
+        "path": "skills/.curated/jupyter-notebook"
+      },
+      "description": "Creates clean, reproducible Jupyter notebooks for experiments and tutorials, essential for data science coursework."
+    },
+    {
+      "name": "openai-spreadsheet",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/openai/skills.git",
+        "path": "skills/.curated/spreadsheet"
+      },
+      "description": "Creates, edits, analyzes, and visualizes spreadsheets with formulas, handy for physics data tables and chemistry calculations."
+    },
+    {
+      "name": "openai-transcribe",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/openai/skills.git",
+        "path": "skills/.curated/transcribe"
+      },
+      "description": "🔑 Transcribes audio files to text with optional speaker diarization, great for recording and reviewing lectures."
+    },
+    {
+      "name": "paramchoudhary-resumeskills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Paramchoudhary/ResumeSkills.git"
+      },
+      "description": "Resume optimization, ATS scoring, and interview prep skills."
+    },
+    {
+      "name": "peter209393-anki-card-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/peter209393/anki-card-skills.git"
+      },
+      "description": "Builds importable Anki decks with basic, reversed, and cloze cards."
+    },
+    {
+      "name": "phuryn-pm-skills-grammar-check",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/phuryn/pm-skills.git",
+        "path": "pm-toolkit/skills/grammar-check",
+        "ref": "main"
+      },
+      "description": "Flags grammar, logic, and flow errors with targeted fixes, no full rewrite."
+    },
+    {
+      "name": "pinakdhabu-exam-prompt",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/pinakdhabu/Exam-prompt.git"
+      },
+      "description": "Generates exam answers, notes, and study plans for any university."
+    },
+    {
+      "name": "santifer-career-ops",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/santifer/career-ops.git"
+      },
+      "description": "Scores job listings, tailors resumes, and tracks applications for a job search."
+    },
+    {
+      "name": "saulmcphd-apa-style",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/saulmcphd/apa-style.git"
+      },
+      "description": "Proofreads papers against APA 7th edition rules with inline corrections."
+    },
+    {
+      "name": "seanzor-claude-speed-reader",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/SeanZoR/claude-speed-reader.git"
+      },
+      "description": "Speed-reads long responses at 600+ WPM using RSVP with ORP highlighting."
+    },
+    {
+      "name": "shauryagangrade-intent-drift-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shauryagangrade/intent-drift-skill.git"
+      },
+      "description": "Detects when AI-assisted coding drifts from the original goal and prompts you to re-align."
+    },
+    {
+      "name": "shauryagangrade-scout-issue",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shauryagangrade/scout-issue.git"
+      },
+      "description": "Finds and ranks GitHub issues matched to your skills, experience, and time for open-source contributions."
+    },
+    {
+      "name": "sickn33-agentic-awesome-skills-bulletmind",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/sickn33/agentic-awesome-skills.git",
+        "path": "skills/bulletmind",
+        "ref": "main"
+      },
+      "description": "Converts any input into clean hierarchical bullet points for note-taking and summarization."
+    },
+    {
+      "name": "sickn33-agentic-awesome-skills-code-documentation-code-explain",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/sickn33/agentic-awesome-skills.git",
+        "path": "skills/code-documentation-code-explain",
+        "ref": "main"
+      },
+      "description": "Explains complex code through narratives, visual diagrams, and step-by-step breakdowns."
+    },
+    {
+      "name": "sickn33-agentic-awesome-skills-examprep-ai",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/sickn33/agentic-awesome-skills.git",
+        "path": "skills/examprep-ai",
+        "ref": "main"
+      },
+      "description": "Converts syllabi, past papers, or notes into a ranked High Score Roadmap with MCQs and question prediction."
+    },
+    {
+      "name": "sjy051-music-composition",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/SJY051/music-composition.git"
+      },
+      "description": "Guides music composition and analysis across harmony, melody, form, and genre conventions, useful for IB Music investigations."
+    },
+    {
+      "name": "sourikduttanyu-interview-prep",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sourikduttanyu/interview-prep.git"
+      },
+      "description": "Builds a tailored interview prep kit from your resume and a job description."
+    },
+    {
+      "name": "varunr89-resume-tailoring-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/varunr89/resume-tailoring-skill.git"
+      },
+      "description": "AI-powered resume tailoring for specific job descriptions."
+    },
+    {
+      "name": "wentorai-research-plugins-history-research-guide",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/wentorai/research-plugins.git",
+        "path": "skills/domains/humanities/history-research-guide",
+        "ref": "main"
+      },
+      "description": "Guides primary-source criticism, archival research, and historiography for history papers."
+    },
+    {
+      "name": "wentorai-research-plugins-inaturalist-api",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/wentorai/research-plugins.git",
+        "path": "skills/domains/ecology/inaturalist-api",
+        "ref": "main"
+      },
+      "description": "🌐 Queries the iNaturalist API for biodiversity observation data."
+    },
+    {
+      "name": "x-tong6-pscher",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/X-tong6/pscher.git"
+      },
+      "description": "Generates English personal statements for Hong Kong university applications."
+    },
+    {
+      "name": "xwmxcz-papers-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/xwmxcz/papers-skill.git"
+      },
+      "description": "🌐 Searches 200M+ papers on Semantic Scholar, inspects citations, and downloads arXiv PDFs."
+    },
+    {
+      "name": "zarazhangrui-codebase-to-course",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zarazhangrui/codebase-to-course.git"
+      },
+      "description": "Turns any codebase into an interactive HTML course for beginners."
+    },
+    {
+      "name": "zarazhangrui-frontend-slides",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/zarazhangrui/frontend-slides.git"
+      },
+      "description": "Builds animation-rich HTML presentations from scratch or converted from PowerPoint files."
+    },
+    {
+      "name": "alirezarezvani-claude-skills-productivity-capture",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/alirezarezvani/claude-skills.git",
+        "path": "productivity/capture",
+        "ref": "main"
+      },
+      "description": "Organizes a brain-dump of mixed thoughts, tasks, and ideas into an actionable list."
+    },
+    {
+      "name": "alirezarezvani-claude-skills-productivity-deep-work",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/alirezarezvani/claude-skills.git",
+        "path": "productivity/deep-work",
+        "ref": "main"
+      },
+      "description": "Time-blocks the day into deep and shallow work with focus blocks, Cal Newport style."
+    },
+    {
+      "name": "alirezarezvani-claude-skills-research-deep-research",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/alirezarezvani/claude-skills.git",
+        "path": "research/deep-research",
+        "ref": "main"
+      },
+      "description": "Runs a multi-source research pipeline with citations for high-stakes research questions."
+    },
+    {
+      "name": "alirezarezvani-claude-skills-research-litreview",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/alirezarezvani/claude-skills.git",
+        "path": "research/litreview",
+        "ref": "main"
+      },
+      "description": "Turns a research question into a planned mini literature review as a Word document."
+    },
+    {
+      "name": "alirezarezvani-claude-skills-research-syllabus",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/alirezarezvani/claude-skills.git",
+        "path": "research/syllabus",
+        "ref": "main"
+      },
+      "description": "Builds a supplementary reading list and discussion questions from a course syllabus."
+    },
+    {
+      "name": "dair-ai-dair-academy-plugins-lesson-generator",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/dair-ai/dair-academy-plugins.git",
+        "path": "plugins/lesson-generator",
+        "ref": "main"
+      },
+      "description": "Generates multi-lesson HTML courses with flashcards, quizzes, objectives, and source links."
+    },
+    {
+      "name": "dair-ai-dair-academy-plugins-wiki-builder",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/dair-ai/dair-academy-plugins.git",
+        "path": "plugins/wiki-builder",
+        "ref": "main"
+      },
+      "description": "Builds and maintains structured research wikis with sources, compiled pages, and derived artifacts."
+    },
+    {
+      "name": "dair-ai-dair-academy-plugins-youtube-notetaker",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/dair-ai/dair-academy-plugins.git",
+        "path": "plugins/youtube-notetaker",
+        "ref": "main"
+      },
+      "description": "Turns YouTube talks into local study notes with slides, transcripts, and editable annotations."
+    },
+    {
+      "name": "danielrosehill-claude-career-plugin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/danielrosehill/Claude-Career-Plugin.git"
+      },
+      "description": "Bundles resume tailoring, cover letters, and interview prep in one plugin."
+    },
+    {
+      "name": "emili-kosik-admission-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/emili-kosik/admission-skills.git"
+      },
+      "description": "Tracks college application deadlines, checklists, and exports a reminder calendar."
+    },
+    {
+      "name": "jacquardlabs-study-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jacquardlabs/study-skills.git"
+      },
+      "description": "Turns lecture slides into flashcards, quizzes, and study milestones."
+    },
+    {
+      "name": "jeandiable-academic-research-plugin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JeanDiable/academic-research-plugin.git"
+      },
+      "description": "Plugin for literature surveys, paper reviews, and citation management."
+    },
+    {
+      "name": "juliusbrussee-caveman",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JuliusBrussee/caveman.git"
+      },
+      "description": "Compresses agent responses into concise caveman-style language, reducing token usage while preserving technical accuracy. Supports Claude Code, Cursor, Copilot, and 30+ other agents."
+    },
+    {
+      "name": "k-dense-ai-scientific-agent-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/K-Dense-AI/scientific-agent-skills.git"
+      },
+      "description": "140+ science skills covering biology, chemistry, medicine, and 100+ scientific databases."
+    },
+    {
+      "name": "kepano-obsidian-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kepano/obsidian-skills.git"
+      },
+      "description": "Reads, writes, and organizes Obsidian notes, canvases, and databases via the Obsidian CLI."
+    },
+    {
+      "name": "obra-superpowers",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/obra/superpowers.git"
+      },
+      "description": "20+ skills for spec-to-code workflows with TDD, brainstorming, and subagent-driven planning commands."
+    },
+    {
+      "name": "olegvg-resume-tailor-plugin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/olegvg/resume-tailor-plugin.git"
+      },
+      "description": "Claude Code plugin that tailors your resume to a job post."
+    },
+    {
+      "name": "wenyuchiou-zotero-skills",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/WenyuChiou/zotero-skills.git"
+      },
+      "description": "Searches, tags, and organizes Zotero references from your agent."
+    },
+    {
+      "name": "ib-igcse-bundle",
+      "source": "./bundles/ib-igcse-bundle",
+      "description": "IB & IGCSE Coursework skills in one install (9 skills).",
+      "dependencies": [
+        "anthropics-doc-coauthoring",
+        "anthropics-pdf",
+        "david-saeteros-claude-skills-academic-writing",
+        "davila7-claude-code-templates-literature-review",
+        "dbosk-introagents-honor-defense-prep",
+        "hameefy-claude-latex-skill",
+        "imbad0202-academic-research-skills",
+        "saulmcphd-apa-style",
+        "sjy051-music-composition"
+      ]
+    },
+    {
+      "name": "study-productivity-bundle",
+      "source": "./bundles/study-productivity-bundle",
+      "description": "Study & Productivity skills in one install (17 skills; 1 paid-key skill excluded, install separately).",
+      "dependencies": [
+        "anthropics-docx",
+        "anthropics-internal-comms",
+        "anthropics-xlsx",
+        "bevibing-tutor-skills",
+        "composiohq-awesome-claude-skills-document-skills-pptx",
+        "composiohq-awesome-claude-skills-file-organizer",
+        "hluaguo-learn-faster-kit",
+        "jakedahn-pomodoro",
+        "mattpocock-skills-handoff",
+        "mattpocock-skills-teach",
+        "mordor-forge-study-skill",
+        "peter209393-anki-card-skills",
+        "pinakdhabu-exam-prompt",
+        "seanzor-claude-speed-reader",
+        "sickn33-agentic-awesome-skills-bulletmind",
+        "sickn33-agentic-awesome-skills-examprep-ai",
+        "zarazhangrui-frontend-slides"
+      ]
+    },
+    {
+      "name": "coding-cs-bundle",
+      "source": "./bundles/coding-cs-bundle",
+      "description": "Coding & CS Education skills in one install (18 skills).",
+      "dependencies": [
+        "0xsarwagya-ontoly",
+        "aidankinzett-claude-git-pr-skill",
+        "anthropics-web-artifacts-builder",
+        "anthropics-webapp-testing",
+        "composiohq-awesome-claude-skills-artifacts-builder",
+        "composiohq-awesome-claude-skills-developer-growth-analysis",
+        "florianbruniaux-claude-code-ultimate-guide-self-assessment",
+        "hmohamed01-sql-expert",
+        "karanb192-algo-sensei",
+        "kirilxd-claude-tutor",
+        "mattpocock-skills-diagnosing-bugs",
+        "mattpocock-skills-git-guardrails-claude-code",
+        "mattpocock-skills-resolving-merge-conflicts",
+        "mattpocock-skills-tdd",
+        "openai-jupyter-notebook",
+        "shauryagangrade-intent-drift-skill",
+        "sickn33-agentic-awesome-skills-code-documentation-code-explain",
+        "zarazhangrui-codebase-to-course"
+      ]
+    },
+    {
+      "name": "stem-bundle",
+      "source": "./bundles/stem-bundle",
+      "description": "STEM Subjects skills in one install (8 skills; 2 paid-key skills excluded, install separately).",
+      "dependencies": [
+        "abelsr-computational-physics",
+        "chrisvoncsefalvay-claude-d3js-skill",
+        "ghutchis-chem-skill",
+        "googlarz-math-skill",
+        "juanlurg-data-science-claude-skills-experiment-tracker",
+        "majiayu000-claude-skill-registry-statistics-math",
+        "openai-spreadsheet",
+        "wentorai-research-plugins-inaturalist-api"
+      ]
+    },
+    {
+      "name": "writing-humanities-bundle",
+      "source": "./bundles/writing-humanities-bundle",
+      "description": "Writing & Humanities skills in one install (11 skills).",
+      "dependencies": [
+        "ayushsao-capgemini-essay",
+        "basicmachines-co-basic-memory-memory-literary-analysis",
+        "composiohq-awesome-claude-skills-content-research-writer",
+        "cooperwu-star-a-level-econ-marking-sample-cie-econ-essay",
+        "davila7-claude-code-templates-email-composer",
+        "kgraph57-paper-writer-skill",
+        "master-cai-research-paper-writing-skills",
+        "neolabhq-context-engineering-kit-write-concisely",
+        "phuryn-pm-skills-grammar-check",
+        "wentorai-research-plugins-history-research-guide",
+        "xwmxcz-papers-skill"
+      ]
+    },
+    {
+      "name": "language-learning-bundle",
+      "source": "./bundles/language-learning-bundle",
+      "description": "Language Learning skills in one install (2 skills).",
+      "dependencies": [
+        "hamsamilton-lang-tutor",
+        "m98-fluent"
+      ]
+    },
+    {
+      "name": "college-career-bundle",
+      "source": "./bundles/college-career-bundle",
+      "description": "College Applications & Career skills in one install (11 skills).",
+      "dependencies": [
+        "anaydhawan-oss-launch",
+        "borghei-claude-skills-research-grants",
+        "composiohq-awesome-claude-skills-domain-name-brainstormer",
+        "composiohq-awesome-claude-skills-tailored-resume-generator",
+        "kevinryan-au-claude-cover-letter",
+        "paramchoudhary-resumeskills",
+        "santifer-career-ops",
+        "shauryagangrade-scout-issue",
+        "sourikduttanyu-interview-prep",
+        "varunr89-resume-tailoring-skill",
+        "x-tong6-pscher"
+      ]
+    },
+    {
+      "name": "google-workspace-bundle",
+      "source": "./bundles/google-workspace-bundle",
+      "description": "Google Workspace for Students skills in one install (10 skills).",
+      "dependencies": [
+        "googleworkspace-gws-calendar",
+        "googleworkspace-gws-classroom",
+        "googleworkspace-gws-docs",
+        "googleworkspace-gws-drive",
+        "googleworkspace-gws-forms",
+        "googleworkspace-gws-gmail",
+        "googleworkspace-gws-sheets",
+        "googleworkspace-gws-slides",
+        "googleworkspace-gws-tasks",
+        "hashemalskkkaf-exam-prep-mcq"
+      ]
+    }
+  ]
+}

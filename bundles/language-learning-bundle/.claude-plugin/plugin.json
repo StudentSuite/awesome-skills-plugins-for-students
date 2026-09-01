@@ -1,0 +1,13 @@
+{
+  "name": "language-learning-bundle",
+  "version": "1.0.0",
+  "description": "Language Learning skills in one install.",
+  "author": {
+    "name": "StudentSuite",
+    "url": "https://github.com/StudentSuite"
+  },
+  "dependencies": [
+    "hamsamilton-lang-tutor",
+    "m98-fluent"
+  ]
+}

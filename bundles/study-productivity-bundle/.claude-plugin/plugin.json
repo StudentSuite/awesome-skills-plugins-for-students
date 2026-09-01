@@ -1,0 +1,28 @@
+{
+  "name": "study-productivity-bundle",
+  "version": "1.0.0",
+  "description": "Study & Productivity skills in one install.",
+  "author": {
+    "name": "StudentSuite",
+    "url": "https://github.com/StudentSuite"
+  },
+  "dependencies": [
+    "anthropics-docx",
+    "anthropics-internal-comms",
+    "anthropics-xlsx",
+    "bevibing-tutor-skills",
+    "composiohq-awesome-claude-skills-document-skills-pptx",
+    "composiohq-awesome-claude-skills-file-organizer",
+    "hluaguo-learn-faster-kit",
+    "jakedahn-pomodoro",
+    "mattpocock-skills-handoff",
+    "mattpocock-skills-teach",
+    "mordor-forge-study-skill",
+    "peter209393-anki-card-skills",
+    "pinakdhabu-exam-prompt",
+    "seanzor-claude-speed-reader",
+    "sickn33-agentic-awesome-skills-bulletmind",
+    "sickn33-agentic-awesome-skills-examprep-ai",
+    "zarazhangrui-frontend-slides"
+  ]
+}

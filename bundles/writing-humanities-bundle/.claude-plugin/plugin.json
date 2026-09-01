@@ -1,0 +1,22 @@
+{
+  "name": "writing-humanities-bundle",
+  "version": "1.0.0",
+  "description": "Writing & Humanities skills in one install.",
+  "author": {
+    "name": "StudentSuite",
+    "url": "https://github.com/StudentSuite"
+  },
+  "dependencies": [
+    "ayushsao-capgemini-essay",
+    "basicmachines-co-basic-memory-memory-literary-analysis",
+    "composiohq-awesome-claude-skills-content-research-writer",
+    "cooperwu-star-a-level-econ-marking-sample-cie-econ-essay",
+    "davila7-claude-code-templates-email-composer",
+    "kgraph57-paper-writer-skill",
+    "master-cai-research-paper-writing-skills",
+    "neolabhq-context-engineering-kit-write-concisely",
+    "phuryn-pm-skills-grammar-check",
+    "wentorai-research-plugins-history-research-guide",
+    "xwmxcz-papers-skill"
+  ]
+}
