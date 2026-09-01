@@ -1,0 +1,36 @@
+name: Welcome First-Time Contributors
+
+on:
+  issues:
+    types: [opened]
+  pull_request_target:
+    types: [opened]
+
+permissions:
+  issues: write
+  pull-requests: write
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/first-interaction@v3
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          issue_message: >
+            Thanks for opening your first issue here! If you're suggesting a skill
+            or plugin, reporting a broken link, or proposing a new section, a
+            maintainer will take a look soon. For anything more open-ended,
+            [Discussions](https://github.com/StudentSuite/awesome-skills-plugins-for-students/discussions)
+            is also a good place to ask. See
+            [CONTRIBUTING.md](https://github.com/StudentSuite/awesome-skills-plugins-for-students/blob/main/CONTRIBUTING.md)
+            for how this list is maintained.
+          pr_message: >
+            Thanks for your first PR! A couple of things that'll speed up review:
+            place your entry in its correct
+            alphabetical position, and make sure it meets the
+            [Quality Standards](https://github.com/StudentSuite/awesome-skills-plugins-for-students/blob/main/README.md#quality-standards)
+            (public, documented, works with a listed agent, real and usable). CI
+            will check the entry format and alphabetical order automatically, see
+            [CONTRIBUTING.md](https://github.com/StudentSuite/awesome-skills-plugins-for-students/blob/main/CONTRIBUTING.md)
+            for the full checklist.
