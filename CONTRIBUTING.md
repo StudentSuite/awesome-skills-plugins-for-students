@@ -274,3 +274,24 @@ A separate scheduled workflow (`.github/workflows/dead-link-check.yml`) checks e
 A third workflow (`.github/workflows/markdownlint.yml`) runs `markdownlint-cli2` on those same seven Markdown files. Its config, `.markdownlint.jsonc`, turns off the rules that conflict with this repo's intentional style: long single-line entries (MD013) and the `<details>`/`<picture>` inline HTML used for collapsible sections and the logo (MD033).
 
 The lint workflow also runs `scripts/audit-duplicate-urls.mjs`, which reports every URL used more than once in README.md. This is informational only and never fails the build.
+
+---
+
+## Branch protection and admin bypass
+
+`main`'s branch protection rule requires the `check-list-format` and
+`markdownlint` status checks and (since #109) at least one CODEOWNERS-based
+approving review, but `enforce_admins` is deliberately left `false`. That
+means a repo admin — a maintainer pushing directly to `main` for a quick fix
+or a maintenance pass — bypasses both of those requirements entirely; GitHub
+shows a "Bypassed rule violations" notice on that kind of push.
+
+This is a known, open tradeoff (#108), not an oversight: turning
+`enforce_admins` on would block direct-to-main pushes entirely, including
+routine maintenance, unless every change goes through a PR first — a real
+workflow change for a small-maintainer-count repo, not just a settings
+toggle. It needs an explicit maintainer decision (is the workflow ready to
+move to PR-only merges on `main`?) rather than being flipped on
+unilaterally. Until that decision is made, treat every direct push to `main`
+as running on trust rather than on the enforced checks, and lean on running
+the checks locally first (see [CI checks](#ci-checks) above).
