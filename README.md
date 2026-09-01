@@ -83,9 +83,9 @@ See [EXAMPLES.md](EXAMPLES.md) for a worked walkthrough chaining several of thes
 
 Spaced repetition, time and task management, note-taking, and focus.
 
-Several spaced-repetition study tools overlap here. To pick one: **hluaguo/learn-faster-kit** is a general learning coach with syllabi and progress tracking; **RoundTable02/tutor-skills** turns source material into an Obsidian vault with quizzes; **sickn33/antigravity-awesome-skills - examprep-ai** ranks topics into a scored study roadmap; and **mordor-forge/study-skill** runs FSRS-scheduled lesson review sessions with git-tracked progress.
+Several spaced-repetition study tools overlap here. To pick one: **hluaguo/learn-faster-kit** is a general learning coach with syllabi and progress tracking; **bevibing/tutor-skills** turns source material into an Obsidian vault with quizzes; **sickn33/agentic-awesome-skills - examprep-ai** ranks topics into a scored study roadmap; and **mordor-forge/study-skill** runs FSRS-scheduled lesson review sessions with git-tracked progress.
 
-Three entries generate exam-prep material with no prior note on how they differ. **sickn33/antigravity-awesome-skills - examprep-ai** (this section) ranks syllabus topics into a scored roadmap with MCQs and question prediction; **pinakdhabu/Exam-prompt** (this section) generates exam answers, notes, and study plans for any university; and **HashemALSKKkAF/exam-prep-mcq** (under [Google Workspace for Students](#google-workspace-for-students)) turns study material into an MCQ quiz delivered as a Google Form.
+Three entries generate exam-prep material with no prior note on how they differ. **sickn33/agentic-awesome-skills - examprep-ai** (this section) ranks syllabus topics into a scored roadmap with MCQs and question prediction; **pinakdhabu/Exam-prompt** (this section) generates exam answers, notes, and study plans for any university; and **HashemALSKKkAF/exam-prep-mcq** (under [Google Workspace for Students](#google-workspace-for-students)) turns study material into an MCQ quiz delivered as a Google Form.
 
 <details open>
 <summary>Show 18 skills</summary>
@@ -93,6 +93,7 @@ Three entries generate exam-prep material with no prior note on how they differ.
 - **[anthropics/docx](https://officialskills.sh/anthropics/skills/docx)** - Creates and edits Word documents with tracked changes, comments, and formatting.
 - **[anthropics/internal-comms](https://officialskills.sh/anthropics/skills/internal-comms)** - Writes status reports, newsletters, and FAQs, good for group project updates and lab reports.
 - **[anthropics/xlsx](https://officialskills.sh/anthropics/skills/xlsx)** - Creates and analyzes spreadsheets with formulas, charts, and data cleaning.
+- **[bevibing/tutor-skills](https://github.com/bevibing/tutor-skills)** - Turns PDFs, docs, or codebases into Obsidian study vaults with interactive quizzes.
 - **[ComposioHQ/awesome-claude-skills - document-skills/pptx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pptx)** - Creates, edits, and analyzes .pptx presentations.
 - **[ComposioHQ/awesome-claude-skills - file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer)** - Organizes files and folders, finds duplicates, and cleans up your digital workspace.
 - **[hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit)** - AI learning coach with spaced repetition, syllabi, and progress tracking.
@@ -103,10 +104,9 @@ Three entries generate exam-prep material with no prior note on how they differ.
 - **[openai/transcribe](https://officialskills.sh/openai/skills/transcribe)** - 🔑 Transcribes audio files to text with optional speaker diarization, great for recording and reviewing lectures.
 - **[peter209393/anki-card-skills](https://github.com/peter209393/anki-card-skills)** - Builds importable Anki decks with basic, reversed, and cloze cards.
 - **[pinakdhabu/Exam-prompt](https://github.com/pinakdhabu/Exam-prompt)** - Generates exam answers, notes, and study plans for any university.
-- **[RoundTable02/tutor-skills](https://github.com/RoundTable02/tutor-skills)** - Turns PDFs, docs, or codebases into Obsidian study vaults with interactive quizzes.
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed-reads long responses at 600+ WPM using RSVP with ORP highlighting.
-- **[sickn33/antigravity-awesome-skills - bulletmind](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/bulletmind)** - Converts any input into clean hierarchical bullet points for note-taking and summarization.
-- **[sickn33/antigravity-awesome-skills - examprep-ai](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/examprep-ai)** - Converts syllabi, past papers, or notes into a ranked High Score Roadmap with MCQs and question prediction.
+- **[sickn33/agentic-awesome-skills - bulletmind](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/bulletmind)** - Converts any input into clean hierarchical bullet points for note-taking and summarization.
+- **[sickn33/agentic-awesome-skills - examprep-ai](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/examprep-ai)** - Converts syllabi, past papers, or notes into a ranked High Score Roadmap with MCQs and question prediction.
 - **[zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides)** - Builds animation-rich HTML presentations from scratch or converted from PowerPoint files.
 
 </details>
@@ -136,7 +136,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[mattpocock/skills - tdd](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd)** - Guides test-driven development with red-green-refactor cycles and behavior-focused tests.
 - **[openai/jupyter-notebook](https://officialskills.sh/openai/skills/jupyter-notebook)** - Creates clean, reproducible Jupyter notebooks for experiments and tutorials, essential for data science coursework.
 - **[shauryagangrade/intent-drift-skill](https://github.com/shauryagangrade/intent-drift-skill)** - Detects when AI-assisted coding drifts from the original goal and prompts you to re-align.
-- **[sickn33/antigravity-awesome-skills - code-documentation-code-explain](https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/code-documentation-code-explain)** - Explains complex code through narratives, visual diagrams, and step-by-step breakdowns.
+- **[sickn33/agentic-awesome-skills - code-documentation-code-explain](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/code-documentation-code-explain)** - Explains complex code through narratives, visual diagrams, and step-by-step breakdowns.
 - **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** - Turns any codebase into an interactive HTML course for beginners.
 
 </details>
@@ -217,7 +217,7 @@ Several resume tools overlap here. To pick one: **tailored-resume-generator** an
 
 Skills for Google's tools: Docs, Slides, Classroom, and more. Useful if your school runs on Google Workspace for Education.
 
-**HashemALSKKkAF/exam-prep-mcq** generates exam-prep MCQs like **sickn33/antigravity-awesome-skills - examprep-ai** and **pinakdhabu/Exam-prompt** (both under [Study & Productivity](#study--productivity)), but its distinguishing feature is delivering the quiz as a native Google Form.
+**HashemALSKKkAF/exam-prep-mcq** generates exam-prep MCQs like **sickn33/agentic-awesome-skills - examprep-ai** and **pinakdhabu/Exam-prompt** (both under [Study & Productivity](#study--productivity)), but its distinguishing feature is delivering the quiz as a native Google Form.
 
 <details open>
 <summary>Show 10 skills</summary>
@@ -257,7 +257,7 @@ Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, 
 - **[emili-kosik/admission-skills](https://github.com/emili-kosik/admission-skills)** - Tracks college application deadlines, checklists, and exports a reminder calendar.
 - **[JeanDiable/academic-research-plugin](https://github.com/JeanDiable/academic-research-plugin)** - Plugin for literature surveys, paper reviews, and citation management.
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - Compresses agent responses into concise caveman-style language, reducing token usage while preserving technical accuracy. Supports Claude Code, Cursor, Copilot, and 30+ other agents.
-- **[K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills)** - 140+ science skills covering biology, chemistry, medicine, and 100+ scientific databases.
+- **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** - 140+ science skills covering biology, chemistry, medicine, and 100+ scientific databases.
 - **[kepano/obsidian-skills](https://github.com/kepano/obsidian-skills)** - Reads, writes, and organizes Obsidian notes, canvases, and databases via the Obsidian CLI.
 - **[obra/superpowers](https://github.com/obra/superpowers)** - 20+ skills for spec-to-code workflows with TDD, brainstorming, and subagent-driven planning commands.
 - **[olegvg/resume-tailor-plugin](https://github.com/olegvg/resume-tailor-plugin)** - Claude Code plugin that tailors your resume to a job post.
