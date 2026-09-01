@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-87-blue)
+![Skills](https://img.shields.io/badge/skills-89-blue)
 ![Plugins](https://img.shields.io/badge/plugins-16-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -48,6 +48,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 💻 | [Coding & CS Education](#coding--cs-education) | 18 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 10 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 11 skills |
+| 🗣️ | [Language Learning](#language-learning) | 2 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 11 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 10 skills |
 | 🧩 | [Plugins](#plugins) | 16 plugins |
@@ -167,7 +168,7 @@ Math, physics, chemistry, and data analysis helpers.
 
 ## Writing & Humanities
 
-Essay structuring, academic research, literature analysis, and language learning.
+Essay structuring, academic research, and literature analysis. See [Language Learning](#language-learning) for target-language translation, vocabulary, and grammar practice.
 
 Two entries both flag writing errors. **phuryn/pm-skills - grammar-check** targets grammar, logic, and flow with minimal rewriting; **ayushsao/Capgemini_essay** scores an essay's grammar, vocabulary, and structure and charts the feedback.
 
@@ -185,6 +186,20 @@ Two entries both flag writing errors. **phuryn/pm-skills - grammar-check** targe
 - **[phuryn/pm-skills - grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)** - Flags grammar, logic, and flow errors with targeted fixes, no full rewrite.
 - **[wentorai/research-plugins - history-research-guide](https://github.com/wentorai/research-plugins/tree/main/skills/domains/humanities/history-research-guide)** - Guides primary-source criticism, archival research, and historiography for history papers.
 - **[xwmxcz/papers-skill](https://github.com/xwmxcz/papers-skill)** - 🌐 Searches 200M+ papers on Semantic Scholar, inspects citations, and downloads arXiv PDFs.
+
+</details>
+
+---
+
+## Language Learning
+
+Translation practice, vocabulary drilling, and grammar correction in a target (non-English) language, for IB Language A/B and IGCSE second-language coursework.
+
+<details open>
+<summary>Show 2 skills</summary>
+
+- **[hamsamilton/lang-tutor](https://github.com/hamsamilton/lang-tutor)** - Gives grammar corrections and vocabulary help in your target language.
+- **[m98/fluent](https://github.com/m98/fluent)** - Drills vocabulary and corrects target-language writing using spaced repetition.
 
 </details>
 

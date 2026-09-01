@@ -70,7 +70,7 @@ wording of what each marker promises.
 
 Add your single bullet to the closest matching section:
 
-- A **skill** goes under one of: IB & IGCSE Coursework, Study & Productivity, Coding & CS Education, STEM Subjects, Writing & Humanities, College Applications & Career, or Google Workspace for Students.
+- A **skill** goes under one of: IB & IGCSE Coursework, Study & Productivity, Coding & CS Education, STEM Subjects, Writing & Humanities, Language Learning, College Applications & Career, or Google Workspace for Students.
 - A **plugin** (a bundle of commands, agents, hooks, or MCP servers, not a single skill file) goes under [Plugins](README.md#plugins), regardless of subject area.
 - If nothing fits, open an issue first to discuss a new section before adding one.
 
