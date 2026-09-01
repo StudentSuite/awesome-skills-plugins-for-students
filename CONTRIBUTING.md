@@ -12,6 +12,17 @@ By participating, you're expected to follow the [Code of Conduct](CODE_OF_CONDUC
 
 ---
 
+## Overlap with the sister lists
+
+Since this list and the two sister lists share a maintainer, a resource can sometimes look like it could fit either. The deciding question is always the one at the top of this page: **is it an installable agent skill/plugin** — a `SKILL.md`, a Cursor rules file, Copilot custom instructions, or a Gemini CLI extension that runs *inside* an AI coding agent?
+
+- **Yes** -> it belongs here, even if a general-purpose tool or resource covering similar ground already exists on a sister list.
+- **No** -> it belongs on a sister list instead ([awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources) for general tools/textbooks/channels, [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) for exam/subject study material), not here.
+
+The same underlying resource is not meant to be listed on more than one of the three lists at once. If you spot the same link on this list and a sister list, open an issue (or a PR removing the less specific one) rather than leaving both.
+
+---
+
 ## Before you open a PR
 
 Check the entry meets the [Quality Standards](README.md#quality-standards):

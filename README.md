@@ -324,6 +324,8 @@ Looking for software, tools, textbooks, and other resources beyond skills and pl
 - [awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources) - Tools, textbooks and channels for students.
 - [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) - Exam and subject study material.
 
+A resource isn't meant to appear on more than one of these three lists. See [CONTRIBUTING.md](CONTRIBUTING.md#overlap-with-the-sister-lists) for how overlap is decided.
+
 ## License
 
 Released under the [MIT License](LICENSE). The license covers this list itself (README, CONTRIBUTING.md, curation structure), not the skills and plugins linked from it. Each of those is owned and licensed by its author in its own repo.
