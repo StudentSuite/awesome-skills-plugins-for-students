@@ -124,6 +124,20 @@ non-future `YYYY-MM-DD` date. It doesn't check that a date is actually
 extension of the larger data-file migration tracked in
 [#33](https://github.com/StudentSuite/awesome-skills-plugins-for-students/issues/33).
 
+### The Compatibility Paths table's doc links
+
+The [Compatibility Paths](README.md#compatibility-paths) table links to five
+external vendor doc pages (not README entries, so they're outside
+`data/last-verified.json`). A link checker only catches these going fully
+dead (404/DNS failure); a vendor reorganizing their docs site — as Cursor's
+and GitHub's did, both still returning `200` while no longer describing the
+right feature — won't trip it. `data/compat-paths-verified.json` tracks the
+same way: each of the five doc URLs mapped to the date someone last
+hand-confirmed it both resolves *and* still describes the feature the table
+claims it does. There's no CI check for this yet (only a human can judge
+whether page content still matches); treat it as a periodic manual
+spot-check, the same cadence as a last-verified pass.
+
 ---
 
 ## Submitting
