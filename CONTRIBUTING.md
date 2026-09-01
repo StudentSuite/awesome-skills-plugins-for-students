@@ -74,6 +74,16 @@ Add your single bullet to the closest matching section:
 - A **plugin** (a bundle of commands, agents, hooks, or MCP servers, not a single skill file) goes under [Plugins](README.md#plugins), regardless of subject area.
 - If nothing fits, open an issue first to discuss a new section before adding one.
 
+**Curriculum scope:** IB & IGCSE Coursework is scoped tightly to those two
+curricula's own deliverables (EE/IA/TOK-style work and IGCSE coursework), not
+to "coursework" generally — it isn't being renamed or broadened to absorb
+every curriculum. A skill or plugin for CBSE, ICSE, A-Levels, or any other
+curriculum (rubric feedback, citation formatting, research-project support,
+and so on) goes in the section matching its subject instead — usually
+Writing & Humanities for curriculum-agnostic academic-writing/research
+skills, or STEM Subjects / Coding & CS Education for subject-specific ones —
+the same place it would go for an IB/IGCSE student.
+
 ---
 
 ## Update the counts
