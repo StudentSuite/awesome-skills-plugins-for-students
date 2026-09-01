@@ -60,6 +60,8 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 
 IA, EE, and TOK helpers: citation formatting, rubric feedback, and document tooling.
 
+See [EXAMPLES.md](EXAMPLES.md) for a worked walkthrough chaining several of these skills for one full IB Extended Essay, start to finish.
+
 <details open>
 <summary>Show 9 skills</summary>
 
