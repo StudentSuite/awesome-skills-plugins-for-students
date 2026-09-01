@@ -5,10 +5,15 @@ on:
     paths:
       - README.md
       - data/last-verified.json
+      - data/skills.json
+      - data/plugins.json
+      - data/schema/entry.schema.json
       - scripts/check-list-format.mjs
       - scripts/check-counts*.mjs
       - scripts/check-markers*.mjs
       - scripts/check-last-verified*.mjs
+      - scripts/validate-data*.mjs
+      - scripts/generate-readme.mjs
       - scripts/audit-duplicate-urls.mjs
       - .github/workflows/lint.yml
   push:
@@ -17,10 +22,15 @@ on:
     paths:
       - README.md
       - data/last-verified.json
+      - data/skills.json
+      - data/plugins.json
+      - data/schema/entry.schema.json
       - scripts/check-list-format.mjs
       - scripts/check-counts*.mjs
       - scripts/check-markers*.mjs
       - scripts/check-last-verified*.mjs
+      - scripts/validate-data*.mjs
+      - scripts/generate-readme.mjs
       - scripts/audit-duplicate-urls.mjs
       - .github/workflows/lint.yml
 
@@ -35,5 +45,10 @@ jobs:
       - run: node --test scripts/*.test.mjs
       - run: node scripts/check-list-format.mjs
       - run: node scripts/check-last-verified.mjs
+      - run: node scripts/validate-data.mjs
+      # Fails if README.md has drifted from data/skills.json + data/plugins.json --
+      # contributors edit the data files and run `node scripts/generate-readme.mjs`
+      # locally to update README.md (see CONTRIBUTING.md).
+      - run: node scripts/generate-readme.mjs --check
       # Informational only: reports cross-section URL reuse, never fails the job.
       - run: node scripts/audit-duplicate-urls.mjs

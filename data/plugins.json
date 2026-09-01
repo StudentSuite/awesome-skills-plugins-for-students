@@ -1,0 +1,218 @@
+[
+  {
+    "name": "alirezarezvani/claude-skills - productivity/capture",
+    "url": "https://github.com/alirezarezvani/claude-skills/tree/main/productivity/capture",
+    "description": "Organizes a brain-dump of mixed thoughts, tasks, and ideas into an actionable list.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "alirezarezvani/claude-skills - productivity/deep-work",
+    "url": "https://github.com/alirezarezvani/claude-skills/tree/main/productivity/deep-work",
+    "description": "Time-blocks the day into deep and shallow work with focus blocks, Cal Newport style.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "alirezarezvani/claude-skills - research/deep-research",
+    "url": "https://github.com/alirezarezvani/claude-skills/tree/main/research/deep-research",
+    "description": "Runs a multi-source research pipeline with citations for high-stakes research questions.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "alirezarezvani/claude-skills - research/litreview",
+    "url": "https://github.com/alirezarezvani/claude-skills/tree/main/research/litreview",
+    "description": "Turns a research question into a planned mini literature review as a Word document.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "alirezarezvani/claude-skills - research/syllabus",
+    "url": "https://github.com/alirezarezvani/claude-skills/tree/main/research/syllabus",
+    "description": "Builds a supplementary reading list and discussion questions from a course syllabus.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "dair-ai/dair-academy-plugins - lesson-generator",
+    "url": "https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/lesson-generator",
+    "description": "Generates multi-lesson HTML courses with flashcards, quizzes, objectives, and source links.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "dair-ai/dair-academy-plugins - wiki-builder",
+    "url": "https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/wiki-builder",
+    "description": "Builds and maintains structured research wikis with sources, compiled pages, and derived artifacts.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "dair-ai/dair-academy-plugins - youtube-notetaker",
+    "url": "https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/youtube-notetaker",
+    "description": "Turns YouTube talks into local study notes with slides, transcripts, and editable annotations.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "danielrosehill/Claude-Career-Plugin",
+    "url": "https://github.com/danielrosehill/Claude-Career-Plugin",
+    "description": "Bundles resume tailoring, cover letters, and interview prep in one plugin.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "emili-kosik/admission-skills",
+    "url": "https://github.com/emili-kosik/admission-skills",
+    "description": "Tracks college application deadlines, checklists, and exports a reminder calendar.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "jacquardlabs/study-skills",
+    "url": "https://github.com/jacquardlabs/study-skills",
+    "description": "Turns lecture slides into flashcards, quizzes, and study milestones.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "JeanDiable/academic-research-plugin",
+    "url": "https://github.com/JeanDiable/academic-research-plugin",
+    "description": "Plugin for literature surveys, paper reviews, and citation management.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "JuliusBrussee/caveman",
+    "url": "https://github.com/JuliusBrussee/caveman",
+    "description": "Compresses agent responses into concise caveman-style language, reducing token usage while preserving technical accuracy. Supports Claude Code, Cursor, Copilot, and 30+ other agents.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+    "description": "140+ science skills covering biology, chemistry, medicine, and 100+ scientific databases.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "kepano/obsidian-skills",
+    "url": "https://github.com/kepano/obsidian-skills",
+    "description": "Reads, writes, and organizes Obsidian notes, canvases, and databases via the Obsidian CLI.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "obra/superpowers",
+    "url": "https://github.com/obra/superpowers",
+    "description": "20+ skills for spec-to-code workflows with TDD, brainstorming, and subagent-driven planning commands.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "olegvg/resume-tailor-plugin",
+    "url": "https://github.com/olegvg/resume-tailor-plugin",
+    "description": "Claude Code plugin that tailors your resume to a job post.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "WenyuChiou/zotero-skills",
+    "url": "https://github.com/WenyuChiou/zotero-skills",
+    "description": "Searches, tags, and organizes Zotero references from your agent.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  }
+]

@@ -1,0 +1,1068 @@
+[
+  {
+    "name": "0xsarwagya/ontoly",
+    "url": "https://github.com/0xsarwagya/ontoly",
+    "description": "Maps codebases into graph-backed architecture evidence.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "abelsr/Computational-Physics",
+    "url": "https://github.com/abelsr/Computational-Physics",
+    "description": "Solves physics problems with Python and Jupyter notebooks, from mechanics to electromagnetism.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "aidankinzett/claude-git-pr-skill",
+    "url": "https://github.com/aidankinzett/claude-git-pr-skill",
+    "description": "Runs consistent, professional GitHub pull-request reviews with pending reviews and code suggestions.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "AnayDhawan/oss-launch",
+    "url": "https://github.com/AnayDhawan/oss-launch",
+    "description": "Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "anthropics/doc-coauthoring",
+    "url": "https://officialskills.sh/anthropics/skills/doc-coauthoring",
+    "description": "Collaborative document editing and co-authoring, handy for group IAs or shared EE drafts.",
+    "category": "IB & IGCSE Coursework",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "anthropics/docx",
+    "url": "https://officialskills.sh/anthropics/skills/docx",
+    "description": "Creates and edits Word documents with tracked changes, comments, and formatting.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "anthropics/internal-comms",
+    "url": "https://officialskills.sh/anthropics/skills/internal-comms",
+    "description": "Writes status reports, newsletters, and FAQs, good for group project updates and lab reports.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "anthropics/pdf",
+    "url": "https://officialskills.sh/anthropics/skills/pdf",
+    "description": "Extracts text from PDFs, creates new PDFs, and fills forms, useful for working with past papers and mark schemes.",
+    "category": "IB & IGCSE Coursework",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "anthropics/web-artifacts-builder",
+    "url": "https://officialskills.sh/anthropics/skills/web-artifacts-builder",
+    "description": "Builds complex claude.ai HTML artifacts with React and Tailwind, useful for CS project demos and interactive coursework submissions.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "anthropics/webapp-testing",
+    "url": "https://officialskills.sh/anthropics/skills/webapp-testing",
+    "description": "Automates browser testing of local web apps with Playwright, handy for verifying CS class projects.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "anthropics/xlsx",
+    "url": "https://officialskills.sh/anthropics/skills/xlsx",
+    "description": "Creates and analyzes spreadsheets with formulas, charts, and data cleaning.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "ayushsao/Capgemini_essay",
+    "url": "https://github.com/ayushsao/Capgemini_essay",
+    "description": "Analyzes student essays and scores grammar, vocabulary, and structure.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "basicmachines-co/basic-memory - memory-literary-analysis",
+    "url": "https://github.com/basicmachines-co/basic-memory/tree/main/skills/memory-literary-analysis",
+    "description": "Analyzes literary works into a searchable knowledge graph.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "bevibing/tutor-skills",
+    "url": "https://github.com/bevibing/tutor-skills",
+    "description": "Turns PDFs, docs, or codebases into Obsidian study vaults with interactive quizzes.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "borghei/Claude-Skills - research/grants",
+    "url": "https://github.com/borghei/Claude-Skills/tree/main/research/grants",
+    "description": "Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "chrisvoncsefalvay/claude-d3js-skill",
+    "url": "https://github.com/chrisvoncsefalvay/claude-d3js-skill",
+    "description": "Builds interactive D3.js charts, graphs, and network diagrams for data analysis and reports.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills - artifacts-builder",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder",
+    "description": "Builds multi-component React/Tailwind HTML artifacts for interactive demos and projects.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills - content-research-writer",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer",
+    "description": "Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills - developer-growth-analysis",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/developer-growth-analysis",
+    "description": "Analyzes your Claude Code chat history to surface coding patterns and learning gaps.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills - document-skills/pptx",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pptx",
+    "description": "Creates, edits, and analyzes .pptx presentations.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills - domain-name-brainstormer",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer",
+    "description": "Generates domain name ideas and checks availability across TLDs for side projects.",
+    "category": "College Applications & Career",
+    "marker": "external-service",
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills - file-organizer",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer",
+    "description": "Organizes files and folders, finds duplicates, and cleans up your digital workspace.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "ComposioHQ/awesome-claude-skills - tailored-resume-generator",
+    "url": "https://github.com/ComposioHQ/awesome-claude-skills/tree/master/tailored-resume-generator",
+    "description": "Analyzes job descriptions and tailors resumes to highlight relevant experience and skills.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "CooperWu-star/A-Level-Econ-Marking-Sample - cie-econ-essay",
+    "url": "https://github.com/CooperWu-star/A-Level-Econ-Marking-Sample/tree/main/cie-econ-essay",
+    "description": "Marks and writes CIE A-Level Economics essays to grade descriptors.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "David-Saeteros/claude-skills - academic-writing",
+    "url": "https://github.com/David-Saeteros/claude-skills/tree/main/skills/academic-writing",
+    "description": "Reviews and cites thesis or essay drafts against supervisor feedback and style guides.",
+    "category": "IB & IGCSE Coursework",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "davila7/claude-code-templates - email-composer",
+    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/email-composer",
+    "description": "Drafts professional emails, handy for messaging professors or admissions offices.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "davila7/claude-code-templates - literature-review",
+    "url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/scientific/literature-review",
+    "description": "Runs systematic literature searches across academic databases with formatted citations, handy for EE research.",
+    "category": "IB & IGCSE Coursework",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "dbosk/introagents - honor-defense-prep",
+    "url": "https://github.com/dbosk/introagents/tree/main/students/event-202605/skills/honor-defense-prep",
+    "description": "Rehearses defending your own submission through examiner-style questions.",
+    "category": "IB & IGCSE Coursework",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "FlorianBruniaux/claude-code-ultimate-guide - self-assessment",
+    "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide/tree/main/.claude/skills/self-assessment",
+    "description": "Assesses your Claude Code skill level and generates a personalized learning path.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "gemini-cli-extensions/datacommons",
+    "url": "https://github.com/gemini-cli-extensions/datacommons",
+    "description": "Queries Data Commons public statistical datasets in natural language for research and coursework.",
+    "category": "STEM Subjects",
+    "marker": "requires-key",
+    "supported_tools": [
+      "gemini-cli"
+    ]
+  },
+  {
+    "name": "ghutchis/chem-skill",
+    "url": "https://github.com/ghutchis/chem-skill",
+    "description": "Renders 2D structure diagrams and 3D molecule viewers from chemical names.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googlarz/math-skill",
+    "url": "https://github.com/googlarz/math-skill",
+    "description": "Solves math problems step by step with built-in verification.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googleworkspace/gws-calendar",
+    "url": "https://officialskills.sh/googleworkspace/skills/gws-calendar",
+    "description": "Manage calendars, events, and free/busy queries via the `gws` CLI.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googleworkspace/gws-classroom",
+    "url": "https://officialskills.sh/googleworkspace/skills/gws-classroom",
+    "description": "Manage Google Classroom classes, rosters, and coursework via the `gws` CLI.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googleworkspace/gws-docs",
+    "url": "https://officialskills.sh/googleworkspace/skills/gws-docs",
+    "description": "Read and write Google Docs documents via the `gws` CLI.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googleworkspace/gws-drive",
+    "url": "https://officialskills.sh/googleworkspace/skills/gws-drive",
+    "description": "Manage Google Drive files, folders, and shared drives, handy for keeping coursework organized.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googleworkspace/gws-forms",
+    "url": "https://officialskills.sh/googleworkspace/skills/gws-forms",
+    "description": "Create Google Forms, edit questions, and read responses via the `gws` CLI, handy for quizzes and surveys.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googleworkspace/gws-gmail",
+    "url": "https://officialskills.sh/googleworkspace/skills/gws-gmail",
+    "description": "Send, read, and manage Gmail messages, labels, and drafts via the `gws` CLI.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googleworkspace/gws-sheets",
+    "url": "https://officialskills.sh/googleworkspace/skills/gws-sheets",
+    "description": "Read and write Google Sheets spreadsheets via the `gws` CLI.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googleworkspace/gws-slides",
+    "url": "https://officialskills.sh/googleworkspace/skills/gws-slides",
+    "description": "Read and write Google Slides presentations via the `gws` CLI.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "googleworkspace/gws-tasks",
+    "url": "https://officialskills.sh/googleworkspace/skills/gws-tasks",
+    "description": "Manage Google Tasks task lists and tasks via the `gws` CLI.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "hameefy/claude-latex-skill",
+    "url": "https://github.com/hameefy/claude-latex-skill",
+    "description": "Produces compilable LaTeX for math proofs, derivations, and Beamer slides.",
+    "category": "IB & IGCSE Coursework",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "hamsamilton/lang-tutor",
+    "url": "https://github.com/hamsamilton/lang-tutor",
+    "description": "Gives grammar corrections and vocabulary help in your target language.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "HashemALSKKkAF/exam-prep-mcq",
+    "url": "https://github.com/HashemALSKKkAF/exam-prep-mcq",
+    "description": "Generates MCQ quizzes from study material and delivers them as a Google Form.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "hluaguo/learn-faster-kit",
+    "url": "https://github.com/hluaguo/learn-faster-kit",
+    "description": "AI learning coach with spaced repetition, syllabi, and progress tracking.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "hmohamed01/SQL-Expert",
+    "url": "https://github.com/hmohamed01/SQL-Expert",
+    "description": "Guides writing, optimizing, and debugging T-SQL queries, good for SQL coursework practice.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "huggingface/hugging-face-datasets",
+    "url": "https://officialskills.sh/huggingface/skills/hugging-face-datasets",
+    "description": "Creates and manages datasets with SQL querying, useful for statistics and data science projects.",
+    "category": "STEM Subjects",
+    "marker": "requires-key",
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "Imbad0202/academic-research-skills",
+    "url": "https://github.com/Imbad0202/academic-research-skills",
+    "description": "Full research-to-publication pipeline: research, write, review, revise, and finalize, useful for IA and EE drafts.",
+    "category": "IB & IGCSE Coursework",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "jakedahn/pomodoro",
+    "url": "https://github.com/jakedahn/pomodoro",
+    "description": "Pomodoro timer skill that tracks and learns from your focus sessions.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "juanlurg/data-science-claude-skills - experiment-tracker",
+    "url": "https://github.com/juanlurg/data-science-claude-skills",
+    "description": "Logs, compares, and visualizes lab experiment runs and results with local JSON storage.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "karanb192/algo-sensei",
+    "url": "https://github.com/karanb192/algo-sensei",
+    "description": "Generates LeetCode-style problems with progressive hints and mock interviews.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "kevinryan-au/claude-cover-letter",
+    "url": "https://github.com/kevinryan-au/claude-cover-letter",
+    "description": "Turns a pasted job posting into a tailored, one-page cover letter.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "kgraph57/paper-writer-skill",
+    "url": "https://github.com/kgraph57/paper-writer-skill",
+    "description": "Drafts IMRAD-structured scientific manuscripts, useful for lab reports and write-ups.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "kirilxd/claude-tutor",
+    "url": "https://github.com/kirilxd/claude-tutor",
+    "description": "Personal tutor with adaptive quizzes and SM-2 spaced repetition.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "m98/fluent",
+    "url": "https://github.com/m98/fluent",
+    "description": "Drills vocabulary and corrects target-language writing using spaced repetition.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "majiayu000/claude-skill-registry - statistics-math",
+    "url": "https://github.com/majiayu000/claude-skill-registry/tree/main/skills/data/statistics-math",
+    "description": "Applies statistical tests, probability calculations, and distribution analysis to data.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "Master-cai/Research-Paper-Writing-Skills",
+    "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills",
+    "description": "Skill package for planning and writing research papers.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "mattpocock/skills - diagnosing-bugs",
+    "url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs",
+    "description": "Disciplined debug loop: reproduce, minimize, hypothesize, instrument, fix.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "mattpocock/skills - git-guardrails-claude-code",
+    "url": "https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code",
+    "description": "Blocks dangerous git commands (push, reset --hard, clean) via Claude Code hooks.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "mattpocock/skills - handoff",
+    "url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff",
+    "description": "Compresses a long study session into a handoff doc so a fresh agent can continue where you left off.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "mattpocock/skills - resolving-merge-conflicts",
+    "url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/resolving-merge-conflicts",
+    "description": "Walks through resolving an in-progress git merge or rebase conflict step by step.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "mattpocock/skills - tdd",
+    "url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd",
+    "description": "Guides test-driven development with red-green-refactor cycles and behavior-focused tests.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "mattpocock/skills - teach",
+    "url": "https://github.com/mattpocock/skills/tree/main/skills/productivity/teach",
+    "description": "Multi-session instructor that scaffolds HTML lessons, tracks learning records, and builds reference cheat sheets.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "mordor-forge/study-skill",
+    "url": "https://github.com/mordor-forge/study-skill",
+    "description": "Builds spaced-repetition study workspaces with FSRS-based lesson review scheduling.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "NeoLabHQ/context-engineering-kit - write-concisely",
+    "url": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely",
+    "description": "Applies *The Elements of Style* principles to tighten essays and cut wordiness.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "openai/jupyter-notebook",
+    "url": "https://officialskills.sh/openai/skills/jupyter-notebook",
+    "description": "Creates clean, reproducible Jupyter notebooks for experiments and tutorials, essential for data science coursework.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "openai/spreadsheet",
+    "url": "https://officialskills.sh/openai/skills/spreadsheet",
+    "description": "Creates, edits, analyzes, and visualizes spreadsheets with formulas, handy for physics data tables and chemistry calculations.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "openai/transcribe",
+    "url": "https://officialskills.sh/openai/skills/transcribe",
+    "description": "Transcribes audio files to text with optional speaker diarization, great for recording and reviewing lectures.",
+    "category": "Study & Productivity",
+    "marker": "requires-key",
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "Paramchoudhary/ResumeSkills",
+    "url": "https://github.com/Paramchoudhary/ResumeSkills",
+    "description": "Resume optimization, ATS scoring, and interview prep skills.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "peter209393/anki-card-skills",
+    "url": "https://github.com/peter209393/anki-card-skills",
+    "description": "Builds importable Anki decks with basic, reversed, and cloze cards.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "phuryn/pm-skills - grammar-check",
+    "url": "https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check",
+    "description": "Flags grammar, logic, and flow errors with targeted fixes, no full rewrite.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "pinakdhabu/Exam-prompt",
+    "url": "https://github.com/pinakdhabu/Exam-prompt",
+    "description": "Generates exam answers, notes, and study plans for any university.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "santifer/career-ops",
+    "url": "https://github.com/santifer/career-ops",
+    "description": "Scores job listings, tailors resumes, and tracks applications for a job search.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "saulmcphd/apa-style",
+    "url": "https://github.com/saulmcphd/apa-style",
+    "description": "Proofreads papers against APA 7th edition rules with inline corrections.",
+    "category": "IB & IGCSE Coursework",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "SeanZoR/claude-speed-reader",
+    "url": "https://github.com/SeanZoR/claude-speed-reader",
+    "description": "Speed-reads long responses at 600+ WPM using RSVP with ORP highlighting.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "shauryagangrade/intent-drift-skill",
+    "url": "https://github.com/shauryagangrade/intent-drift-skill",
+    "description": "Detects when AI-assisted coding drifts from the original goal and prompts you to re-align.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "shauryagangrade/scout-issue",
+    "url": "https://github.com/shauryagangrade/scout-issue",
+    "description": "Finds and ranks GitHub issues matched to your skills, experience, and time for open-source contributions.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "sickn33/agentic-awesome-skills - bulletmind",
+    "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/bulletmind",
+    "description": "Converts any input into clean hierarchical bullet points for note-taking and summarization.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "sickn33/agentic-awesome-skills - code-documentation-code-explain",
+    "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/code-documentation-code-explain",
+    "description": "Explains complex code through narratives, visual diagrams, and step-by-step breakdowns.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "sickn33/agentic-awesome-skills - examprep-ai",
+    "url": "https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/examprep-ai",
+    "description": "Converts syllabi, past papers, or notes into a ranked High Score Roadmap with MCQs and question prediction.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "SJY051/music-composition",
+    "url": "https://github.com/SJY051/music-composition",
+    "description": "Guides music composition and analysis across harmony, melody, form, and genre conventions, useful for IB Music investigations.",
+    "category": "IB & IGCSE Coursework",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "sourikduttanyu/interview-prep",
+    "url": "https://github.com/sourikduttanyu/interview-prep",
+    "description": "Builds a tailored interview prep kit from your resume and a job description.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "varunr89/resume-tailoring-skill",
+    "url": "https://github.com/varunr89/resume-tailoring-skill",
+    "description": "AI-powered resume tailoring for specific job descriptions.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "wentorai/research-plugins - history-research-guide",
+    "url": "https://github.com/wentorai/research-plugins/tree/main/skills/domains/humanities/history-research-guide",
+    "description": "Guides primary-source criticism, archival research, and historiography for history papers.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "wentorai/research-plugins - inaturalist-api",
+    "url": "https://github.com/wentorai/research-plugins/tree/main/skills/domains/ecology/inaturalist-api",
+    "description": "Queries the iNaturalist API for biodiversity observation data.",
+    "category": "STEM Subjects",
+    "marker": "external-service",
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "X-tong6/pscher",
+    "url": "https://github.com/X-tong6/pscher",
+    "description": "Generates English personal statements for Hong Kong university applications.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "xwmxcz/papers-skill",
+    "url": "https://github.com/xwmxcz/papers-skill",
+    "description": "Searches 200M+ papers on Semantic Scholar, inspects citations, and downloads arXiv PDFs.",
+    "category": "Writing & Humanities",
+    "marker": "external-service",
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "zarazhangrui/codebase-to-course",
+    "url": "https://github.com/zarazhangrui/codebase-to-course",
+    "description": "Turns any codebase into an interactive HTML course for beginners.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "zarazhangrui/frontend-slides",
+    "url": "https://github.com/zarazhangrui/frontend-slides",
+    "description": "Builds animation-rich HTML presentations from scratch or converted from PowerPoint files.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  }
+]
