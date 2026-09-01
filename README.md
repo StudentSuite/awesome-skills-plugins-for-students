@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-86-blue)
+![Skills](https://img.shields.io/badge/skills-87-blue)
 ![Plugins](https://img.shields.io/badge/plugins-16-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -47,7 +47,7 @@ Skills and plugins that run inside your AI coding agent (**Claude Code, Cursor, 
 | 🗂️ | [Study & Productivity](#study--productivity) | 18 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 18 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 10 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 10 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 11 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 11 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 10 skills |
 | 🧩 | [Plugins](#plugins) | 16 plugins |
@@ -172,11 +172,12 @@ Essay structuring, academic research, literature analysis, and language learning
 Two entries both flag writing errors. **phuryn/pm-skills - grammar-check** targets grammar, logic, and flow with minimal rewriting; **ayushsao/Capgemini_essay** scores an essay's grammar, vocabulary, and structure and charts the feedback.
 
 <details open>
-<summary>Show 10 skills</summary>
+<summary>Show 11 skills</summary>
 
 - **[ayushsao/Capgemini_essay](https://github.com/ayushsao/Capgemini_essay)** - Analyzes student essays and scores grammar, vocabulary, and structure.
 - **[basicmachines-co/basic-memory - memory-literary-analysis](https://github.com/basicmachines-co/basic-memory/tree/main/skills/memory-literary-analysis)** - Analyzes literary works into a searchable knowledge graph.
 - **[ComposioHQ/awesome-claude-skills - content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
+- **[CooperWu-star/A-Level-Econ-Marking-Sample - cie-econ-essay](https://github.com/CooperWu-star/A-Level-Econ-Marking-Sample/tree/main/cie-econ-essay)** - Marks and writes CIE A-Level Economics essays to grade descriptors.
 - **[davila7/claude-code-templates - email-composer](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/enterprise-communication/email-composer)** - Drafts professional emails, handy for messaging professors or admissions offices.
 - **[kgraph57/paper-writer-skill](https://github.com/kgraph57/paper-writer-skill)** - Drafts IMRAD-structured scientific manuscripts, useful for lab reports and write-ups.
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
