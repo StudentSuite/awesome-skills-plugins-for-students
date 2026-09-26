@@ -1627,5 +1627,17 @@
       "cursor",
       "copilot"
     ]
+  },
+{
+    "name": "mohitagw15856/pm-claude-skills - language-learning-plan",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills/tree/main/skills/language-learning-plan",
+    "description": "Builds a goal-driven language learning plan around your schedule.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

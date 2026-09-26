@@ -1229,6 +1229,16 @@
       "description": "Inspects architecture, dependencies, and validation loops before planning a change."
     },
     {
+      "name": "mohitagw15856-pm-claude-skills-language-learning-plan",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mohitagw15856/pm-claude-skills.git",
+        "path": "skills/language-learning-plan",
+        "ref": "main"
+      },
+      "description": "Builds a goal-driven language learning plan around your schedule."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1590,7 +1600,7 @@
     {
       "name": "language-learning-bundle",
       "source": "./bundles/language-learning-bundle",
-      "description": "Language Learning skills in one install (10 skills).",
+      "description": "Language Learning skills in one install (11 skills).",
       "dependencies": [
         "13riank-japanese-tutor",
         "gislio-claude-language-tutor",
@@ -1601,7 +1611,8 @@
         "m98-fluent",
         "skillmedev-skills-language-learning",
         "uriva-language-learning",
-        "santimator-x3-suite-graded-reader"
+        "santimator-x3-suite-graded-reader",
+        "mohitagw15856-pm-claude-skills-language-learning-plan"
       ]
     },
     {
