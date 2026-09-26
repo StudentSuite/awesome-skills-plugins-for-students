@@ -1627,5 +1627,17 @@
       "cursor",
       "copilot"
     ]
+  },
+{
+    "name": "mohitagw15856/pm-claude-skills - exam-prep-planner",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills/tree/main/skills/exam-prep-planner",
+    "description": "Plans exam revision with spaced repetition and retrieval practice.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
