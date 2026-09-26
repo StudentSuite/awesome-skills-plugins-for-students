@@ -1229,6 +1229,16 @@
       "description": "Inspects architecture, dependencies, and validation loops before planning a change."
     },
     {
+      "name": "yylo-dev-yylo-skills-ledger-tasks-yylo",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/yylo-dev/yylo-skills.git",
+        "path": "skills/ledger-tasks-yylo",
+        "ref": "main"
+      },
+      "description": "Retrieves and manages YYLO Ledger tasks, records, and dependencies."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1482,7 +1492,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (21 skills; 1 paid-key skill excluded, install separately).",
+      "description": "Study & Productivity skills in one install (22 skills; 1 paid-key skill excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
@@ -1504,7 +1514,8 @@
         "zarazhangrui-frontend-slides",
         "vishnu-tppr-everything-cbse-board-revision-planner",
         "yylo-dev-yylo-skills-plan-ledger-tasks-yylo",
-        "finewood2008-centaurai-team-team-project-tracker"
+        "finewood2008-centaurai-team-team-project-tracker",
+        "yylo-dev-yylo-skills-ledger-tasks-yylo"
       ]
     },
     {

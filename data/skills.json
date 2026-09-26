@@ -1627,5 +1627,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "yylo-dev/yylo-skills - ledger-tasks-yylo",
+    "url": "https://github.com/yylo-dev/yylo-skills/tree/main/skills/ledger-tasks-yylo",
+    "description": "Retrieves and manages YYLO Ledger tasks, records, and dependencies.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
