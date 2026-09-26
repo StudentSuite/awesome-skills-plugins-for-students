@@ -1627,5 +1627,17 @@
       "cursor",
       "copilot"
     ]
+  },
+{
+    "name": "anthropics/pptx",
+    "url": "https://officialskills.sh/anthropics/skills/pptx",
+    "description": "Creates, edits, and reads PowerPoint slide decks and templates.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
