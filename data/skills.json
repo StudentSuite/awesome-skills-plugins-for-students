@@ -1627,5 +1627,17 @@
       "cursor",
       "copilot"
     ]
+  },
+{
+    "name": "GarethManning/education-agent-skills - spaced-practice-scheduler",
+    "url": "https://github.com/GarethManning/education-agent-skills/tree/main/skills/memory-learning-science/spaced-practice-scheduler",
+    "description": "Builds a spaced retrieval schedule for topics and revision timelines.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

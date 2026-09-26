@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-136-blue)
+![Skills](https://img.shields.io/badge/skills-137-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -86,7 +86,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | | Section | Count |
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 10 skills |
-| 🗂️ | [Study & Productivity](#study--productivity) | 22 skills |
+| 🗂️ | [Study & Productivity](#study--productivity) | 23 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 26 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 19 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 17 skills |
@@ -134,7 +134,7 @@ Several spaced-repetition study tools overlap here. To pick one: **hluaguo/learn
 Three entries generate exam-prep material with no prior note on how they differ. **sickn33/agentic-awesome-skills - examprep-ai** (this section) ranks syllabus topics into a scored roadmap with MCQs and question prediction; **pinakdhabu/Exam-prompt** (this section) generates exam answers, notes, and study plans for any university; and **HashemALSKKkAF/exam-prep-mcq** (under [Google Workspace for Students](#google-workspace-for-students)) turns study material into an MCQ quiz delivered as a Google Form.
 
 <details open>
-<summary>Show 22 skills</summary>
+<summary>Show 23 skills</summary>
 
 - **[0x-man/mindmap-skill](https://github.com/0x-man/mindmap-skill)** - Generates interactive mind maps and concept maps from notes, topics, or documents.
 - **[anthropics/docx](https://officialskills.sh/anthropics/skills/docx)** - Creates and edits Word documents with tracked changes, comments, and formatting.
@@ -144,6 +144,7 @@ Three entries generate exam-prep material with no prior note on how they differ.
 - **[ComposioHQ/awesome-claude-skills - document-skills/pptx](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/document-skills/pptx)** - Creates, edits, and analyzes .pptx presentations.
 - **[ComposioHQ/awesome-claude-skills - file-organizer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/file-organizer)** - Organizes files and folders, finds duplicates, and cleans up your digital workspace.
 - **[finewood2008/centaurai-team - team-project-tracker](https://github.com/finewood2008/centaurai-team/tree/team/skills/builtin/team/team-project-tracker)** - Tracks a group project's tasks, owners, and deadlines on a shared markdown kanban board.
+- **[GarethManning/education-agent-skills - spaced-practice-scheduler](https://github.com/GarethManning/education-agent-skills/tree/main/skills/memory-learning-science/spaced-practice-scheduler)** - Builds a spaced retrieval schedule for topics and revision timelines.
 - **[hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit)** - AI learning coach with spaced repetition, syllabi, and progress tracking.
 - **[jakedahn/pomodoro](https://github.com/jakedahn/pomodoro)** - Pomodoro timer skill that tracks and learns from your focus sessions.
 - **[mattpocock/skills - handoff](https://github.com/mattpocock/skills/tree/main/skills/productivity/handoff)** - Compresses a long study session into a handoff doc so a fresh agent can continue where you left off.
