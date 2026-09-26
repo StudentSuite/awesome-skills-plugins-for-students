@@ -1627,5 +1627,17 @@
       "cursor",
       "copilot"
     ]
+  },
+{
+    "name": "mohitagw15856/pm-claude-skills - personal-statement",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills/tree/main/skills/personal-statement",
+    "description": "Drafts a university personal statement around motivation and fit.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

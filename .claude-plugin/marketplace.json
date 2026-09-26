@@ -1229,6 +1229,16 @@
       "description": "Inspects architecture, dependencies, and validation loops before planning a change."
     },
     {
+      "name": "mohitagw15856-pm-claude-skills-personal-statement",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mohitagw15856/pm-claude-skills.git",
+        "path": "skills/personal-statement",
+        "ref": "main"
+      },
+      "description": "Drafts a university personal statement around motivation and fit."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1607,7 +1617,7 @@
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (17 skills).",
+      "description": "College Applications & Career skills in one install (18 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -1625,7 +1635,8 @@
         "varunr89-resume-tailoring-skill",
         "x-tong6-pscher",
         "haadhi76-sop-consultant",
-        "noamseg-interview-coach-skill"
+        "noamseg-interview-coach-skill",
+        "mohitagw15856-pm-claude-skills-personal-statement"
       ]
     },
     {
