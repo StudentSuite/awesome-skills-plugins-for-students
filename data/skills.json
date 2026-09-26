@@ -1627,5 +1627,17 @@
       "cursor",
       "copilot"
     ]
+  },
+{
+    "name": "Jellypod-Inc/school-skills - socratic-tutor",
+    "url": "https://github.com/Jellypod-Inc/school-skills/tree/main/skills/socratic-tutor",
+    "description": "Tutors a student through problems with questions instead of answers.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
