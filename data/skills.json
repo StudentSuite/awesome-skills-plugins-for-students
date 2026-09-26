@@ -1627,5 +1627,17 @@
       "cursor",
       "copilot"
     ]
+  },
+{
+    "name": "Jellypod-Inc/school-skills - lecture-to-study-guide",
+    "url": "https://github.com/Jellypod-Inc/school-skills/tree/main/skills/lecture-to-study-guide",
+    "description": "Turns lecture notes and slides into a structured study guide.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
