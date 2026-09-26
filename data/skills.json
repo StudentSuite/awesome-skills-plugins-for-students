@@ -1627,5 +1627,17 @@
       "cursor",
       "copilot"
     ]
+  },
+{
+    "name": "markpitt/claude-skills - gcse-english-literature-tutor",
+    "url": "https://github.com/markpitt/claude-skills/tree/main/skills/gcse-english-literature-tutor",
+    "description": "Tutors GCSE English Literature set texts and exam questions.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

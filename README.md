@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-136-blue)
+![Skills](https://img.shields.io/badge/skills-137-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -89,7 +89,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 🗂️ | [Study & Productivity](#study--productivity) | 22 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 26 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 19 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 17 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 18 skills |
 | 🗣️ | [Language Learning](#language-learning) | 10 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 17 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 15 skills |
@@ -239,7 +239,7 @@ Essay structuring, academic research, and literature analysis. See [Language Lea
 Four entries overlap on planning and drafting a paper with no prior note on how they differ. **kgraph57/paper-writer-skill** is scoped to IMRAD-structured scientific manuscripts — lab reports and write-ups with a fixed intro/methods/results/discussion shape. **Master-cai/Research-Paper-Writing-Skills** is a general-purpose planning-and-writing package for a research paper, not tied to one structure. **lishix520/academic-paper-skills** covers the same ground but adds reviewer-simulated quality checkpoints at each stage, for when you want the draft pressure-tested as you go. **tizzy916/humanities-writing-companion** is for humanities writing specifically, guiding the process from research question through revision rather than a lab-report format.
 
 <details open>
-<summary>Show 17 skills</summary>
+<summary>Show 18 skills</summary>
 
 - **[basicmachines-co/basic-memory - memory-literary-analysis](https://github.com/basicmachines-co/basic-memory/tree/main/skills/memory-literary-analysis)** - Analyzes literary works into a searchable knowledge graph.
 - **[ComposioHQ/awesome-claude-skills - content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
@@ -250,6 +250,7 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 - **[JimmyToluene/Skill-ADHD-Healer - adhd-presentation-coach](https://github.com/JimmyToluene/Skill-ADHD-Healer/tree/main/skills/adhd-presentation-coach)** - Builds a talk stage by stage, then times the rehearsal.
 - **[kgraph57/paper-writer-skill](https://github.com/kgraph57/paper-writer-skill)** - Drafts IMRAD-structured scientific manuscripts, useful for lab reports and write-ups.
 - **[lishix520/academic-paper-skills](https://github.com/lishix520/academic-paper-skills)** - Plans and drafts academic papers through reviewer-simulated quality checkpoints.
+- **[markpitt/claude-skills - gcse-english-literature-tutor](https://github.com/markpitt/claude-skills/tree/main/skills/gcse-english-literature-tutor)** - Tutors GCSE English Literature set texts and exam questions.
 - **[Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills)** - Skill package for planning and writing research papers.
 - **[NeoLabHQ/context-engineering-kit - write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely)** - Applies *The Elements of Style* principles to tighten essays and cut wordiness.
 - **[OneWave-AI/claude-skills - debate-simulator](https://github.com/OneWave-AI/claude-skills/tree/main/debate-simulator)** - Runs structured debates with opposing personas: openings, rebuttals, cross-exam, closings.

@@ -1229,6 +1229,16 @@
       "description": "Inspects architecture, dependencies, and validation loops before planning a change."
     },
     {
+      "name": "markpitt-claude-skills-gcse-english-literature-tutor",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/markpitt/claude-skills.git",
+        "path": "skills/gcse-english-literature-tutor",
+        "ref": "main"
+      },
+      "description": "Tutors GCSE English Literature set texts and exam questions."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1566,7 +1576,7 @@
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (17 skills).",
+      "description": "Writing & Humanities skills in one install (18 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -1584,7 +1594,8 @@
         "xwmxcz-papers-skill",
         "jimmytoluene-skill-adhd-healer-adhd-presentation-coach",
         "gnurio-nurijanian-skills-rulebook-for-arguments",
-        "onewave-ai-claude-skills-debate-simulator"
+        "onewave-ai-claude-skills-debate-simulator",
+        "markpitt-claude-skills-gcse-english-literature-tutor"
       ]
     },
     {
