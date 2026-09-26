@@ -1627,5 +1627,17 @@
       "cursor",
       "copilot"
     ]
+  },
+{
+    "name": "markpitt/claude-skills - gcse-maths-tutor",
+    "url": "https://github.com/markpitt/claude-skills/tree/main/skills/gcse-maths-tutor",
+    "description": "Tutors GCSE Maths topics across AQA, Edexcel, OCR, and Eduqas.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

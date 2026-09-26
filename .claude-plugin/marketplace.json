@@ -1229,6 +1229,16 @@
       "description": "Inspects architecture, dependencies, and validation loops before planning a change."
     },
     {
+      "name": "markpitt-claude-skills-gcse-maths-tutor",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/markpitt/claude-skills.git",
+        "path": "skills/gcse-maths-tutor",
+        "ref": "main"
+      },
+      "description": "Tutors GCSE Maths topics across AQA, Edexcel, OCR, and Eduqas."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1543,7 +1553,7 @@
     {
       "name": "stem-bundle",
       "source": "./bundles/stem-bundle",
-      "description": "STEM Subjects skills in one install (16 skills; 3 paid-key skills excluded, install separately).",
+      "description": "STEM Subjects skills in one install (17 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "24kchengye-human-skill-tree-k12-sciences",
         "abelsr-computational-physics",
@@ -1560,7 +1570,8 @@
         "jantoney-samstudies-biology-tutor",
         "jantoney-samstudies-chemistry-tutor",
         "somenssarkar-gurukul-ai-gurukul-ai-physics",
-        "majiayu000-claude-skill-registry-environmental-geography"
+        "majiayu000-claude-skill-registry-environmental-geography",
+        "markpitt-claude-skills-gcse-maths-tutor"
       ]
     },
     {

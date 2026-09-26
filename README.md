@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-136-blue)
+![Skills](https://img.shields.io/badge/skills-137-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -88,7 +88,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 10 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 22 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 26 skills |
-| 🔬 | [STEM Subjects](#stem-subjects) | 19 skills |
+| 🔬 | [STEM Subjects](#stem-subjects) | 20 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 17 skills |
 | 🗣️ | [Language Learning](#language-learning) | 10 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 17 skills |
@@ -206,7 +206,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 Math, physics, chemistry, and data analysis helpers.
 
 <details open>
-<summary>Show 19 skills</summary>
+<summary>Show 20 skills</summary>
 
 - **[24kchengYe/human-skill-tree - k12-sciences](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-sciences)** - Tutors K-12 physics, chemistry, and biology through Socratic, inquiry-based questioning.
 - **[abelsr/Computational-Physics](https://github.com/abelsr/Computational-Physics)** - Solves physics problems with Python and Jupyter notebooks, from mechanics to electromagnetism.
@@ -220,6 +220,7 @@ Math, physics, chemistry, and data analysis helpers.
 - **[juanlurg/data-science-claude-skills - experiment-tracker](https://github.com/juanlurg/data-science-claude-skills)** - Logs, compares, and visualizes lab experiment runs and results with local JSON storage.
 - **[majiayu000/claude-skill-registry - environmental-geography](https://github.com/majiayu000/claude-skill-registry/tree/main/skills/domains/environmental-geography)** - Covers climate change, land use, water, biodiversity, and sustainability science.
 - **[majiayu000/claude-skill-registry - statistics-math](https://github.com/majiayu000/claude-skill-registry/tree/main/skills/data/statistics-math)** - Applies statistical tests, probability calculations, and distribution analysis to data.
+- **[markpitt/claude-skills - gcse-maths-tutor](https://github.com/markpitt/claude-skills/tree/main/skills/gcse-maths-tutor)** - Tutors GCSE Maths topics across AQA, Edexcel, OCR, and Eduqas.
 - **[openai/spreadsheet](https://officialskills.sh/openai/skills/spreadsheet)** - Creates, edits, analyzes, and visualizes spreadsheets with formulas, handy for physics data tables and chemistry calculations.
 - **[somenssarkar/gurukul-ai - gurukul-ai-physics](https://github.com/somenssarkar/gurukul-ai/tree/main/.claude/skills/gurukul-ai-physics)** - Tutors physics concepts via Socratic questioning, diagrams, and misconception checks.
 - **[Stab-Rabbit-coding/SecureControllers - statics-and-dynamics](https://github.com/Stab-Rabbit-coding/SecureControllers/tree/main/.claude/skills/statics-and-dynamics)** - Solves statics and rigid-body dynamics problems with free-body diagrams.
