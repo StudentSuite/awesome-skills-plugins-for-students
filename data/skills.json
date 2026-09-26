@@ -1627,5 +1627,18 @@
       "cursor",
       "copilot"
     ]
+  },
+{
+    "name": "24kchengYe/human-skill-tree - k12-languages",
+    "url": "https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-languages",
+    "description": "Practices reading, writing, listening, and speaking in a second language.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot",
+      "gemini-cli"
+    ]
   }
 ]

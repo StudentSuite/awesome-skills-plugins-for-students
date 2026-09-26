@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-136-blue)
+![Skills](https://img.shields.io/badge/skills-137-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -90,7 +90,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 💻 | [Coding & CS Education](#coding--cs-education) | 26 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 19 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 17 skills |
-| 🗣️ | [Language Learning](#language-learning) | 10 skills |
+| 🗣️ | [Language Learning](#language-learning) | 11 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 17 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 15 skills |
 | 🧩 | [Plugins](#plugins) | 27 plugins |
@@ -268,9 +268,10 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 Translation practice, vocabulary drilling, and grammar correction in a target (non-English) language, for IB Language A/B and IGCSE second-language coursework.
 
 <details open>
-<summary>Show 10 skills</summary>
+<summary>Show 11 skills</summary>
 
 - **[13rianK/japanese-tutor](https://github.com/13rianK/japanese-tutor)** - Runs daily Japanese lessons with vocabulary, grammar, and graded practice.
+- **[24kchengYe/human-skill-tree - k12-languages](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-languages)** - Practices reading, writing, listening, and speaking in a second language.
 - **[dinqe/language-tutor](https://github.com/dinqe/language-tutor)** - Diagnoses your level and runs adaptive per-language tutoring sessions with an error ledger.
 - **[gislio/claude-language-tutor](https://github.com/gislio/claude-language-tutor)** - Assesses your CEFR level and runs adaptive lessons in any target language.
 - **[hamsamilton/lang-tutor](https://github.com/hamsamilton/lang-tutor)** - Gives grammar corrections and vocabulary help in your target language.

@@ -1229,6 +1229,16 @@
       "description": "Inspects architecture, dependencies, and validation loops before planning a change."
     },
     {
+      "name": "24kchengye-human-skill-tree-k12-languages",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/24kchengYe/human-skill-tree.git",
+        "path": "skills/01-k12-languages",
+        "ref": "master"
+      },
+      "description": "Practices reading, writing, listening, and speaking in a second language."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1590,7 +1600,7 @@
     {
       "name": "language-learning-bundle",
       "source": "./bundles/language-learning-bundle",
-      "description": "Language Learning skills in one install (10 skills).",
+      "description": "Language Learning skills in one install (11 skills).",
       "dependencies": [
         "13riank-japanese-tutor",
         "gislio-claude-language-tutor",
@@ -1601,7 +1611,8 @@
         "m98-fluent",
         "skillmedev-skills-language-learning",
         "uriva-language-learning",
-        "santimator-x3-suite-graded-reader"
+        "santimator-x3-suite-graded-reader",
+        "24kchengye-human-skill-tree-k12-languages"
       ]
     },
     {
