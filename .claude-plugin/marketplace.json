@@ -1762,6 +1762,14 @@
       "description": "Keeps git-tracked, Obsidian-friendly notes with auto-journaling across sessions."
     },
     {
+      "name": "acehoapt-studykit",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/acehoapt/studykit.git"
+      },
+      "description": "Scaffolds essay assignments and gives feedback matching your own writing voice."
+    },
+    {
       "name": "ib-igcse-bundle",
       "source": "./bundles/ib-igcse-bundle",
       "description": "IB & IGCSE Coursework skills in one install (10 skills).",

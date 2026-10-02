@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 ![Skills](https://img.shields.io/badge/skills-166-blue)
-![Plugins](https://img.shields.io/badge/plugins-28-purple)
+![Plugins](https://img.shields.io/badge/plugins-29-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -93,7 +93,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 🗣️ | [Language Learning](#language-learning) | 15 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 21 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 19 skills |
-| 🧩 | [Plugins](#plugins) | 28 plugins |
+| 🧩 | [Plugins](#plugins) | 29 plugins |
 
 [Install a bundle in one command](#install-a-bundle-in-one-command) &middot; [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
 
@@ -390,8 +390,9 @@ Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, 
 Each entry's parenthetical tag is its sub-area, so the flat list below stays scannable as it grows: **📋 Study & Productivity** (tutoring, note capture, flashcards, lesson/course generation), **🔎 Research** (literature review, citation management, research pipelines), **📝 Note-Taking** (video/lecture notes, notebook organization), **💼 Career** (resume, applications, interview prep), or **⚙️ General-Purpose** (not tied to a subject or workflow above).
 
 <details open>
-<summary>Show 28 plugins</summary>
+<summary>Show 29 plugins</summary>
 
+- **[acehoapt/studykit](https://github.com/acehoapt/studykit)** - Scaffolds essay assignments and gives feedback matching your own writing voice (📋 Study & Productivity).
 - **[alirezarezvani/claude-skills - productivity/capture](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/capture)** - Organizes a brain-dump of mixed thoughts, tasks, and ideas into an actionable list (📋 Study & Productivity).
 - **[alirezarezvani/claude-skills - productivity/deep-work](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/deep-work)** - Time-blocks the day into deep and shallow work with focus blocks, Cal Newport style (📋 Study & Productivity).
 - **[alirezarezvani/claude-skills - research/deep-research](https://github.com/alirezarezvani/claude-skills/tree/main/research/deep-research)** - Runs a multi-source research pipeline with citations for high-stakes research questions (🔎 Research).

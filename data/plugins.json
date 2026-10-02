@@ -362,5 +362,18 @@
       "copilot"
     ],
     "tag": "Note-Taking"
+  },
+  {
+    "name": "acehoapt/studykit",
+    "url": "https://github.com/acehoapt/studykit",
+    "description": "Scaffolds essay assignments and gives feedback matching your own writing voice.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ],
+    "tag": "Study & Productivity"
   }
 ]
