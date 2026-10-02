@@ -1480,6 +1480,16 @@
       "description": "Pushes, deploys, and runs Google Apps Script projects via the clasp CLI."
     },
     {
+      "name": "yha9806-academic-writing-toolkit-audit",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/yha9806/academic-writing-toolkit.git",
+        "path": ".claude/skills/audit",
+        "ref": "main"
+      },
+      "description": "Audits a thesis manuscript for cross-chapter consistency and terminology drift."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1827,7 +1837,7 @@
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (21 skills).",
+      "description": "Writing & Humanities skills in one install (22 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -1849,7 +1859,8 @@
         "haowjy-creative-writing-skills-creative-writing-modes",
         "jamditis-claude-skills-journalism-data-journalism",
         "markpitt-claude-skills-gcse-english-literature-tutor",
-        "e06084-claude-screenwriting-screenwriting"
+        "e06084-claude-screenwriting-screenwriting",
+        "yha9806-academic-writing-toolkit-audit"
       ]
     },
     {
