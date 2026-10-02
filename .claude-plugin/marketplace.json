@@ -1442,6 +1442,16 @@
       "description": "Advises on study-abroad destinations, school lists, essays, and visa prep."
     },
     {
+      "name": "e06084-claude-screenwriting-screenwriting",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/e06084/claude-screenwriting.git",
+        "path": "skills/screenwriting",
+        "ref": "main"
+      },
+      "description": "Coaches screenplay structure, beat sheets, and character arcs via classic frameworks."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1788,7 +1798,7 @@
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (20 skills).",
+      "description": "Writing & Humanities skills in one install (21 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -1809,7 +1819,8 @@
         "onewave-ai-claude-skills-debate-simulator",
         "haowjy-creative-writing-skills-creative-writing-modes",
         "jamditis-claude-skills-journalism-data-journalism",
-        "markpitt-claude-skills-gcse-english-literature-tutor"
+        "markpitt-claude-skills-gcse-english-literature-tutor",
+        "e06084-claude-screenwriting-screenwriting"
       ]
     },
     {

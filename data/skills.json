@@ -1891,5 +1891,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "e06084/claude-screenwriting - screenwriting",
+    "url": "https://github.com/e06084/claude-screenwriting/tree/main/skills/screenwriting",
+    "description": "Coaches screenplay structure, beat sheets, and character arcs via classic frameworks.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
