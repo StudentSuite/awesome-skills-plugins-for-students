@@ -1460,6 +1460,16 @@
       "description": "Tutors data structures and algorithms fundamentals with staged hints, not spoilers."
     },
     {
+      "name": "agents365-ai-zotero-cli-ai-zotero-cli",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Agents365-ai/zotero-cli-ai.git",
+        "path": "skill/zotero-cli",
+        "ref": "main"
+      },
+      "description": "🔑 Imports, organizes, tags, and generates bibliographies from a Zotero library."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1713,7 +1723,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (23 skills; 1 paid-key skill excluded, install separately).",
+      "description": "Study & Productivity skills in one install (23 skills; 2 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",

@@ -1915,5 +1915,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "Agents365-ai/zotero-cli-ai - zotero-cli",
+    "url": "https://github.com/Agents365-ai/zotero-cli-ai/tree/main/skill/zotero-cli",
+    "description": "Imports, organizes, tags, and generates bibliographies from a Zotero library.",
+    "category": "Study & Productivity",
+    "marker": "requires-key",
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

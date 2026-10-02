@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-160-blue)
+![Skills](https://img.shields.io/badge/skills-161-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -86,7 +86,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | | Section | Count |
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 10 skills |
-| 🗂️ | [Study & Productivity](#study--productivity) | 24 skills |
+| 🗂️ | [Study & Productivity](#study--productivity) | 25 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 28 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 25 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 21 skills |
@@ -134,9 +134,10 @@ Several spaced-repetition study tools overlap here. To pick one: **hluaguo/learn
 Three entries generate exam-prep material with no prior note on how they differ. **sickn33/agentic-awesome-skills - examprep-ai** (this section) ranks syllabus topics into a scored roadmap with MCQs and question prediction; **pinakdhabu/Exam-prompt** (this section) generates exam answers, notes, and study plans for any university; and **HashemALSKKkAF/exam-prep-mcq** (under [Google Workspace for Students](#google-workspace-for-students)) turns study material into an MCQ quiz delivered as a Google Form.
 
 <details open>
-<summary>Show 24 skills</summary>
+<summary>Show 25 skills</summary>
 
 - **[0x-man/mindmap-skill](https://github.com/0x-man/mindmap-skill)** - Generates interactive mind maps and concept maps from notes, topics, or documents.
+- **[Agents365-ai/zotero-cli-ai - zotero-cli](https://github.com/Agents365-ai/zotero-cli-ai/tree/main/skill/zotero-cli)** - 🔑 Imports, organizes, tags, and generates bibliographies from a Zotero library.
 - **[anthropics/docx](https://officialskills.sh/anthropics/skills/docx)** - Creates and edits Word documents with tracked changes, comments, and formatting.
 - **[anthropics/internal-comms](https://officialskills.sh/anthropics/skills/internal-comms)** - Writes status reports, newsletters, and FAQs, good for group project updates and lab reports.
 - **[anthropics/pptx](https://officialskills.sh/anthropics/skills/pptx)** - Creates, edits, and reads PowerPoint slide decks and templates.
