@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-165-blue)
+![Skills](https://img.shields.io/badge/skills-166-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -90,7 +90,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 💻 | [Coding & CS Education](#coding--cs-education) | 28 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 25 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 23 skills |
-| 🗣️ | [Language Learning](#language-learning) | 14 skills |
+| 🗣️ | [Language Learning](#language-learning) | 15 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 21 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 19 skills |
 | 🧩 | [Plugins](#plugins) | 27 plugins |
@@ -285,7 +285,7 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 Translation practice, vocabulary drilling, and grammar correction in a target (non-English) language, for IB Language A/B and IGCSE second-language coursework.
 
 <details open>
-<summary>Show 14 skills</summary>
+<summary>Show 15 skills</summary>
 
 - **[13rianK/japanese-tutor](https://github.com/13rianK/japanese-tutor)** - Runs daily Japanese lessons with vocabulary, grammar, and graded practice.
 - **[24kchengYe/human-skill-tree - k12-languages](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-languages)** - Practices reading, writing, listening, and speaking in a second language.
@@ -294,6 +294,7 @@ Translation practice, vocabulary drilling, and grammar correction in a target (n
 - **[hamsamilton/lang-tutor](https://github.com/hamsamilton/lang-tutor)** - Gives grammar corrections and vocabulary help in your target language.
 - **[htlin222/toefl-skill](https://github.com/htlin222/toefl-skill/tree/main/toefl)** - Runs a 12-week TOEFL iBT study plan with drills, mock tests, and graders.
 - **[JeremyJC67/super-translator](https://github.com/JeremyJC67/super-translator)** - Translates text and explains it through your mother language.
+- **[LuchoBazz/skills - ielts-listening-generator](https://github.com/LuchoBazz/skills/tree/main/skills/ielts-listening-generator)** - Generates IELTS-style listening transcripts and audio configs for practice.
 - **[m98/fluent](https://github.com/m98/fluent)** - Drills vocabulary and corrects target-language writing using spaced repetition.
 - **[mpuche3/ipa-transcribe](https://github.com/mpuche3/ipa-transcribe)** - Transcribes English text into stress-marked IPA to teach precise pronunciation.
 - **[Santimator/x3-suite - graded-reader](https://github.com/Santimator/x3-suite/tree/main/ai-tools/graded-reader)** - Writes HSK-leveled Chinese graded readers chapter by chapter with vocabulary validation.

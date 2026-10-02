@@ -1510,6 +1510,16 @@
       "description": "Tracks FAFSA/CSS Profile deadlines and audits college award letters."
     },
     {
+      "name": "luchobazz-skills-ielts-listening-generator",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/LuchoBazz/skills.git",
+        "path": "skills/ielts-listening-generator",
+        "ref": "main"
+      },
+      "description": "Generates IELTS-style listening transcripts and audio configs for practice."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1887,7 +1897,7 @@
     {
       "name": "language-learning-bundle",
       "source": "./bundles/language-learning-bundle",
-      "description": "Language Learning skills in one install (14 skills).",
+      "description": "Language Learning skills in one install (15 skills).",
       "dependencies": [
         "13riank-japanese-tutor",
         "gislio-claude-language-tutor",
@@ -1902,7 +1912,8 @@
         "htlin222-toefl-skill",
         "mpuche3-ipa-transcribe",
         "24kchengye-human-skill-tree-k12-languages",
-        "yanzhanlin-ielts-claude-skills"
+        "yanzhanlin-ielts-claude-skills",
+        "luchobazz-skills-ielts-listening-generator"
       ]
     },
     {

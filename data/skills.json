@@ -1975,5 +1975,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "LuchoBazz/skills - ielts-listening-generator",
+    "url": "https://github.com/LuchoBazz/skills/tree/main/skills/ielts-listening-generator",
+    "description": "Generates IELTS-style listening transcripts and audio configs for practice.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
