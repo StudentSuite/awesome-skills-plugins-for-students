@@ -349,5 +349,18 @@
       "copilot"
     ],
     "tag": "General-Purpose"
+  },
+  {
+    "name": "jgcosme/claude-obsidian-memory",
+    "url": "https://github.com/jgcosme/claude-obsidian-memory",
+    "description": "Keeps git-tracked, Obsidian-friendly notes with auto-journaling across sessions.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ],
+    "tag": "Note-Taking"
   }
 ]

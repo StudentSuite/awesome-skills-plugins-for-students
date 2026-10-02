@@ -1754,6 +1754,14 @@
       "description": "Rewrites writing, code, and documents to ISO 24495 plain-language rules."
     },
     {
+      "name": "jgcosme-claude-obsidian-memory",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jgcosme/claude-obsidian-memory.git"
+      },
+      "description": "Keeps git-tracked, Obsidian-friendly notes with auto-journaling across sessions."
+    },
+    {
       "name": "ib-igcse-bundle",
       "source": "./bundles/ib-igcse-bundle",
       "description": "IB & IGCSE Coursework skills in one install (10 skills).",

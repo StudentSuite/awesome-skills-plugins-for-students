@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 ![Skills](https://img.shields.io/badge/skills-166-blue)
-![Plugins](https://img.shields.io/badge/plugins-27-purple)
+![Plugins](https://img.shields.io/badge/plugins-28-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -93,7 +93,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 🗣️ | [Language Learning](#language-learning) | 15 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 21 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 19 skills |
-| 🧩 | [Plugins](#plugins) | 27 plugins |
+| 🧩 | [Plugins](#plugins) | 28 plugins |
 
 [Install a bundle in one command](#install-a-bundle-in-one-command) &middot; [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
 
@@ -390,7 +390,7 @@ Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, 
 Each entry's parenthetical tag is its sub-area, so the flat list below stays scannable as it grows: **📋 Study & Productivity** (tutoring, note capture, flashcards, lesson/course generation), **🔎 Research** (literature review, citation management, research pipelines), **📝 Note-Taking** (video/lecture notes, notebook organization), **💼 Career** (resume, applications, interview prep), or **⚙️ General-Purpose** (not tied to a subject or workflow above).
 
 <details open>
-<summary>Show 27 plugins</summary>
+<summary>Show 28 plugins</summary>
 
 - **[alirezarezvani/claude-skills - productivity/capture](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/capture)** - Organizes a brain-dump of mixed thoughts, tasks, and ideas into an actionable list (📋 Study & Productivity).
 - **[alirezarezvani/claude-skills - productivity/deep-work](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/deep-work)** - Time-blocks the day into deep and shallow work with focus blocks, Cal Newport style (📋 Study & Productivity).
@@ -408,6 +408,7 @@ Each entry's parenthetical tag is its sub-area, so the flat list below stays sca
 - **[jacquardlabs/study-skills](https://github.com/jacquardlabs/study-skills)** - Turns lecture slides into flashcards, quizzes, and study milestones (📋 Study & Productivity).
 - **[JeanDiable/academic-research-plugin](https://github.com/JeanDiable/academic-research-plugin)** - Plugin for literature surveys, paper reviews, and citation management (🔎 Research).
 - **[jeffersongoncalves/claude-code-obsidian-notes](https://github.com/jeffersongoncalves/claude-code-obsidian-notes)** - Persists documentation, decisions, and summaries as notes in an Obsidian vault (📝 Note-Taking).
+- **[jgcosme/claude-obsidian-memory](https://github.com/jgcosme/claude-obsidian-memory)** - Keeps git-tracked, Obsidian-friendly notes with auto-journaling across sessions (📝 Note-Taking).
 - **[JoshuaOliphant/claude-plugins - mochi-creator](https://github.com/JoshuaOliphant/claude-plugins/tree/main/plugins/mochi-creator)** - 🔑 Creates evidence-based spaced-repetition flashcards and pushes them to Mochi (📋 Study & Productivity).
 - **[JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)** - Compresses agent responses into concise caveman-style language, reducing token usage while preserving technical accuracy (⚙️ General-Purpose).
 - **[K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills)** - 140+ science skills covering biology, chemistry, medicine, and 100+ scientific databases (🔎 Research).
