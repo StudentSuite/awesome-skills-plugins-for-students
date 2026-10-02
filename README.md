@@ -58,18 +58,27 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 
 | Bundle | Skills | Install |
 | --- | :-: | --- |
-| IB & IGCSE Coursework | 9 | `claude plugin install ib-igcse-bundle` |
-| Study & Productivity | 17 | `claude plugin install study-productivity-bundle` |
-| Coding & CS Education | 18 | `claude plugin install coding-cs-bundle` |
-| STEM Subjects | 8 | `claude plugin install stem-bundle` |
-| Writing & Humanities | 11 | `claude plugin install writing-humanities-bundle` |
-| Language Learning | 3 | `claude plugin install language-learning-bundle` |
-| College Applications & Career | 12 | `claude plugin install college-career-bundle` |
-| Google Workspace for Students | 11 | `claude plugin install google-workspace-bundle` |
+| IB & IGCSE Coursework | 10 | `claude plugin install ib-igcse-bundle` |
+| Study & Productivity | 23 | `claude plugin install study-productivity-bundle` |
+| Coding & CS Education | 28 | `claude plugin install coding-cs-bundle` |
+| STEM Subjects | 22 | `claude plugin install stem-bundle` |
+| Writing & Humanities | 23 | `claude plugin install writing-humanities-bundle` |
+| Language Learning | 15 | `claude plugin install language-learning-bundle` |
+| College Applications & Career | 21 | `claude plugin install college-career-bundle` |
+| Google Workspace for Students | 19 | `claude plugin install google-workspace-bundle`¹ |
 
 Every 🔑 entry (needs a paid API key or separate account) is excluded from
 every bundle by design, so a default bundle install never silently expects
 one — install those individually if you want them.
+
+¹ This bundle spans three separately-authenticated tools, not one coherent
+toolset: the official `googleworkspace/cli` **gws-\*** skills, the unrelated
+`openclaw/gogcli` **gog-\*** skills, and the independent, unofficial
+`omriariav/workspace-cli` **gws-groups** skill. Installing the bundle pulls
+in all three at once, but each still needs its own separate install/OAuth
+setup before it works — see the [Google Workspace for
+Students](#google-workspace-for-students) section intro for the full
+breakdown.
 
 This covers Claude Code specifically: Cursor, Copilot, and Gemini CLI don't
 have an equivalent one-command bundle mechanism today (see
