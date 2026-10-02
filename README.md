@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-161-blue)
+![Skills](https://img.shields.io/badge/skills-162-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -92,7 +92,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | ✍️ | [Writing & Humanities](#writing--humanities) | 21 skills |
 | 🗣️ | [Language Learning](#language-learning) | 14 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 20 skills |
-| 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 18 skills |
+| 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 19 skills |
 | 🧩 | [Plugins](#plugins) | 27 plugins |
 
 [Install a bundle in one command](#install-a-bundle-in-one-command) &middot; [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
@@ -351,7 +351,7 @@ Three different projects answer to `gws` or a lookalike name. **googleworkspace/
 **HashemALSKKkAF/exam-prep-mcq** generates exam-prep MCQs like **sickn33/agentic-awesome-skills - examprep-ai** and **pinakdhabu/Exam-prompt** (both under [Study & Productivity](#study--productivity)), but its distinguishing feature is delivering the quiz as a native Google Form.
 
 <details open>
-<summary>Show 18 skills</summary>
+<summary>Show 19 skills</summary>
 
 - **[eranw2000/google-slides-skill](https://github.com/eranw2000/google-slides-skill)** - Redesigns Google Slides decks against branding and visually verifies output.
 - **[googleworkspace/cli - gws-meet](https://github.com/googleworkspace/cli/tree/main/skills/gws-meet)** - Manages Google Meet conference spaces, recordings, and transcripts via the `gws` CLI.
@@ -368,6 +368,7 @@ Three different projects answer to `gws` or a lookalike name. **googleworkspace/
 - **[googleworkspace/gws-slides](https://officialskills.sh/googleworkspace/skills/gws-slides)** - Read and write Google Slides presentations via the `gws` CLI.
 - **[googleworkspace/gws-tasks](https://officialskills.sh/googleworkspace/skills/gws-tasks)** - Manage Google Tasks task lists and tasks via the `gws` CLI.
 - **[HashemALSKKkAF/exam-prep-mcq](https://github.com/HashemALSKKkAF/exam-prep-mcq)** - Generates MCQ quizzes from study material and delivers them as a Google Form.
+- **[minicoohei/ai-agent-camp - gas-clasp-ops](https://github.com/minicoohei/ai-agent-camp/tree/main/skills/gas-clasp-ops)** - Pushes, deploys, and runs Google Apps Script projects via the clasp CLI.
 - **[omriariav/workspace-cli - gws-groups](https://github.com/omriariav/workspace-cli/tree/main/plugins/gws/skills/groups)** - Lists Google Groups and members via a separate `gws` CLI (requires Workspace admin rights).
 - **[openclaw/gogcli - gog-photos](https://github.com/openclaw/gogcli/tree/main/.agents/skills/gog-photos)** - Manages Google Photos: search, list, and download via the `gog` CLI.
 - **[openclaw/gogcli - gog-sites](https://github.com/openclaw/gogcli/tree/main/.agents/skills/gog-sites)** - Looks up and searches Google Sites via the `gog` CLI.

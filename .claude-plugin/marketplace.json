@@ -1470,6 +1470,16 @@
       "description": "🔑 Imports, organizes, tags, and generates bibliographies from a Zotero library."
     },
     {
+      "name": "minicoohei-ai-agent-camp-gas-clasp-ops",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/minicoohei/ai-agent-camp.git",
+        "path": "skills/gas-clasp-ops",
+        "ref": "main"
+      },
+      "description": "Pushes, deploys, and runs Google Apps Script projects via the clasp CLI."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1893,7 +1903,7 @@
     {
       "name": "google-workspace-bundle",
       "source": "./bundles/google-workspace-bundle",
-      "description": "Google Workspace for Students skills in one install (18 skills).",
+      "description": "Google Workspace for Students skills in one install (19 skills).",
       "dependencies": [
         "eranw2000-google-slides-skill",
         "googleworkspace-cli-gws-meet",
@@ -1912,7 +1922,8 @@
         "openclaw-gogcli-gog-sites",
         "googleworkspace-cli-gws-people",
         "openclaw-gogcli-gog-photos",
-        "omriariav-workspace-cli-gws-groups"
+        "omriariav-workspace-cli-gws-groups",
+        "minicoohei-ai-agent-camp-gas-clasp-ops"
       ]
     }
   ]
