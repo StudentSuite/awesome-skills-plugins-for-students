@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-164-blue)
+![Skills](https://img.shields.io/badge/skills-165-blue)
 ![Plugins](https://img.shields.io/badge/plugins-27-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -91,7 +91,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 🔬 | [STEM Subjects](#stem-subjects) | 25 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 23 skills |
 | 🗣️ | [Language Learning](#language-learning) | 14 skills |
-| 🎓 | [College Applications & Career](#college-applications--career) | 20 skills |
+| 🎓 | [College Applications & Career](#college-applications--career) | 21 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 19 skills |
 | 🧩 | [Plugins](#plugins) | 27 plugins |
 
@@ -315,7 +315,7 @@ Personal-statement tools overlap here too. To pick one: **Academic-Essay-Reviewe
 Several resume tools overlap here. To pick one: **tailored-resume-generator** and **resume-tailoring-skill** do plain tailoring to a single job description; **ResumeSkills** adds ATS-compatibility scoring and interview prep; **career-ops** wraps a full job-search workflow that also scores listings and tracks applications; **resume-tailor-plugin** (under [Plugins](#plugins)) is the same tailoring packaged as a full Claude Code plugin rather than a single skill; and **danielrosehill/Claude-Career-Plugin** (also under [Plugins](#plugins)) bundles resume, cover-letter, and interview-prep commands into one broader career-operations plugin.
 
 <details open>
-<summary>Show 20 skills</summary>
+<summary>Show 21 skills</summary>
 
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[borghei/Claude-Skills - research/grants](https://github.com/borghei/Claude-Skills/tree/main/research/grants)** - Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate.
@@ -335,6 +335,7 @@ Several resume tools overlap here. To pick one: **tailored-resume-generator** an
 - **[santifer/career-ops](https://github.com/santifer/career-ops)** - Scores job listings, tailors resumes, and tracks applications for a job search.
 - **[shauryagangrade/scout-issue](https://github.com/shauryagangrade/scout-issue)** - Finds and ranks GitHub issues matched to your skills, experience, and time for open-source contributions.
 - **[sourikduttanyu/interview-prep](https://github.com/sourikduttanyu/interview-prep)** - Builds a tailored interview prep kit from your resume and a job description.
+- **[tydev-new/10xcolleges - financial-aid](https://github.com/tydev-new/10xcolleges/tree/main/college-apps/skills/financial-aid)** - Tracks FAFSA/CSS Profile deadlines and audits college award letters.
 - **[varunr89/resume-tailoring-skill](https://github.com/varunr89/resume-tailoring-skill)** - AI-powered resume tailoring for specific job descriptions.
 - **[X-tong6/pscher](https://github.com/X-tong6/pscher)** - Generates English personal statements for Hong Kong university applications.
 

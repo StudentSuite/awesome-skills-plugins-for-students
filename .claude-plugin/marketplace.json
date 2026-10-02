@@ -1500,6 +1500,16 @@
       "description": "Guides Model UN research, position papers, resolutions, and procedure."
     },
     {
+      "name": "tydev-new-10xcolleges-financial-aid",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/tydev-new/10xcolleges.git",
+        "path": "college-apps/skills/financial-aid",
+        "ref": "main"
+      },
+      "description": "Tracks FAFSA/CSS Profile deadlines and audits college award letters."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1898,7 +1908,7 @@
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (20 skills).",
+      "description": "College Applications & Career skills in one install (21 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -1919,7 +1929,8 @@
         "noamseg-interview-coach-skill",
         "mohitagw15856-pm-claude-skills-personal-statement",
         "davila7-claude-code-templates-salary-negotiation-prep",
-        "canhada-labs-ceo-orchestration-study-abroad-advisory"
+        "canhada-labs-ceo-orchestration-study-abroad-advisory",
+        "tydev-new-10xcolleges-financial-aid"
       ]
     },
     {

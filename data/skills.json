@@ -1963,5 +1963,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "tydev-new/10xcolleges - financial-aid",
+    "url": "https://github.com/tydev-new/10xcolleges/tree/main/college-apps/skills/financial-aid",
+    "description": "Tracks FAFSA/CSS Profile deadlines and audits college award letters.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
