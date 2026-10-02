@@ -1903,5 +1903,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "fn-jakubkarp/dsa-tutor",
+    "url": "https://github.com/fn-jakubkarp/dsa-tutor",
+    "description": "Tutors data structures and algorithms fundamentals with staged hints, not spoilers.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
