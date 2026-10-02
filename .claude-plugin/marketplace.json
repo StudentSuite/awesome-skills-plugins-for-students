@@ -1490,6 +1490,16 @@
       "description": "Audits a thesis manuscript for cross-chapter consistency and terminology drift."
     },
     {
+      "name": "uchiha-madara-anuj-cca-mun-mun-core-protocol",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/UCHIHA-MADARA-ANUJ/CCA-Mun.git",
+        "path": "skills/01_mun_core_protocol",
+        "ref": "main"
+      },
+      "description": "Guides Model UN research, position papers, resolutions, and procedure."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1837,7 +1847,7 @@
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (22 skills).",
+      "description": "Writing & Humanities skills in one install (23 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -1860,7 +1870,8 @@
         "jamditis-claude-skills-journalism-data-journalism",
         "markpitt-claude-skills-gcse-english-literature-tutor",
         "e06084-claude-screenwriting-screenwriting",
-        "yha9806-academic-writing-toolkit-audit"
+        "yha9806-academic-writing-toolkit-audit",
+        "uchiha-madara-anuj-cca-mun-mun-core-protocol"
       ]
     },
     {

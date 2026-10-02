@@ -1951,5 +1951,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "UCHIHA-MADARA-ANUJ/CCA-Mun - mun-core-protocol",
+    "url": "https://github.com/UCHIHA-MADARA-ANUJ/CCA-Mun/tree/main/skills/01_mun_core_protocol",
+    "description": "Guides Model UN research, position papers, resolutions, and procedure.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
