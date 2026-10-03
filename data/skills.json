@@ -2023,5 +2023,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "jshchnz/claude-jobs",
+    "url": "https://github.com/jshchnz/claude-jobs",
+    "description": "Searches tech company job boards for intern and entry roles by location.",
+    "category": "College Applications & Career",
+    "marker": "external-service",
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

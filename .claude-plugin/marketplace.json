@@ -1546,6 +1546,14 @@
       "description": "Maps foreign degree recognition: assessing body, evidence checklist, and bridging options."
     },
     {
+      "name": "jshchnz-claude-jobs",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jshchnz/claude-jobs.git"
+      },
+      "description": "🌐 Searches tech company job boards for intern and entry roles by location."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1962,7 +1970,7 @@
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (22 skills).",
+      "description": "College Applications & Career skills in one install (23 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -1985,7 +1993,8 @@
         "davila7-claude-code-templates-salary-negotiation-prep",
         "canhada-labs-ceo-orchestration-study-abroad-advisory",
         "tydev-new-10xcolleges-financial-aid",
-        "mohitagw15856-pm-claude-skills-credential-recognition"
+        "mohitagw15856-pm-claude-skills-credential-recognition",
+        "jshchnz-claude-jobs"
       ]
     },
     {
