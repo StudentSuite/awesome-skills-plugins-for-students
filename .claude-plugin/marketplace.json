@@ -1528,6 +1528,14 @@
       "description": "Organizes Google Drive into folders via a local CLI with dry-run moves."
     },
     {
+      "name": "xeichelberger-how-to-speak",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/xeichelberger/how-to-speak-.git"
+      },
+      "description": "Coaches talk openings, slides, and rehearsal using Patrick Winston's speaking rules."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1891,7 +1899,7 @@
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (23 skills).",
+      "description": "Writing & Humanities skills in one install (24 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -1915,7 +1923,8 @@
         "markpitt-claude-skills-gcse-english-literature-tutor",
         "e06084-claude-screenwriting-screenwriting",
         "yha9806-academic-writing-toolkit-audit",
-        "uchiha-madara-anuj-cca-mun-mun-core-protocol"
+        "uchiha-madara-anuj-cca-mun-mun-core-protocol",
+        "xeichelberger-how-to-speak"
       ]
     },
     {

@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-167-blue)
+![Skills](https://img.shields.io/badge/skills-168-blue)
 ![Plugins](https://img.shields.io/badge/plugins-29-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -62,7 +62,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | Study & Productivity | 23 | `claude plugin install study-productivity-bundle` |
 | Coding & CS Education | 28 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 22 | `claude plugin install stem-bundle` |
-| Writing & Humanities | 23 | `claude plugin install writing-humanities-bundle` |
+| Writing & Humanities | 24 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 15 | `claude plugin install language-learning-bundle` |
 | College Applications & Career | 21 | `claude plugin install college-career-bundle` |
 | Google Workspace for Students | 20 | `claude plugin install google-workspace-bundle`¹ |
@@ -98,7 +98,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 🗂️ | [Study & Productivity](#study--productivity) | 25 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 28 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 25 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 23 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 24 skills |
 | 🗣️ | [Language Learning](#language-learning) | 15 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 21 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 20 skills |
@@ -259,7 +259,7 @@ Essay structuring, academic research, and literature analysis. See [Language Lea
 Four entries overlap on planning and drafting a paper with no prior note on how they differ. **kgraph57/paper-writer-skill** is scoped to IMRAD-structured scientific manuscripts — lab reports and write-ups with a fixed intro/methods/results/discussion shape. **Master-cai/Research-Paper-Writing-Skills** is a general-purpose planning-and-writing package for a research paper, not tied to one structure. **lishix520/academic-paper-skills** covers the same ground but adds reviewer-simulated quality checkpoints at each stage, for when you want the draft pressure-tested as you go. **tizzy916/humanities-writing-companion** is for humanities writing specifically, guiding the process from research question through revision rather than a lab-report format.
 
 <details open>
-<summary>Show 23 skills</summary>
+<summary>Show 24 skills</summary>
 
 - **[basicmachines-co/basic-memory - memory-literary-analysis](https://github.com/basicmachines-co/basic-memory/tree/main/skills/memory-literary-analysis)** - Analyzes literary works into a searchable knowledge graph.
 - **[ComposioHQ/awesome-claude-skills - content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
@@ -282,6 +282,7 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 - **[UCHIHA-MADARA-ANUJ/CCA-Mun - mun-core-protocol](https://github.com/UCHIHA-MADARA-ANUJ/CCA-Mun/tree/main/skills/01_mun_core_protocol)** - Guides Model UN research, position papers, resolutions, and procedure.
 - **[wentorai/Research-Claw - citation-styles](https://github.com/wentorai/Research-Claw/tree/main/skills/citation-styles)** - Formats in-text citations and reference lists in MLA, APA, and Chicago style.
 - **[wentorai/research-plugins - history-research-guide](https://github.com/wentorai/research-plugins/tree/main/skills/domains/humanities/history-research-guide)** - Guides primary-source criticism, archival research, and historiography for history papers.
+- **[xeichelberger/how-to-speak-](https://github.com/xeichelberger/how-to-speak-)** - Coaches talk openings, slides, and rehearsal using Patrick Winston's speaking rules.
 - **[xwmxcz/papers-skill](https://github.com/xwmxcz/papers-skill)** - 🌐 Searches 200M+ papers on Semantic Scholar, inspects citations, and downloads arXiv PDFs.
 - **[yha9806/academic-writing-toolkit - audit](https://github.com/yha9806/academic-writing-toolkit/tree/main/.claude/skills/audit)** - Audits a thesis manuscript for cross-chapter consistency and terminology drift.
 

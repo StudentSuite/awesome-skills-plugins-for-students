@@ -1999,5 +1999,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "xeichelberger/how-to-speak-",
+    "url": "https://github.com/xeichelberger/how-to-speak-",
+    "description": "Coaches talk openings, slides, and rehearsal using Patrick Winston's speaking rules.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
