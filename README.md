@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-166-blue)
+![Skills](https://img.shields.io/badge/skills-167-blue)
 ![Plugins](https://img.shields.io/badge/plugins-29-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -65,7 +65,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | Writing & Humanities | 23 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 15 | `claude plugin install language-learning-bundle` |
 | College Applications & Career | 21 | `claude plugin install college-career-bundle` |
-| Google Workspace for Students | 19 | `claude plugin install google-workspace-bundle`¹ |
+| Google Workspace for Students | 20 | `claude plugin install google-workspace-bundle`¹ |
 
 Every 🔑 entry (needs a paid API key or separate account) is excluded from
 every bundle by design, so a default bundle install never silently expects
@@ -101,7 +101,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | ✍️ | [Writing & Humanities](#writing--humanities) | 23 skills |
 | 🗣️ | [Language Learning](#language-learning) | 15 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 21 skills |
-| 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 19 skills |
+| 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 20 skills |
 | 🧩 | [Plugins](#plugins) | 29 plugins |
 
 [Install a bundle in one command](#install-a-bundle-in-one-command) &middot; [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
@@ -364,7 +364,7 @@ Three different projects answer to `gws` or a lookalike name. **googleworkspace/
 **HashemALSKKkAF/exam-prep-mcq** generates exam-prep MCQs like **sickn33/agentic-awesome-skills - examprep-ai** and **pinakdhabu/Exam-prompt** (both under [Study & Productivity](#study--productivity)), but its distinguishing feature is delivering the quiz as a native Google Form.
 
 <details open>
-<summary>Show 19 skills</summary>
+<summary>Show 20 skills</summary>
 
 - **[eranw2000/google-slides-skill](https://github.com/eranw2000/google-slides-skill)** - Redesigns Google Slides decks against branding and visually verifies output.
 - **[googleworkspace/cli - gws-meet](https://github.com/googleworkspace/cli/tree/main/skills/gws-meet)** - Manages Google Meet conference spaces, recordings, and transcripts via the `gws` CLI.
@@ -385,6 +385,7 @@ Three different projects answer to `gws` or a lookalike name. **googleworkspace/
 - **[omriariav/workspace-cli - gws-groups](https://github.com/omriariav/workspace-cli/tree/main/plugins/gws/skills/groups)** - Lists Google Groups and members via a separate `gws` CLI (requires Workspace admin rights).
 - **[openclaw/gogcli - gog-photos](https://github.com/openclaw/gogcli/tree/main/.agents/skills/gog-photos)** - Manages Google Photos: search, list, and download via the `gog` CLI.
 - **[openclaw/gogcli - gog-sites](https://github.com/openclaw/gogcli/tree/main/.agents/skills/gog-sites)** - Looks up and searches Google Sites via the `gog` CLI.
+- **[watashi-00/drive-organizer-agent](https://github.com/watashi-00/drive-organizer-agent)** - Organizes Google Drive into folders via a local CLI with dry-run moves.
 
 </details>
 

@@ -1987,5 +1987,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "watashi-00/drive-organizer-agent",
+    "url": "https://github.com/watashi-00/drive-organizer-agent",
+    "description": "Organizes Google Drive into folders via a local CLI with dry-run moves.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

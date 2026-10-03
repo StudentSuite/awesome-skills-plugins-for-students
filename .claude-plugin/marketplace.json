@@ -1520,6 +1520,14 @@
       "description": "Generates IELTS-style listening transcripts and audio configs for practice."
     },
     {
+      "name": "watashi-00-drive-organizer-agent",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/watashi-00/drive-organizer-agent.git"
+      },
+      "description": "Organizes Google Drive into folders via a local CLI with dry-run moves."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1963,7 +1971,7 @@
     {
       "name": "google-workspace-bundle",
       "source": "./bundles/google-workspace-bundle",
-      "description": "Google Workspace for Students skills in one install (19 skills).",
+      "description": "Google Workspace for Students skills in one install (20 skills).",
       "dependencies": [
         "eranw2000-google-slides-skill",
         "googleworkspace-cli-gws-meet",
@@ -1983,7 +1991,8 @@
         "googleworkspace-cli-gws-people",
         "openclaw-gogcli-gog-photos",
         "omriariav-workspace-cli-gws-groups",
-        "minicoohei-ai-agent-camp-gas-clasp-ops"
+        "minicoohei-ai-agent-camp-gas-clasp-ops",
+        "watashi-00-drive-organizer-agent"
       ]
     }
   ]
