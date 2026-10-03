@@ -279,6 +279,11 @@ scripts below:
   agree with the actual entries). Kept as defense in depth even though
   README.md is generated now, since it doesn't rely on the data files being
   right — it just checks the shipped file makes sense on its own.
+- `node scripts/check-bundle-counts.mjs` — checks the per-bundle skill counts
+  in README.md's "Install a bundle in one command" table against
+  `data/skills.json` (category size minus `requires-key` entries, which the
+  bundles exclude). That table is hand-maintained, so when you add or remove a
+  skill, update its row's count too.
 - `node scripts/check-last-verified.mjs` — see
   [Tracking last-verified dates](#tracking-last-verified-dates) above.
 - `node scripts/check-compat-paths-verified.mjs` — the same shape checks
@@ -298,6 +303,7 @@ node scripts/validate-data.mjs
 node scripts/generate-readme.mjs --check
 node scripts/generate-marketplace.mjs --check
 node scripts/check-list-format.mjs
+node scripts/check-bundle-counts.mjs
 node scripts/check-last-verified.mjs
 node scripts/check-compat-paths-verified.mjs
 ```
