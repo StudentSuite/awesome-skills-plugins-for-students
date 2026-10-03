@@ -1536,6 +1536,16 @@
       "description": "Coaches talk openings, slides, and rehearsal using Patrick Winston's speaking rules."
     },
     {
+      "name": "mohitagw15856-pm-claude-skills-credential-recognition",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/mohitagw15856/pm-claude-skills.git",
+        "path": "skills/credential-recognition",
+        "ref": "main"
+      },
+      "description": "Maps foreign degree recognition: assessing body, evidence checklist, and bridging options."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1952,7 +1962,7 @@
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (21 skills).",
+      "description": "College Applications & Career skills in one install (22 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -1974,7 +1984,8 @@
         "mohitagw15856-pm-claude-skills-personal-statement",
         "davila7-claude-code-templates-salary-negotiation-prep",
         "canhada-labs-ceo-orchestration-study-abroad-advisory",
-        "tydev-new-10xcolleges-financial-aid"
+        "tydev-new-10xcolleges-financial-aid",
+        "mohitagw15856-pm-claude-skills-credential-recognition"
       ]
     },
     {

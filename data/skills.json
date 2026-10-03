@@ -2011,5 +2011,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "mohitagw15856/pm-claude-skills - credential-recognition",
+    "url": "https://github.com/mohitagw15856/pm-claude-skills/tree/main/skills/credential-recognition",
+    "description": "Maps foreign degree recognition: assessing body, evidence checklist, and bridging options.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
