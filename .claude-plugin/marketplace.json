@@ -1564,6 +1564,16 @@
       "description": "Plans recommenders, drafts ask scripts and brag sheets, tracks letter requests."
     },
     {
+      "name": "24kchengye-human-skill-tree-business-economics-tutor",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/24kchengYe/human-skill-tree.git",
+        "path": "skills/02-business-economics-tutor",
+        "ref": "master"
+      },
+      "description": "Tutors micro/macroeconomics and business cases with graphs and real-world anchors."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1927,7 +1937,7 @@
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (24 skills).",
+      "description": "Writing & Humanities skills in one install (25 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -1952,7 +1962,8 @@
         "e06084-claude-screenwriting-screenwriting",
         "yha9806-academic-writing-toolkit-audit",
         "uchiha-madara-anuj-cca-mun-mun-core-protocol",
-        "xeichelberger-how-to-speak"
+        "xeichelberger-how-to-speak",
+        "24kchengye-human-skill-tree-business-economics-tutor"
       ]
     },
     {

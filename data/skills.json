@@ -2047,5 +2047,18 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "24kchengYe/human-skill-tree - business-economics-tutor",
+    "url": "https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-business-economics-tutor",
+    "description": "Tutors micro/macroeconomics and business cases with graphs and real-world anchors.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot",
+      "gemini-cli"
+    ]
   }
 ]
