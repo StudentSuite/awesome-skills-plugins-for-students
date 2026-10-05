@@ -388,5 +388,18 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "tag": "General-Purpose",
+    "name": "22rahulrai/simple-explainer",
+    "url": "https://github.com/22rahulrai/simple-explainer",
+    "description": "Explains concepts, errors, and code plainly, ending on a next step.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

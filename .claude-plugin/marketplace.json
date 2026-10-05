@@ -1888,6 +1888,14 @@
       "description": "🌐 Finds internships and hackathons matched to your resume, discovery only."
     },
     {
+      "name": "22rahulrai-simple-explainer",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/22rahulrai/simple-explainer.git"
+      },
+      "description": "Explains concepts, errors, and code plainly, ending on a next step."
+    },
+    {
       "name": "ib-igcse-bundle",
       "source": "./bundles/ib-igcse-bundle",
       "description": "IB & IGCSE Coursework skills in one install (11 skills).",
