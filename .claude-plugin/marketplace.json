@@ -1554,6 +1554,16 @@
       "description": "🌐 Searches tech company job boards for intern and entry roles by location."
     },
     {
+      "name": "tydev-new-10xcolleges-rec-request",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/tydev-new/10xcolleges.git",
+        "path": "college-apps/skills/rec-request",
+        "ref": "main"
+      },
+      "description": "Plans recommenders, drafts ask scripts and brag sheets, tracks letter requests."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1970,7 +1980,7 @@
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (23 skills).",
+      "description": "College Applications & Career skills in one install (24 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -1994,7 +2004,8 @@
         "canhada-labs-ceo-orchestration-study-abroad-advisory",
         "tydev-new-10xcolleges-financial-aid",
         "mohitagw15856-pm-claude-skills-credential-recognition",
-        "jshchnz-claude-jobs"
+        "jshchnz-claude-jobs",
+        "tydev-new-10xcolleges-rec-request"
       ]
     },
     {

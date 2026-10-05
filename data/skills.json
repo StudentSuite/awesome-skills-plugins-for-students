@@ -2035,5 +2035,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "tydev-new/10xcolleges - rec-request",
+    "url": "https://github.com/tydev-new/10xcolleges/tree/main/college-apps/skills/rec-request",
+    "description": "Plans recommenders, drafts ask scripts and brag sheets, tracks letter requests.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
