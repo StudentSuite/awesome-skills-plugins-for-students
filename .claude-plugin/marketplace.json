@@ -1604,6 +1604,14 @@
       "description": "🔑 Transcribes handwritten notes from images and PDFs into editable text."
     },
     {
+      "name": "ahmtsahin-deutsch-dna",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ahmtsahin/deutsch-dna.git"
+      },
+      "description": "Tutors German and files each mistake by root cause for spaced review."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -2000,7 +2008,7 @@
     {
       "name": "language-learning-bundle",
       "source": "./bundles/language-learning-bundle",
-      "description": "Language Learning skills in one install (15 skills).",
+      "description": "Language Learning skills in one install (16 skills).",
       "dependencies": [
         "13riank-japanese-tutor",
         "gislio-claude-language-tutor",
@@ -2016,7 +2024,8 @@
         "mpuche3-ipa-transcribe",
         "24kchengye-human-skill-tree-k12-languages",
         "yanzhanlin-ielts-claude-skills",
-        "luchobazz-skills-ielts-listening-generator"
+        "luchobazz-skills-ielts-listening-generator",
+        "ahmtsahin-deutsch-dna"
       ]
     },
     {

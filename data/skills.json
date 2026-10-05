@@ -2098,5 +2098,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "ahmtsahin/deutsch-dna",
+    "url": "https://github.com/ahmtsahin/deutsch-dna",
+    "description": "Tutors German and files each mistake by root cause for spaced review.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
