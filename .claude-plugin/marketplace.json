@@ -1574,6 +1574,16 @@
       "description": "Tutors micro/macroeconomics and business cases with graphs and real-world anchors."
     },
     {
+      "name": "24kchengye-human-skill-tree-k12-exam-systems",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/24kchengYe/human-skill-tree.git",
+        "path": "skills/01-k12-exam-systems",
+        "ref": "master"
+      },
+      "description": "Coaches SAT, ACT, AP, and IB exam strategy with error analysis and study plans."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1991,7 +2001,7 @@
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (24 skills).",
+      "description": "College Applications & Career skills in one install (25 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -2016,7 +2026,8 @@
         "tydev-new-10xcolleges-financial-aid",
         "mohitagw15856-pm-claude-skills-credential-recognition",
         "jshchnz-claude-jobs",
-        "tydev-new-10xcolleges-rec-request"
+        "tydev-new-10xcolleges-rec-request",
+        "24kchengye-human-skill-tree-k12-exam-systems"
       ]
     },
     {

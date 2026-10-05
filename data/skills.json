@@ -2060,5 +2060,18 @@
       "copilot",
       "gemini-cli"
     ]
+  },
+  {
+    "name": "24kchengYe/human-skill-tree - k12-exam-systems",
+    "url": "https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-exam-systems",
+    "description": "Coaches SAT, ACT, AP, and IB exam strategy with error analysis and study plans.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot",
+      "gemini-cli"
+    ]
   }
 ]
