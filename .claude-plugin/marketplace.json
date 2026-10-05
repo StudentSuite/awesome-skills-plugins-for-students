@@ -1612,6 +1612,16 @@
       "description": "Tutors German and files each mistake by root cause for spaced review."
     },
     {
+      "name": "littlejakub-praxis-ib-sciences-praxis-coach",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/LittleJakub/PraxIS.git",
+        "path": "skills/ib-sciences-praxis-coach",
+        "ref": "main"
+      },
+      "description": "Coaches IB Biology, Chemistry, and Physics IAs against the four criteria."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1864,7 +1874,7 @@
     {
       "name": "ib-igcse-bundle",
       "source": "./bundles/ib-igcse-bundle",
-      "description": "IB & IGCSE Coursework skills in one install (10 skills).",
+      "description": "IB & IGCSE Coursework skills in one install (11 skills).",
       "dependencies": [
         "anthropics-doc-coauthoring",
         "anthropics-pdf",
@@ -1875,7 +1885,8 @@
         "hameefy-claude-latex-skill",
         "imbad0202-academic-research-skills",
         "saulmcphd-apa-style",
-        "sjy051-music-composition"
+        "sjy051-music-composition",
+        "littlejakub-praxis-ib-sciences-praxis-coach"
       ]
     },
     {

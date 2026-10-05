@@ -2110,5 +2110,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "LittleJakub/PraxIS - ib-sciences-praxis-coach",
+    "url": "https://github.com/LittleJakub/PraxIS/tree/main/skills/ib-sciences-praxis-coach",
+    "description": "Coaches IB Biology, Chemistry, and Physics IAs against the four criteria.",
+    "category": "IB & IGCSE Coursework",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

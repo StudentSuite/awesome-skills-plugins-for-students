@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-176-blue)
+![Skills](https://img.shields.io/badge/skills-177-blue)
 ![Plugins](https://img.shields.io/badge/plugins-29-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -58,7 +58,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 
 | Bundle | Skills | Install |
 | --- | :-: | --- |
-| IB & IGCSE Coursework | 10 | `claude plugin install ib-igcse-bundle` |
+| IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
 | Study & Productivity | 23 | `claude plugin install study-productivity-bundle` |
 | Coding & CS Education | 28 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 23 | `claude plugin install stem-bundle` |
@@ -94,7 +94,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 
 | | Section | Count |
 | :-: | --- | :-: |
-| 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 10 skills |
+| 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 26 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 28 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 26 skills |
@@ -117,7 +117,7 @@ See [EXAMPLES.md](EXAMPLES.md) for a worked walkthrough chaining several of thes
 Three entries overlap on IA/EE research and drafting with no prior note on how they differ. **davila7/claude-code-templates - literature-review** runs the research stage: systematic literature searches across academic databases with formatted citations. **Imbad0202/academic-research-skills** covers the full pipeline end to end — research, write, review, revise, and finalize — for when you want one skill to carry a draft the whole way. **David-Saeteros/claude-skills - academic-writing** is for once you already have a draft: it reviews and cites what you've written against supervisor feedback and style guides, rather than researching or drafting from scratch.
 
 <details open>
-<summary>Show 10 skills</summary>
+<summary>Show 11 skills</summary>
 
 - **[anthropics/doc-coauthoring](https://officialskills.sh/anthropics/skills/doc-coauthoring)** - Collaborative document editing and co-authoring, handy for group IAs or shared EE drafts.
 - **[anthropics/pdf](https://officialskills.sh/anthropics/skills/pdf)** - Extracts text from PDFs, creates new PDFs, and fills forms, useful for working with past papers and mark schemes.
@@ -127,6 +127,7 @@ Three entries overlap on IA/EE research and drafting with no prior note on how t
 - **[grahamlittle/ib-companion](https://github.com/grahamlittle/ib-companion)** - Tutors IB DP students on IAs, Extended Essay, and TOK without writing the work.
 - **[hameefy/claude-latex-skill](https://github.com/hameefy/claude-latex-skill)** - Produces compilable LaTeX for math proofs, derivations, and Beamer slides.
 - **[Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills)** - Full research-to-publication pipeline: research, write, review, revise, and finalize, useful for IA and EE drafts.
+- **[LittleJakub/PraxIS - ib-sciences-praxis-coach](https://github.com/LittleJakub/PraxIS/tree/main/skills/ib-sciences-praxis-coach)** - Coaches IB Biology, Chemistry, and Physics IAs against the four criteria.
 - **[saulmcphd/apa-style](https://github.com/saulmcphd/apa-style)** - Proofreads papers against APA 7th edition rules with inline corrections.
 - **[SJY051/music-composition](https://github.com/SJY051/music-composition)** - Guides music composition and analysis across harmony, melody, form, and genre conventions, useful for IB Music investigations.
 
