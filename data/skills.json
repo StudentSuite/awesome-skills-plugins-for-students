@@ -2073,5 +2073,18 @@
       "copilot",
       "gemini-cli"
     ]
+  },
+  {
+    "name": "24kchengYe/human-skill-tree - k12-mathematics",
+    "url": "https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-mathematics",
+    "description": "Tutors K-12 math with AP Calculus, IB Math, SAT, and A-Level exam strategies.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot",
+      "gemini-cli"
+    ]
   }
 ]
