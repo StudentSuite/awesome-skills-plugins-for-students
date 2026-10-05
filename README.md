@@ -12,7 +12,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 ![Skills](https://img.shields.io/badge/skills-178-blue)
-![Plugins](https://img.shields.io/badge/plugins-29-purple)
+![Plugins](https://img.shields.io/badge/plugins-30-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
 ![Cursor](https://img.shields.io/badge/Cursor-%E2%9C%93-1e90ff)
@@ -102,7 +102,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 🗣️ | [Language Learning](#language-learning) | 16 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 25 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 20 skills |
-| 🧩 | [Plugins](#plugins) | 29 plugins |
+| 🧩 | [Plugins](#plugins) | 30 plugins |
 
 [Install a bundle in one command](#install-a-bundle-in-one-command) &middot; [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
 
@@ -411,7 +411,7 @@ Full Claude Code, Cursor, or Copilot plugins for students: bundles of commands, 
 Each entry's parenthetical tag is its sub-area, so the flat list below stays scannable as it grows: **📋 Study & Productivity** (tutoring, note capture, flashcards, lesson/course generation), **🔎 Research** (literature review, citation management, research pipelines), **📝 Note-Taking** (video/lecture notes, notebook organization), **💼 Career** (resume, applications, interview prep), or **⚙️ General-Purpose** (not tied to a subject or workflow above).
 
 <details open>
-<summary>Show 29 plugins</summary>
+<summary>Show 30 plugins</summary>
 
 - **[acehoapt/studykit](https://github.com/acehoapt/studykit)** - Scaffolds essay assignments and gives feedback matching your own writing voice (📋 Study & Productivity).
 - **[alirezarezvani/claude-skills - productivity/capture](https://github.com/alirezarezvani/claude-skills/tree/main/productivity/capture)** - Organizes a brain-dump of mixed thoughts, tasks, and ideas into an actionable list (📋 Study & Productivity).
@@ -439,6 +439,7 @@ Each entry's parenthetical tag is its sub-area, so the flat list below stays sca
 - **[obra/superpowers](https://github.com/obra/superpowers)** - 20+ skills for spec-to-code workflows with TDD, brainstorming, and subagent-driven planning commands (⚙️ General-Purpose).
 - **[olegvg/resume-tailor-plugin](https://github.com/olegvg/resume-tailor-plugin)** - Claude Code plugin that tailors your resume to a job post (💼 Career).
 - **[shinchit/gtd-zettelkasten](https://github.com/shinchit/gtd-zettelkasten)** - Builds a linked Zettelkasten note vault from daily GTD captures (📝 Note-Taking).
+- **[shnavii11/opportunity-finder](https://github.com/shnavii11/opportunity-finder)** - 🌐 Finds internships and hackathons matched to your resume, discovery only (💼 Career).
 - **[tydev-new/10xcolleges](https://github.com/tydev-new/10xcolleges)** - Builds a balanced reach/target/safety college list with cited research and coaching (💼 Career).
 - **[WenyuChiou/zotero-skills](https://github.com/WenyuChiou/zotero-skills)** - Searches, tags, and organizes Zotero references from your agent (🔎 Research).
 - **[yarikleto/claude-teacher-plugin](https://github.com/yarikleto/claude-teacher-plugin)** - Tutors any subject via Socratic quizzes, flashcards, and progress tracking (📋 Study & Productivity).

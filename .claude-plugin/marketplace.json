@@ -1880,6 +1880,14 @@
       "description": "Scaffolds essay assignments and gives feedback matching your own writing voice."
     },
     {
+      "name": "shnavii11-opportunity-finder",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/shnavii11/opportunity-finder.git"
+      },
+      "description": "🌐 Finds internships and hackathons matched to your resume, discovery only."
+    },
+    {
       "name": "ib-igcse-bundle",
       "source": "./bundles/ib-igcse-bundle",
       "description": "IB & IGCSE Coursework skills in one install (11 skills).",

@@ -375,5 +375,18 @@
       "copilot"
     ],
     "tag": "Study & Productivity"
+  },
+  {
+    "tag": "Career",
+    "name": "shnavii11/opportunity-finder",
+    "url": "https://github.com/shnavii11/opportunity-finder",
+    "description": "Finds internships and hackathons matched to your resume, discovery only.",
+    "category": "Plugins",
+    "marker": "external-service",
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
