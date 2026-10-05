@@ -1594,6 +1594,16 @@
       "description": "Tutors K-12 math with AP Calculus, IB Math, SAT, and A-Level exam strategies."
     },
     {
+      "name": "zai-org-glm-ocr-glmocr-handwriting",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/zai-org/GLM-OCR.git",
+        "path": "skills/glmocr-handwriting",
+        "ref": "main"
+      },
+      "description": "🔑 Transcribes handwritten notes from images and PDFs into editable text."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1863,7 +1873,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (23 skills; 2 paid-key skills excluded, install separately).",
+      "description": "Study & Productivity skills in one install (23 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",

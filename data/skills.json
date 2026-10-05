@@ -2086,5 +2086,17 @@
       "copilot",
       "gemini-cli"
     ]
+  },
+  {
+    "name": "zai-org/GLM-OCR - glmocr-handwriting",
+    "url": "https://github.com/zai-org/GLM-OCR/tree/main/skills/glmocr-handwriting",
+    "description": "Transcribes handwritten notes from images and PDFs into editable text.",
+    "category": "Study & Productivity",
+    "marker": "requires-key",
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
