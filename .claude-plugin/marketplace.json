@@ -1622,6 +1622,14 @@
       "description": "Coaches IB Biology, Chemistry, and Physics IAs against the four criteria."
     },
     {
+      "name": "jeromewang6066-syllabus-reader-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/JeromeWang6066/syllabus-reader-skill.git"
+      },
+      "description": "Extracts syllabus deadlines, flags workload collisions, and exports an ICS calendar."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1892,7 +1900,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (23 skills; 3 paid-key skills excluded, install separately).",
+      "description": "Study & Productivity skills in one install (24 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
@@ -1916,7 +1924,8 @@
         "finewood2008-centaurai-team-team-project-tracker",
         "yylo-dev-yylo-skills-ledger-tasks-yylo",
         "jellypod-inc-school-skills-lecture-to-study-guide",
-        "eddiebelaval-squire-habit-tracker"
+        "eddiebelaval-squire-habit-tracker",
+        "jeromewang6066-syllabus-reader-skill"
       ]
     },
     {
