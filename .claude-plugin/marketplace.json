@@ -1630,6 +1630,14 @@
       "description": "Extracts syllabus deadlines, flags workload collisions, and exports an ICS calendar."
     },
     {
+      "name": "vishnujayvel-flashcard-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vishnujayvel/flashcard-skill.git"
+      },
+      "description": "Transforms web articles and tutorials into interview-ready flashcards optimized for Quizlet import."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1916,7 +1924,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (24 skills; 3 paid-key skills excluded, install separately).",
+      "description": "Study & Productivity skills in one install (25 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
@@ -1941,7 +1949,8 @@
         "yylo-dev-yylo-skills-ledger-tasks-yylo",
         "jellypod-inc-school-skills-lecture-to-study-guide",
         "eddiebelaval-squire-habit-tracker",
-        "jeromewang6066-syllabus-reader-skill"
+        "jeromewang6066-syllabus-reader-skill",
+        "vishnujayvel-flashcard-skill"
       ]
     },
     {

@@ -2134,5 +2134,15 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "vishnujayvel/flashcard-skill",
+    "url": "https://github.com/vishnujayvel/flashcard-skill",
+    "description": "Transforms web articles and tutorials into interview-ready flashcards optimized for Quizlet import.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code"
+    ]
   }
 ]
