@@ -695,16 +695,6 @@
       "description": "Compresses a long study session into a handoff doc so a fresh agent can continue where you left off."
     },
     {
-      "name": "mattpocock-skills-resolving-merge-conflicts",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/mattpocock/skills.git",
-        "path": "skills/engineering/resolving-merge-conflicts",
-        "ref": "main"
-      },
-      "description": "Walks through resolving an in-progress git merge or rebase conflict step by step."
-    },
-    {
       "name": "mattpocock-skills-tdd",
       "source": {
         "source": "git-subdir",
@@ -1947,7 +1937,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (28 skills).",
+      "description": "Coding & CS Education skills in one install (27 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -1962,7 +1952,6 @@
         "kirilxd-claude-tutor",
         "mattpocock-skills-diagnosing-bugs",
         "mattpocock-skills-git-guardrails-claude-code",
-        "mattpocock-skills-resolving-merge-conflicts",
         "mattpocock-skills-tdd",
         "openai-jupyter-notebook",
         "shauryagangrade-intent-drift-skill",
