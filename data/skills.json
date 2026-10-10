@@ -933,18 +933,6 @@
     ]
   },
   {
-    "name": "mattpocock/skills - resolving-merge-conflicts",
-    "url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/resolving-merge-conflicts",
-    "description": "Walks through resolving an in-progress git merge or rebase conflict step by step.",
-    "category": "Coding & CS Education",
-    "marker": null,
-    "supported_tools": [
-      "claude-code",
-      "cursor",
-      "copilot"
-    ]
-  },
-  {
     "name": "mattpocock/skills - tdd",
     "url": "https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd",
     "description": "Guides test-driven development with red-green-refactor cycles and behavior-focused tests.",
