@@ -1600,6 +1600,14 @@
       "description": "Extracts syllabus deadlines, flags workload collisions, and exports an ICS calendar."
     },
     {
+      "name": "kleinpanic-canvas-lms",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kleinpanic/canvas-lms.git"
+      },
+      "description": "Reads your Canvas courses, assignments, grades, and deadlines via a read-only API wrapper."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1886,7 +1894,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (24 skills; 3 paid-key skills excluded, install separately).",
+      "description": "Study & Productivity skills in one install (25 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
@@ -1911,7 +1919,8 @@
         "yylo-dev-yylo-skills-ledger-tasks-yylo",
         "jellypod-inc-school-skills-lecture-to-study-guide",
         "eddiebelaval-squire-habit-tracker",
-        "jeromewang6066-syllabus-reader-skill"
+        "jeromewang6066-syllabus-reader-skill",
+        "kleinpanic-canvas-lms"
       ]
     },
     {

@@ -8,6 +8,10 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Added (2026-10-15 issue-clearing pass)
+
+- `kleinpanic/canvas-lms` (Study & Productivity) - a read-only, student-facing Canvas LMS REST wrapper (`curl`/`jq` plus a Canvas API token, no browser) for courses, assignments, grades, missing work, and announcements. Closes #295.
+
 ### Added (2026-09-21 issue-clearing pass)
 
 - 8 new entries closing #138, #148, #166, #167, #168, #169, #170, #171,
