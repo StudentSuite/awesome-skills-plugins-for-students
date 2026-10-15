@@ -74,6 +74,8 @@ software), but releases are still tagged so changes are easy to point to.
 
 ### Removed
 
+- `majiayu000/claude-skill-registry` - statistics-math and environmental-geography (STEM Subjects) - the registry was restructured and the `skills/data/statistics-math` and `skills/domains/environmental-geography` paths now return 404 (the repo root no longer has a `skills/` directory), which was failing the Dead Link Check workflow. No replacement location could be verified, so both entries were removed. Closes #303.
+
 - `ayushsao/Capgemini_essay` (Writing & Humanities) — investigation for #117
   found it's a standalone Next.js/TypeScript web app with no `SKILL.md`,
   `.claude/skills/`, `.cursor/rules/`, or `.gemini/` integration; its

@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-177-blue)
+![Skills](https://img.shields.io/badge/skills-175-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -61,7 +61,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
 | Study & Productivity | 24 | `claude plugin install study-productivity-bundle` |
 | Coding & CS Education | 27 | `claude plugin install coding-cs-bundle` |
-| STEM Subjects | 23 | `claude plugin install stem-bundle` |
+| STEM Subjects | 21 | `claude plugin install stem-bundle` |
 | Writing & Humanities | 25 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 16 | `claude plugin install language-learning-bundle` |
 | College Applications & Career | 25 | `claude plugin install college-career-bundle` |
@@ -97,7 +97,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 27 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 27 skills |
-| 🔬 | [STEM Subjects](#stem-subjects) | 26 skills |
+| 🔬 | [STEM Subjects](#stem-subjects) | 24 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 25 skills |
 | 🗣️ | [Language Learning](#language-learning) | 16 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 25 skills |
@@ -222,7 +222,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 Math, physics, chemistry, and data analysis helpers.
 
 <details open>
-<summary>Show 26 skills</summary>
+<summary>Show 24 skills</summary>
 
 - **[24kchengYe/human-skill-tree - k12-mathematics](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-mathematics)** - Tutors K-12 math with AP Calculus, IB Math, SAT, and A-Level exam strategies.
 - **[24kchengYe/human-skill-tree - k12-sciences](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-sciences)** - Tutors K-12 physics, chemistry, and biology through Socratic, inquiry-based questioning.
@@ -240,8 +240,6 @@ Math, physics, chemistry, and data analysis helpers.
 - **[juanlurg/data-science-claude-skills - experiment-tracker](https://github.com/juanlurg/data-science-claude-skills)** - Logs, compares, and visualizes lab experiment runs and results with local JSON storage.
 - **[K-Dense-AI/scientific-agent-skills - astropy](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/astropy)** - Solves astrophysics problems with Astropy: coordinates, cosmology, FITS, WCS.
 - **[K-Dense-AI/scientific-agent-skills - biopython](https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/biopython)** - Runs Biopython for sequence analysis, BLAST searches, and phylogenetics.
-- **[majiayu000/claude-skill-registry - environmental-geography](https://github.com/majiayu000/claude-skill-registry/tree/main/skills/domains/environmental-geography)** - Covers climate change, land use, water, biodiversity, and sustainability science.
-- **[majiayu000/claude-skill-registry - statistics-math](https://github.com/majiayu000/claude-skill-registry/tree/main/skills/data/statistics-math)** - Applies statistical tests, probability calculations, and distribution analysis to data.
 - **[markpitt/claude-skills - gcse-physics-tutor](https://github.com/markpitt/claude-skills/tree/main/skills/gcse-physics-tutor)** - Tutors GCSE Physics across AQA, Edexcel, OCR, and WJEC syllabuses.
 - **[openai/spreadsheet](https://officialskills.sh/openai/skills/spreadsheet)** - Creates, edits, analyzes, and visualizes spreadsheets with formulas, handy for physics data tables and chemistry calculations.
 - **[somenssarkar/gurukul-ai - gurukul-ai-physics](https://github.com/somenssarkar/gurukul-ai/tree/main/.claude/skills/gurukul-ai-physics)** - Tutors physics concepts via Socratic questioning, diagrams, and misconception checks.

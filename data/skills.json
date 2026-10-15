@@ -873,18 +873,6 @@
     ]
   },
   {
-    "name": "majiayu000/claude-skill-registry - statistics-math",
-    "url": "https://github.com/majiayu000/claude-skill-registry/tree/main/skills/data/statistics-math",
-    "description": "Applies statistical tests, probability calculations, and distribution analysis to data.",
-    "category": "STEM Subjects",
-    "marker": null,
-    "supported_tools": [
-      "claude-code",
-      "cursor",
-      "copilot"
-    ]
-  },
-  {
     "name": "Master-cai/Research-Paper-Writing-Skills",
     "url": "https://github.com/Master-cai/Research-Paper-Writing-Skills",
     "description": "Skill package for planning and writing research papers.",
@@ -1572,18 +1560,6 @@
     "name": "somenssarkar/gurukul-ai - gurukul-ai-physics",
     "url": "https://github.com/somenssarkar/gurukul-ai/tree/main/.claude/skills/gurukul-ai-physics",
     "description": "Tutors physics concepts via Socratic questioning, diagrams, and misconception checks.",
-    "category": "STEM Subjects",
-    "marker": null,
-    "supported_tools": [
-      "claude-code",
-      "cursor",
-      "copilot"
-    ]
-  },
-  {
-    "name": "majiayu000/claude-skill-registry - environmental-geography",
-    "url": "https://github.com/majiayu000/claude-skill-registry/tree/main/skills/domains/environmental-geography",
-    "description": "Covers climate change, land use, water, biodiversity, and sustainability science.",
     "category": "STEM Subjects",
     "marker": null,
     "supported_tools": [

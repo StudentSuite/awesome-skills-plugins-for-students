@@ -647,16 +647,6 @@
       "description": "Drills vocabulary and corrects target-language writing using spaced repetition."
     },
     {
-      "name": "majiayu000-claude-skill-registry-statistics-math",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/majiayu000/claude-skill-registry.git",
-        "path": "skills/data/statistics-math",
-        "ref": "main"
-      },
-      "description": "Applies statistical tests, probability calculations, and distribution analysis to data."
-    },
-    {
       "name": "master-cai-research-paper-writing-skills",
       "source": {
         "source": "url",
@@ -1186,16 +1176,6 @@
         "ref": "main"
       },
       "description": "Tutors physics concepts via Socratic questioning, diagrams, and misconception checks."
-    },
-    {
-      "name": "majiayu000-claude-skill-registry-environmental-geography",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/majiayu000/claude-skill-registry.git",
-        "path": "skills/domains/environmental-geography",
-        "ref": "main"
-      },
-      "description": "Covers climate change, land use, water, biodiversity, and sustainability science."
     },
     {
       "name": "yylo-dev-yylo-skills-understand-project-yylo",
@@ -1971,7 +1951,7 @@
     {
       "name": "stem-bundle",
       "source": "./bundles/stem-bundle",
-      "description": "STEM Subjects skills in one install (23 skills; 3 paid-key skills excluded, install separately).",
+      "description": "STEM Subjects skills in one install (21 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "24kchengye-human-skill-tree-k12-sciences",
         "abelsr-computational-physics",
@@ -1980,7 +1960,6 @@
         "steadfastasart-geoscience-skills",
         "googlarz-math-skill",
         "juanlurg-data-science-claude-skills-experiment-tracker",
-        "majiayu000-claude-skill-registry-statistics-math",
         "openai-spreadsheet",
         "wentorai-research-plugins-inaturalist-api",
         "zlanqing-codex-claude-academic-skills-scientific-toolkit-skill",
@@ -1988,7 +1967,6 @@
         "jantoney-samstudies-biology-tutor",
         "jantoney-samstudies-chemistry-tutor",
         "somenssarkar-gurukul-ai-gurukul-ai-physics",
-        "majiayu000-claude-skill-registry-environmental-geography",
         "flowful-ai-cad-skill",
         "cdmorozov-claude-tutors-math-tutor",
         "k-dense-ai-scientific-agent-skills-astropy",
