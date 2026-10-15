@@ -2122,5 +2122,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "zyx1121/i-have-dyslexia",
+    "url": "https://github.com/zyx1121/i-have-dyslexia/tree/main/skills/i-have-dyslexia",
+    "description": "Reformats AI replies into short, skimmable, fixed-layout text for dyslexic readers.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

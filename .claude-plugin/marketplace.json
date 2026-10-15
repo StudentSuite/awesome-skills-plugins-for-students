@@ -1618,6 +1618,16 @@
       "description": "Scaffolds law-student case briefs, making you state the holding first."
     },
     {
+      "name": "zyx1121-i-have-dyslexia",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/zyx1121/i-have-dyslexia.git",
+        "path": "skills/i-have-dyslexia",
+        "ref": "main"
+      },
+      "description": "Reformats AI replies into short, skimmable, fixed-layout text for dyslexic readers."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1904,7 +1914,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (25 skills; 3 paid-key skills excluded, install separately).",
+      "description": "Study & Productivity skills in one install (26 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
@@ -1930,7 +1940,8 @@
         "jellypod-inc-school-skills-lecture-to-study-guide",
         "eddiebelaval-squire-habit-tracker",
         "jeromewang6066-syllabus-reader-skill",
-        "kleinpanic-canvas-lms"
+        "kleinpanic-canvas-lms",
+        "zyx1121-i-have-dyslexia"
       ]
     },
     {
