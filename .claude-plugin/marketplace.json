@@ -1628,6 +1628,16 @@
       "description": "Reformats AI replies into short, skimmable, fixed-layout text for dyslexic readers."
     },
     {
+      "name": "jurgendn-agent-skills-gre-quant-coach",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/jurgendn/agent-skills.git",
+        "path": "skills/test-prep/gre-quant-coach",
+        "ref": "main"
+      },
+      "description": "Coaches GRE quant: comparison tactics, error triage, and timed drills."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -2065,7 +2075,7 @@
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (25 skills).",
+      "description": "College Applications & Career skills in one install (26 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -2091,7 +2101,8 @@
         "mohitagw15856-pm-claude-skills-credential-recognition",
         "jshchnz-claude-jobs",
         "tydev-new-10xcolleges-rec-request",
-        "24kchengye-human-skill-tree-k12-exam-systems"
+        "24kchengye-human-skill-tree-k12-exam-systems",
+        "jurgendn-agent-skills-gre-quant-coach"
       ]
     },
     {

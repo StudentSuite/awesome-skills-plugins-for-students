@@ -2134,5 +2134,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "jurgendn/agent-skills - gre-quant-coach",
+    "url": "https://github.com/jurgendn/agent-skills/tree/main/skills/test-prep/gre-quant-coach",
+    "description": "Coaches GRE quant: comparison tactics, error triage, and timed drills.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
