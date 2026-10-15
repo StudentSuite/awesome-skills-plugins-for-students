@@ -23,6 +23,9 @@ jobs:
           format: markdown
           output: lychee-report.md
           fail: false
+        env:
+          # Authenticated GitHub requests avoid the anonymous rate limits / 504s.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Open or update issue with broken links
         if: steps.lychee.outputs.exit_code != 0

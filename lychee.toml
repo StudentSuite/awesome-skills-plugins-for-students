@@ -6,9 +6,12 @@
 # timeout, DNS failure, TLS error, or 404/410 instead, all of which still fail.
 accept = [200, 202, 206, 403, 429]
 
-max_concurrency = 8
+# github.com answers bursts of parallel requests with 504 Gateway Timeout (seen
+# on live links, e.g. mattpocock/skills, in the 2026-10-15 run), so keep the
+# concurrency low and retry with a longer back-off.
+max_concurrency = 3
 timeout = 20
-retry_wait_time = 2
-max_retries = 2
+retry_wait_time = 5
+max_retries = 4
 
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
