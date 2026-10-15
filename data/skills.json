@@ -2146,5 +2146,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "actionbook/rust-skills - m14-mental-model",
+    "url": "https://github.com/actionbook/rust-skills/tree/main/skills/m14-mental-model",
+    "description": "Explains Rust ownership and borrowing with analogies, for learners coming from other languages.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

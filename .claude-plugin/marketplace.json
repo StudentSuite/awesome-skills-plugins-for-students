@@ -1638,6 +1638,16 @@
       "description": "Coaches GRE quant: comparison tactics, error triage, and timed drills."
     },
     {
+      "name": "actionbook-rust-skills-m14-mental-model",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/actionbook/rust-skills.git",
+        "path": "skills/m14-mental-model",
+        "ref": "main"
+      },
+      "description": "Explains Rust ownership and borrowing with analogies, for learners coming from other languages."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1957,7 +1967,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (27 skills).",
+      "description": "Coding & CS Education skills in one install (28 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -1985,7 +1995,8 @@
         "mayakas-claude-bash-tutor-skill",
         "yylo-dev-yylo-skills-understand-project-yylo",
         "agamm-claude-code-owasp-owasp-security",
-        "fn-jakubkarp-dsa-tutor"
+        "fn-jakubkarp-dsa-tutor",
+        "actionbook-rust-skills-m14-mental-model"
       ]
     },
     {

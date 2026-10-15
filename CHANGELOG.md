@@ -10,6 +10,7 @@ software), but releases are still tagged so changes are easy to point to.
 
 ### Added (2026-10-15 issue-clearing pass)
 
+- `actionbook/rust-skills` - m14-mental-model (Coding & CS Education) - a learner-oriented Rust skill giving mental models, analogies, and "coming from Java/C++/Python" translations for ownership, borrowing, and lifetimes. A concept explainer rather than a structured beginner course; the repo declares no license. Closes #293.
 - `jurgendn/agent-skills` - gre-quant-coach (College Applications & Career) - a GRE Quantitative Reasoning coach (quantitative-comparison tactics, content-gap triage, careless-error elimination, timed drills). GRE only, not GMAT/LSAT/MCAT, and the repo declares no license. Closes #291.
 - `zyx1121/i-have-dyslexia` (Study & Productivity) - an opt-in mode that reshapes every AI reply (short lines, one idea per line, fixed skeleton, bold anchor words) for readers with dyslexia. Partial answer to #297 (formatting, not read-aloud/TTS). Closes #297.
 - `anthropics/claude-for-legal` - case-brief (Writing & Humanities) - Anthropic's official law-student skill that scaffolds a case brief (facts, issue, holding, reasoning, rule) and flags uncertain holdings. Closes #296.
