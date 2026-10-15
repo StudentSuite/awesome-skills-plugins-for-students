@@ -62,7 +62,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | Study & Productivity | 25 | `claude plugin install study-productivity-bundle` |
 | Coding & CS Education | 27 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 21 | `claude plugin install stem-bundle` |
-| Writing & Humanities | 25 | `claude plugin install writing-humanities-bundle` |
+| Writing & Humanities | 26 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 16 | `claude plugin install language-learning-bundle` |
 | College Applications & Career | 25 | `claude plugin install college-career-bundle` |
 | Google Workspace for Students | 20 | `claude plugin install google-workspace-bundle`¹ |
