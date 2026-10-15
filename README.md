@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-176-blue)
+![Skills](https://img.shields.io/badge/skills-177-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -98,7 +98,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 🗂️ | [Study & Productivity](#study--productivity) | 28 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 27 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 24 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 25 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 26 skills |
 | 🗣️ | [Language Learning](#language-learning) | 16 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 25 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 20 skills |
@@ -261,9 +261,10 @@ Essay structuring, academic research, and literature analysis. See [Language Lea
 Four entries overlap on planning and drafting a paper with no prior note on how they differ. **kgraph57/paper-writer-skill** is scoped to IMRAD-structured scientific manuscripts — lab reports and write-ups with a fixed intro/methods/results/discussion shape. **Master-cai/Research-Paper-Writing-Skills** is a general-purpose planning-and-writing package for a research paper, not tied to one structure. **lishix520/academic-paper-skills** covers the same ground but adds reviewer-simulated quality checkpoints at each stage, for when you want the draft pressure-tested as you go. **tizzy916/humanities-writing-companion** is for humanities writing specifically, guiding the process from research question through revision rather than a lab-report format.
 
 <details open>
-<summary>Show 25 skills</summary>
+<summary>Show 26 skills</summary>
 
 - **[24kchengYe/human-skill-tree - business-economics-tutor](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-business-economics-tutor)** - Tutors micro/macroeconomics and business cases with graphs and real-world anchors.
+- **[anthropics/claude-for-legal - case-brief](https://github.com/anthropics/claude-for-legal/tree/main/law-student/skills/case-brief)** - Scaffolds law-student case briefs, making you state the holding first.
 - **[basicmachines-co/basic-memory - memory-literary-analysis](https://github.com/basicmachines-co/basic-memory/tree/main/skills/memory-literary-analysis)** - Analyzes literary works into a searchable knowledge graph.
 - **[ComposioHQ/awesome-claude-skills - content-research-writer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/content-research-writer)** - Researches sources, improves hooks, iterates on outlines, and adds citations to essays and articles.
 - **[CooperWu-star/A-Level-Econ-Marking-Sample - cie-econ-essay](https://github.com/CooperWu-star/A-Level-Econ-Marking-Sample/tree/main/cie-econ-essay)** - Marks and writes CIE A-Level Economics essays to grade descriptors.

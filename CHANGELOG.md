@@ -10,6 +10,7 @@ software), but releases are still tagged so changes are easy to point to.
 
 ### Added (2026-10-15 issue-clearing pass)
 
+- `anthropics/claude-for-legal` - case-brief (Writing & Humanities) - Anthropic's official law-student skill that scaffolds a case brief (facts, issue, holding, reasoning, rule) and flags uncertain holdings. Closes #296.
 - `kleinpanic/canvas-lms` (Study & Productivity) - a read-only, student-facing Canvas LMS REST wrapper (`curl`/`jq` plus a Canvas API token, no browser) for courses, assignments, grades, missing work, and announcements. Closes #295.
 
 ### Added (2026-09-21 issue-clearing pass)
