@@ -2216,5 +2216,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "ahmeddabak/claude-arabic-writing",
+    "url": "https://github.com/ahmeddabak/claude-arabic-writing",
+    "description": "Writes, translates, and proofreads natural Arabic in MSA and four dialects.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
