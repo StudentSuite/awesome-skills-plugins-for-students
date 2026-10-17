@@ -8,6 +8,10 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Added (2026-10-17 issue-clearing pass)
+
+- `thiagoigfraga/active-reading-adhd-audhd` (Study & Productivity) - an active-reading coach (advance organizer, chunking with recall-before-reveal, Feynman consolidation, spaced flashcards). Written for ADHD/AuDHD readers but usable for any dense textbook or paper; young repo with no stars, not run end to end. Closes #310.
+
 ### Added (2026-10-15 issue-clearing pass)
 
 - `actionbook/rust-skills` - m14-mental-model (Coding & CS Education) - a learner-oriented Rust skill giving mental models, analogies, and "coming from Java/C++/Python" translations for ownership, borrowing, and lifetimes. A concept explainer rather than a structured beginner course; the repo declares no license. Closes #293.

@@ -2158,5 +2158,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "thiagoigfraga/active-reading-adhd-audhd",
+    "url": "https://github.com/thiagoigfraga/active-reading-adhd-audhd",
+    "description": "Coaches active reading with chunked recall, Feynman checks, and flashcards.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

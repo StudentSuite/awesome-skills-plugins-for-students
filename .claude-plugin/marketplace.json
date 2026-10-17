@@ -1648,6 +1648,14 @@
       "description": "Explains Rust ownership and borrowing with analogies, for learners coming from other languages."
     },
     {
+      "name": "thiagoigfraga-active-reading-adhd-audhd",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/thiagoigfraga/active-reading-adhd-audhd.git"
+      },
+      "description": "Coaches active reading with chunked recall, Feynman checks, and flashcards."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1934,7 +1942,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (26 skills; 3 paid-key skills excluded, install separately).",
+      "description": "Study & Productivity skills in one install (27 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
@@ -1961,7 +1969,8 @@
         "eddiebelaval-squire-habit-tracker",
         "jeromewang6066-syllabus-reader-skill",
         "kleinpanic-canvas-lms",
-        "zyx1121-i-have-dyslexia"
+        "zyx1121-i-have-dyslexia",
+        "thiagoigfraga-active-reading-adhd-audhd"
       ]
     },
     {

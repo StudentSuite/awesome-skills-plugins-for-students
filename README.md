@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-180-blue)
+![Skills](https://img.shields.io/badge/skills-181-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -59,7 +59,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | Bundle | Skills | Install |
 | --- | :-: | --- |
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
-| Study & Productivity | 26 | `claude plugin install study-productivity-bundle` |
+| Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
 | Coding & CS Education | 28 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 21 | `claude plugin install stem-bundle` |
 | Writing & Humanities | 26 | `claude plugin install writing-humanities-bundle` |
@@ -95,7 +95,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | | Section | Count |
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
-| 🗂️ | [Study & Productivity](#study--productivity) | 29 skills |
+| 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 28 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 24 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 26 skills |
@@ -144,7 +144,7 @@ Several spaced-repetition study tools overlap here. To pick one: **hluaguo/learn
 Three entries generate exam-prep material with no prior note on how they differ. **sickn33/agentic-awesome-skills - examprep-ai** (this section) ranks syllabus topics into a scored roadmap with MCQs and question prediction; **pinakdhabu/Exam-prompt** (this section) generates exam answers, notes, and study plans for any university; and **HashemALSKKkAF/exam-prep-mcq** (under [Google Workspace for Students](#google-workspace-for-students)) turns study material into an MCQ quiz delivered as a Google Form.
 
 <details open>
-<summary>Show 29 skills</summary>
+<summary>Show 30 skills</summary>
 
 - **[0x-man/mindmap-skill](https://github.com/0x-man/mindmap-skill)** - Generates interactive mind maps and concept maps from notes, topics, or documents.
 - **[Agents365-ai/zotero-cli-ai - zotero-cli](https://github.com/Agents365-ai/zotero-cli-ai/tree/main/skill/zotero-cli)** - 🔑 Imports, organizes, tags, and generates bibliographies from a Zotero library.
@@ -170,6 +170,7 @@ Three entries generate exam-prep material with no prior note on how they differ.
 - **[SeanZoR/claude-speed-reader](https://github.com/SeanZoR/claude-speed-reader)** - Speed-reads long responses at 600+ WPM using RSVP with ORP highlighting.
 - **[sickn33/agentic-awesome-skills - bulletmind](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/bulletmind)** - Converts any input into clean hierarchical bullet points for note-taking and summarization.
 - **[sickn33/agentic-awesome-skills - examprep-ai](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/examprep-ai)** - Converts syllabi, past papers, or notes into a ranked High Score Roadmap with MCQs and question prediction.
+- **[thiagoigfraga/active-reading-adhd-audhd](https://github.com/thiagoigfraga/active-reading-adhd-audhd)** - Coaches active reading with chunked recall, Feynman checks, and flashcards.
 - **[yylo-dev/yylo-skills - ledger-tasks-yylo](https://github.com/yylo-dev/yylo-skills/tree/main/skills/ledger-tasks-yylo)** - Retrieves and manages YYLO Ledger tasks, records, and dependencies.
 - **[yylo-dev/yylo-skills - plan-ledger-tasks-yylo](https://github.com/yylo-dev/yylo-skills/tree/main/skills/plan-ledger-tasks-yylo)** - Breaks big projects into requirements and sized, tracked agent tasks.
 - **[zai-org/GLM-OCR - glmocr-handwriting](https://github.com/zai-org/GLM-OCR/tree/main/skills/glmocr-handwriting)** - 🔑 Transcribes handwritten notes from images and PDFs into editable text.
