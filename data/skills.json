@@ -2250,5 +2250,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "xper1os/java-tutor",
+    "url": "https://github.com/xper1os/java-tutor",
+    "description": "Teaches Java by building a project from scratch, in Portuguese.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

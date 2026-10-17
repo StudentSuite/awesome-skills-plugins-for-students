@@ -1714,6 +1714,14 @@
       "description": "Explains computing concepts for non-technical learners, from processes to networks."
     },
     {
+      "name": "xper1os-java-tutor",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/xper1os/java-tutor.git"
+      },
+      "description": "Teaches Java by building a project from scratch, in Portuguese."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -2034,7 +2042,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (31 skills).",
+      "description": "Coding & CS Education skills in one install (32 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -2066,7 +2074,8 @@
         "actionbook-rust-skills-m14-mental-model",
         "muhcihan-tinkercad-blockly-arduino-skill",
         "dvdksn-learn-docker",
-        "weike-zhang-grounded-ai-tutor"
+        "weike-zhang-grounded-ai-tutor",
+        "xper1os-java-tutor"
       ]
     },
     {
