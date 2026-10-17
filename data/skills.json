@@ -2204,5 +2204,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "fitelson/proof-craft",
+    "url": "https://github.com/fitelson/proof-craft",
+    "description": "Writes and reviews readable proofs using standard textbook techniques.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
