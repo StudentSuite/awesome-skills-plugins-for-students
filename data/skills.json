@@ -2238,5 +2238,17 @@
     "supported_tools": [
       "claude-code"
     ]
+  },
+  {
+    "name": "weike-zhang/grounded-ai-tutor",
+    "url": "https://github.com/weike-zhang/grounded-ai-tutor",
+    "description": "Explains computing concepts for non-technical learners, from processes to networks.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
