@@ -1674,6 +1674,14 @@
       "description": "Teaches Brazilian Portuguese with audio lessons and spaced-repetition review."
     },
     {
+      "name": "muhcihan-tinkercad-blockly-arduino-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/muhcihan/tinkercad-blockly-arduino-skill.git"
+      },
+      "description": "Translates Tinkercad Blockly to Arduino C and drafts beginner circuits."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -1994,7 +2002,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (28 skills).",
+      "description": "Coding & CS Education skills in one install (29 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -2023,7 +2031,8 @@
         "yylo-dev-yylo-skills-understand-project-yylo",
         "agamm-claude-code-owasp-owasp-security",
         "fn-jakubkarp-dsa-tutor",
-        "actionbook-rust-skills-m14-mental-model"
+        "actionbook-rust-skills-m14-mental-model",
+        "muhcihan-tinkercad-blockly-arduino-skill"
       ]
     },
     {

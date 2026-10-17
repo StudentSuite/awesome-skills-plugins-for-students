@@ -2192,5 +2192,17 @@
     "supported_tools": [
       "claude-code"
     ]
+  },
+  {
+    "name": "muhcihan/tinkercad-blockly-arduino-skill",
+    "url": "https://github.com/muhcihan/tinkercad-blockly-arduino-skill",
+    "description": "Translates Tinkercad Blockly to Arduino C and drafts beginner circuits.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

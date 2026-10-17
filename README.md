@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-183-blue)
+![Skills](https://img.shields.io/badge/skills-184-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -60,7 +60,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | --- | :-: | --- |
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
 | Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
-| Coding & CS Education | 28 | `claude plugin install coding-cs-bundle` |
+| Coding & CS Education | 29 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 22 | `claude plugin install stem-bundle` |
 | Writing & Humanities | 26 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 17 | `claude plugin install language-learning-bundle` |
@@ -96,7 +96,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
-| 💻 | [Coding & CS Education](#coding--cs-education) | 28 skills |
+| 💻 | [Coding & CS Education](#coding--cs-education) | 29 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 25 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 26 skills |
 | 🗣️ | [Language Learning](#language-learning) | 17 skills |
@@ -186,7 +186,7 @@ Three entries generate exam-prep material with no prior note on how they differ.
 Algorithm and debugging explainers, learn-to-code starters, and CS project tooling.
 
 <details open>
-<summary>Show 28 skills</summary>
+<summary>Show 29 skills</summary>
 
 - **[0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly)** - Maps codebases into graph-backed architecture evidence.
 - **[actionbook/rust-skills - m14-mental-model](https://github.com/actionbook/rust-skills/tree/main/skills/m14-mental-model)** - Explains Rust ownership and borrowing with analogies, for learners coming from other languages.
@@ -208,6 +208,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[mattpocock/skills - git-guardrails-claude-code](https://github.com/mattpocock/skills/tree/main/skills/misc/git-guardrails-claude-code)** - Blocks dangerous git commands (push, reset --hard, clean) via Claude Code hooks.
 - **[mattpocock/skills - tdd](https://github.com/mattpocock/skills/tree/main/skills/engineering/tdd)** - Guides test-driven development with red-green-refactor cycles and behavior-focused tests.
 - **[mayakas/Claude-Bash-Tutor-Skill](https://github.com/mayakas/Claude-Bash-Tutor-Skill)** - Teaches terminal and bash fundamentals from zero across 17 sandboxed units.
+- **[muhcihan/tinkercad-blockly-arduino-skill](https://github.com/muhcihan/tinkercad-blockly-arduino-skill)** - Translates Tinkercad Blockly to Arduino C and drafts beginner circuits.
 - **[NickCrew/Claude-Cortex - regex-master](https://github.com/NickCrew/Claude-Cortex/tree/main/skills/regex-master)** - Builds, explains, and debugs regular expressions token by token.
 - **[openai/jupyter-notebook](https://officialskills.sh/openai/skills/jupyter-notebook)** - Creates clean, reproducible Jupyter notebooks for experiments and tutorials, essential for data science coursework.
 - **[rwgb/vibe-guardrails - save-points](https://github.com/rwgb/vibe-guardrails/tree/main/skills/save-points)** - Teaches git commits and branches from zero as project save points.
