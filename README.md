@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-186-blue)
+![Skills](https://img.shields.io/badge/skills-187-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -60,7 +60,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | --- | :-: | --- |
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
 | Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
-| Coding & CS Education | 29 | `claude plugin install coding-cs-bundle` |
+| Coding & CS Education | 30 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 23 | `claude plugin install stem-bundle` |
 | Writing & Humanities | 26 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 18 | `claude plugin install language-learning-bundle` |
@@ -96,7 +96,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
-| 💻 | [Coding & CS Education](#coding--cs-education) | 29 skills |
+| 💻 | [Coding & CS Education](#coding--cs-education) | 30 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 26 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 26 skills |
 | 🗣️ | [Language Learning](#language-learning) | 18 skills |
@@ -186,7 +186,7 @@ Three entries generate exam-prep material with no prior note on how they differ.
 Algorithm and debugging explainers, learn-to-code starters, and CS project tooling.
 
 <details open>
-<summary>Show 29 skills</summary>
+<summary>Show 30 skills</summary>
 
 - **[0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly)** - Maps codebases into graph-backed architecture evidence.
 - **[actionbook/rust-skills - m14-mental-model](https://github.com/actionbook/rust-skills/tree/main/skills/m14-mental-model)** - Explains Rust ownership and borrowing with analogies, for learners coming from other languages.
@@ -197,6 +197,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[ComposioHQ/awesome-claude-skills - artifacts-builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder)** - Builds multi-component React/Tailwind HTML artifacts for interactive demos and projects.
 - **[ComposioHQ/awesome-claude-skills - developer-growth-analysis](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/developer-growth-analysis)** - Analyzes your Claude Code chat history to surface coding patterns and learning gaps.
 - **[DanielPodolsky/ownyourcode - database-fundamentals](https://github.com/DanielPodolsky/ownyourcode/tree/main/.claude/skills/fundamentals/database)** - Reviews schema design, normalization, indexes, and migrations against a junior-dev checklist.
+- **[dvdksn/learn-docker](https://github.com/dvdksn/learn-docker)** - Teaches Docker hands-on, from first container to Compose.
 - **[egouilliard-leyton/python-tutor-skill](https://github.com/egouilliard-leyton/python-tutor-skill)** - Teaches Python fundamentals to beginners through exercises and Socratic feedback.
 - **[FlorianBruniaux/claude-code-ultimate-guide - self-assessment](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/tree/main/.claude/skills/self-assessment)** - Assesses your Claude Code skill level and generates a personalized learning path.
 - **[fn-jakubkarp/dsa-tutor](https://github.com/fn-jakubkarp/dsa-tutor)** - Tutors data structures and algorithms fundamentals with staged hints, not spoilers.

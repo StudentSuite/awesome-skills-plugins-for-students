@@ -1698,6 +1698,14 @@
       "description": "Writes, translates, and proofreads natural Arabic in MSA and four dialects."
     },
     {
+      "name": "dvdksn-learn-docker",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/dvdksn/learn-docker.git"
+      },
+      "description": "Teaches Docker hands-on, from first container to Compose."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -2018,7 +2026,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (29 skills).",
+      "description": "Coding & CS Education skills in one install (30 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -2048,7 +2056,8 @@
         "agamm-claude-code-owasp-owasp-security",
         "fn-jakubkarp-dsa-tutor",
         "actionbook-rust-skills-m14-mental-model",
-        "muhcihan-tinkercad-blockly-arduino-skill"
+        "muhcihan-tinkercad-blockly-arduino-skill",
+        "dvdksn-learn-docker"
       ]
     },
     {

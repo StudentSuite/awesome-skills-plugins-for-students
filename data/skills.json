@@ -2228,5 +2228,15 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "dvdksn/learn-docker",
+    "url": "https://github.com/dvdksn/learn-docker",
+    "description": "Teaches Docker hands-on, from first container to Compose.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code"
+    ]
   }
 ]
