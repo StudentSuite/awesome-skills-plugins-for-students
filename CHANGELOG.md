@@ -12,6 +12,7 @@ software), but releases are still tagged so changes are easy to point to.
 
 - `thiagoigfraga/active-reading-adhd-audhd` (Study & Productivity) - an active-reading coach (advance organizer, chunking with recall-before-reveal, Feynman consolidation, spaced flashcards). Written for ADHD/AuDHD readers but usable for any dense textbook or paper; young repo with no stars, not run end to end. Closes #310.
 - `huanglibo389/math-olympiad-skills` - math-olympiad (STEM Subjects) - solves or reviews single competition problems (Gaokao league, CMO, IMO level) across number theory, algebra, combinatorics, geometry, and functional equations, with a self-check list. Instructions are written in Chinese, the repo is a month old with 1 star and was not run end to end. Closes #308.
+- `Tashamet/portuguese-brasil-tutor` (Language Learning) - a Brazilian Portuguese tutor (explains in English, Ukrainian, or Russian) that builds a Markdown course, renders audio lessons through a local offline TTS engine (Piper, needs ffmpeg), and schedules spaced-repetition reviews; Telegram reminders are optional. Claude Code only (it runs a local Python toolkit); the repo has no license, 0 stars, and was not run end to end. Closes #309.
 
 ### Added (2026-10-15 issue-clearing pass)
 

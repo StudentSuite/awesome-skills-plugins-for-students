@@ -2182,5 +2182,15 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "Tashamet/portuguese-brasil-tutor",
+    "url": "https://github.com/Tashamet/portuguese-brasil-tutor",
+    "description": "Teaches Brazilian Portuguese with audio lessons and spaced-repetition review.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code"
+    ]
   }
 ]
