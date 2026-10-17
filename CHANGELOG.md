@@ -11,6 +11,7 @@ software), but releases are still tagged so changes are easy to point to.
 ### Added (2026-10-17 issue-clearing pass)
 
 - `thiagoigfraga/active-reading-adhd-audhd` (Study & Productivity) - an active-reading coach (advance organizer, chunking with recall-before-reveal, Feynman consolidation, spaced flashcards). Written for ADHD/AuDHD readers but usable for any dense textbook or paper; young repo with no stars, not run end to end. Closes #310.
+- `huanglibo389/math-olympiad-skills` - math-olympiad (STEM Subjects) - solves or reviews single competition problems (Gaokao league, CMO, IMO level) across number theory, algebra, combinatorics, geometry, and functional equations, with a self-check list. Instructions are written in Chinese, the repo is a month old with 1 star and was not run end to end. Closes #308.
 
 ### Added (2026-10-15 issue-clearing pass)
 

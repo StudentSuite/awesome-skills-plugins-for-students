@@ -2170,5 +2170,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "huanglibo389/math-olympiad-skills - math-olympiad",
+    "url": "https://github.com/huanglibo389/math-olympiad-skills/tree/main/skills/math-olympiad",
+    "description": "Solves and reviews olympiad proofs across number theory, algebra, and geometry.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

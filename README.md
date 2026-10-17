@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-181-blue)
+![Skills](https://img.shields.io/badge/skills-182-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -61,7 +61,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
 | Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
 | Coding & CS Education | 28 | `claude plugin install coding-cs-bundle` |
-| STEM Subjects | 21 | `claude plugin install stem-bundle` |
+| STEM Subjects | 22 | `claude plugin install stem-bundle` |
 | Writing & Humanities | 26 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 16 | `claude plugin install language-learning-bundle` |
 | College Applications & Career | 26 | `claude plugin install college-career-bundle` |
@@ -97,7 +97,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 28 skills |
-| 🔬 | [STEM Subjects](#stem-subjects) | 24 skills |
+| 🔬 | [STEM Subjects](#stem-subjects) | 25 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 26 skills |
 | 🗣️ | [Language Learning](#language-learning) | 16 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 26 skills |
@@ -226,7 +226,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 Math, physics, chemistry, and data analysis helpers.
 
 <details open>
-<summary>Show 24 skills</summary>
+<summary>Show 25 skills</summary>
 
 - **[24kchengYe/human-skill-tree - k12-mathematics](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-mathematics)** - Tutors K-12 math with AP Calculus, IB Math, SAT, and A-Level exam strategies.
 - **[24kchengYe/human-skill-tree - k12-sciences](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-sciences)** - Tutors K-12 physics, chemistry, and biology through Socratic, inquiry-based questioning.
@@ -238,6 +238,7 @@ Math, physics, chemistry, and data analysis helpers.
 - **[gemini-cli-extensions/datacommons](https://github.com/gemini-cli-extensions/datacommons)** - 🔑 Queries Data Commons public statistical datasets in natural language for research and coursework.
 - **[ghutchis/chem-skill](https://github.com/ghutchis/chem-skill)** - Renders 2D structure diagrams and 3D molecule viewers from chemical names.
 - **[googlarz/math-skill](https://github.com/googlarz/math-skill)** - Solves math problems step by step with built-in verification.
+- **[huanglibo389/math-olympiad-skills - math-olympiad](https://github.com/huanglibo389/math-olympiad-skills/tree/main/skills/math-olympiad)** - Solves and reviews olympiad proofs across number theory, algebra, and geometry.
 - **[huggingface/hugging-face-datasets](https://officialskills.sh/huggingface/skills/hugging-face-datasets)** - 🔑 Creates and manages datasets with SQL querying, useful for statistics and data science projects.
 - **[jantoney/SamStudies - biology-tutor](https://github.com/jantoney/SamStudies/tree/main/.agents/skills/biology-tutor)** - Explains cell biology, genetics, ecology, and evolution with diagrams.
 - **[jantoney/SamStudies - chemistry-tutor](https://github.com/jantoney/SamStudies/tree/main/.agents/skills/chemistry-tutor)** - Covers organic, inorganic, physical, and analytical chemistry with worked examples.
