@@ -438,7 +438,7 @@ Each entry's parenthetical tag is its sub-area, so the flat list below stays sca
 - **[dair-ai/dair-academy-plugins - youtube-notetaker](https://github.com/dair-ai/dair-academy-plugins/tree/main/plugins/youtube-notetaker)** - Turns YouTube talks into local study notes with slides, transcripts, and editable annotations (📝 Note-Taking).
 - **[danielrosehill/Claude-Career-Plugin](https://github.com/danielrosehill/Claude-Career-Plugin)** - Bundles resume tailoring, cover letters, and interview prep in one plugin (💼 Career).
 - **[dominiquevienne/claude-job-hunt](https://github.com/dominiquevienne/claude-job-hunt)** - 🌐 Scans job boards, scores openings, and drafts tailored resumes and cover letters (💼 Career).
-- **[emili-kosik/admission-skills](https://github.com/emili-kosik/admission-skills)** - Tracks college application deadlines, checklists, and exports a reminder calendar (💼 Career).
+- **[emili-kosik/admission-skills](https://github.com/emili-kosik/admission-skills)** - Tracks college deadlines, coaches essays, and runs mock admissions interviews (💼 Career).
 - **[GaZmagik/iso-24495](https://github.com/GaZmagik/iso-24495)** - Rewrites writing, code, and documents to ISO 24495 plain-language rules (⚙️ General-Purpose).
 - **[jacquardlabs/study-skills](https://github.com/jacquardlabs/study-skills)** - Turns lecture slides into flashcards, quizzes, and study milestones (📋 Study & Productivity).
 - **[JeanDiable/academic-research-plugin](https://github.com/JeanDiable/academic-research-plugin)** - Plugin for literature surveys, paper reviews, and citation management (🔎 Research).

@@ -1855,7 +1855,7 @@
         "source": "url",
         "url": "https://github.com/emili-kosik/admission-skills.git"
       },
-      "description": "Tracks college application deadlines, checklists, and exports a reminder calendar."
+      "description": "Tracks college deadlines, coaches essays, and runs mock admissions interviews."
     },
     {
       "name": "jacquardlabs-study-skills",
