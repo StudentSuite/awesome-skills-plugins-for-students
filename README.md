@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-189-blue)
+![Skills](https://img.shields.io/badge/skills-190-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -60,7 +60,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | --- | :-: | --- |
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
 | Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
-| Coding & CS Education | 32 | `claude plugin install coding-cs-bundle` |
+| Coding & CS Education | 33 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 23 | `claude plugin install stem-bundle` |
 | Writing & Humanities | 26 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 18 | `claude plugin install language-learning-bundle` |
@@ -96,7 +96,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
-| 💻 | [Coding & CS Education](#coding--cs-education) | 32 skills |
+| 💻 | [Coding & CS Education](#coding--cs-education) | 33 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 26 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 26 skills |
 | 🗣️ | [Language Learning](#language-learning) | 18 skills |
@@ -186,7 +186,7 @@ Three entries generate exam-prep material with no prior note on how they differ.
 Algorithm and debugging explainers, learn-to-code starters, and CS project tooling.
 
 <details open>
-<summary>Show 32 skills</summary>
+<summary>Show 33 skills</summary>
 
 - **[0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly)** - Maps codebases into graph-backed architecture evidence.
 - **[actionbook/rust-skills - m14-mental-model](https://github.com/actionbook/rust-skills/tree/main/skills/m14-mental-model)** - Explains Rust ownership and borrowing with analogies, for learners coming from other languages.
@@ -202,6 +202,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[FlorianBruniaux/claude-code-ultimate-guide - self-assessment](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/tree/main/.claude/skills/self-assessment)** - Assesses your Claude Code skill level and generates a personalized learning path.
 - **[fn-jakubkarp/dsa-tutor](https://github.com/fn-jakubkarp/dsa-tutor)** - Tutors data structures and algorithms fundamentals with staged hints, not spoilers.
 - **[hmohamed01/SQL-Expert](https://github.com/hmohamed01/SQL-Expert)** - Guides writing, optimizing, and debugging T-SQL queries, good for SQL coursework practice.
+- **[ibtihal2/smart-code-tutor](https://github.com/ibtihal2/smart-code-tutor)** - Tutors Python, Java, and C++ with hint ladders in Arabic, Hebrew, or English.
 - **[JimmyToluene/Skill-ADHD-Healer - adhd-algorithms-tutor](https://github.com/JimmyToluene/Skill-ADHD-Healer/tree/main/skills/adhd-algorithms-tutor)** - Explains algorithms and Big-O complexity one concept at a time.
 - **[karanb192/algo-sensei](https://github.com/karanb192/algo-sensei)** - Generates LeetCode-style problems with progressive hints and mock interviews.
 - **[kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor)** - Personal tutor with adaptive quizzes and SM-2 spaced repetition.

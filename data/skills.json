@@ -2262,5 +2262,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "ibtihal2/smart-code-tutor",
+    "url": "https://github.com/ibtihal2/smart-code-tutor",
+    "description": "Tutors Python, Java, and C++ with hint ladders in Arabic, Hebrew, or English.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

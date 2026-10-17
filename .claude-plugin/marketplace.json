@@ -1722,6 +1722,14 @@
       "description": "Teaches Java by building a project from scratch, in Portuguese."
     },
     {
+      "name": "ibtihal2-smart-code-tutor",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ibtihal2/smart-code-tutor.git"
+      },
+      "description": "Tutors Python, Java, and C++ with hint ladders in Arabic, Hebrew, or English."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -2042,7 +2050,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (32 skills).",
+      "description": "Coding & CS Education skills in one install (33 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -2075,7 +2083,8 @@
         "muhcihan-tinkercad-blockly-arduino-skill",
         "dvdksn-learn-docker",
         "weike-zhang-grounded-ai-tutor",
-        "xper1os-java-tutor"
+        "xper1os-java-tutor",
+        "ibtihal2-smart-code-tutor"
       ]
     },
     {
