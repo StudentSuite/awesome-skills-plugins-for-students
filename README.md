@@ -62,9 +62,9 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
 | Coding & CS Education | 34 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 23 | `claude plugin install stem-bundle` |
-| Writing & Humanities | 26 | `claude plugin install writing-humanities-bundle` |
+| Writing & Humanities | 27 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 18 | `claude plugin install language-learning-bundle` |
-| College Applications & Career | 26 | `claude plugin install college-career-bundle` |
+| College Applications & Career | 27 | `claude plugin install college-career-bundle` |
 | Google Workspace for Students | 20 | `claude plugin install google-workspace-bundle`¹ |
 
 Every 🔑 entry (needs a paid API key or separate account) is excluded from
@@ -98,9 +98,9 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 34 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 26 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 26 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 27 skills |
 | 🗣️ | [Language Learning](#language-learning) | 18 skills |
-| 🎓 | [College Applications & Career](#college-applications--career) | 26 skills |
+| 🎓 | [College Applications & Career](#college-applications--career) | 27 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 20 skills |
 | 🧩 | [Plugins](#plugins) | 31 plugins |
 
@@ -272,8 +272,9 @@ Essay structuring, academic research, and literature analysis. See [Language Lea
 Four entries overlap on planning and drafting a paper with no prior note on how they differ. **kgraph57/paper-writer-skill** is scoped to IMRAD-structured scientific manuscripts — lab reports and write-ups with a fixed intro/methods/results/discussion shape. **Master-cai/Research-Paper-Writing-Skills** is a general-purpose planning-and-writing package for a research paper, not tied to one structure. **lishix520/academic-paper-skills** covers the same ground but adds reviewer-simulated quality checkpoints at each stage, for when you want the draft pressure-tested as you go. **tizzy916/humanities-writing-companion** is for humanities writing specifically, guiding the process from research question through revision rather than a lab-report format.
 
 <details open>
-<summary>Show 26 skills</summary>
+<summary>Show 27 skills</summary>
 
+- **[24kchengYe/human-skill-tree - arts-design-tutor](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-arts-design-tutor)** - Teaches art history, visual analysis, and design principles through critique.
 - **[24kchengYe/human-skill-tree - business-economics-tutor](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-business-economics-tutor)** - Tutors micro/macroeconomics and business cases with graphs and real-world anchors.
 - **[anthropics/claude-for-legal - case-brief](https://github.com/anthropics/claude-for-legal/tree/main/law-student/skills/case-brief)** - Scaffolds law-student case briefs, making you state the holding first.
 - **[basicmachines-co/basic-memory - memory-literary-analysis](https://github.com/basicmachines-co/basic-memory/tree/main/skills/memory-literary-analysis)** - Analyzes literary works into a searchable knowledge graph.
@@ -344,9 +345,10 @@ Personal-statement tools overlap here too. To pick one: **Academic-Essay-Reviewe
 Several resume tools overlap here. To pick one: **tailored-resume-generator** and **resume-tailoring-skill** do plain tailoring to a single job description; **ResumeSkills** adds ATS-compatibility scoring and interview prep; **career-ops** wraps a full job-search workflow that also scores listings and tracks applications; **resume-tailor-plugin** (under [Plugins](#plugins)) is the same tailoring packaged as a full Claude Code plugin rather than a single skill; and **danielrosehill/Claude-Career-Plugin** (also under [Plugins](#plugins)) bundles resume, cover-letter, and interview-prep commands into one broader career-operations plugin.
 
 <details open>
-<summary>Show 26 skills</summary>
+<summary>Show 27 skills</summary>
 
 - **[24kchengYe/human-skill-tree - k12-exam-systems](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-exam-systems)** - Coaches SAT, ACT, AP, and IB exam strategy with error analysis and study plans.
+- **[24kchengYe/human-skill-tree - university-guide](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-university-guide)** - Guides major choice, applications, and university planning for students.
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[borghei/Claude-Skills - research/grants](https://github.com/borghei/Claude-Skills/tree/main/research/grants)** - Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate.
 - **[Canhada-Labs/ceo-orchestration - study-abroad-advisory](https://github.com/Canhada-Labs/ceo-orchestration/tree/main/.claude/skills/domains/edtech/skills/study-abroad-advisory)** - Advises on study-abroad destinations, school lists, essays, and visa prep.

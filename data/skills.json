@@ -2124,6 +2124,18 @@
     ]
   },
   {
+    "name": "24kchengYe/human-skill-tree - arts-design-tutor",
+    "url": "https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-arts-design-tutor",
+    "description": "Teaches art history, visual analysis, and design principles through critique.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
     "name": "zyx1121/i-have-dyslexia",
     "url": "https://github.com/zyx1121/i-have-dyslexia/tree/main/skills/i-have-dyslexia",
     "description": "Reformats AI replies into short, skimmable, fixed-layout text for dyslexic readers.",
@@ -2139,6 +2151,18 @@
     "name": "jurgendn/agent-skills - gre-quant-coach",
     "url": "https://github.com/jurgendn/agent-skills/tree/main/skills/test-prep/gre-quant-coach",
     "description": "Coaches GRE quant: comparison tactics, error triage, and timed drills.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "24kchengYe/human-skill-tree - university-guide",
+    "url": "https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-university-guide",
+    "description": "Guides major choice, applications, and university planning for students.",
     "category": "College Applications & Career",
     "marker": null,
     "supported_tools": [
