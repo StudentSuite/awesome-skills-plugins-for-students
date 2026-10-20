@@ -331,6 +331,7 @@ Translation practice, vocabulary drilling, and grammar correction in a target (n
 - **[Tashamet/portuguese-brasil-tutor](https://github.com/Tashamet/portuguese-brasil-tutor)** - Teaches Brazilian Portuguese with audio lessons and spaced-repetition review.
 - **[tianmind-studio/english-coach](https://github.com/tianmind-studio/english-coach)** - Corrects English mistakes and teaches a micro-lesson during real conversations.
 - **[uriva/language-learning](https://github.com/uriva/language-learning)** - Runs SLA-research-based language lessons across 11 languages with comprehensible input.
+- **[vini-porto/interlocutor](https://github.com/vini-porto/interlocutor)** - Practices any language through adaptive conversation with CEFR level tracking.
 - **[YANZHANLIN/ielts-claude-skills](https://github.com/YANZHANLIN/ielts-claude-skills)** - Coaches IELTS prep across writing grading, reading drills, and speaking.
 
 </details>
