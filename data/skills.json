@@ -2136,6 +2136,18 @@
     ]
   },
   {
+    "name": "human-avatar/skills-for-humanity - s4h-writing-technical",
+    "url": "https://github.com/human-avatar/skills-for-humanity/tree/main/skills/s4h-writing-technical",
+    "description": "Writes and audits technical documentation for gaps and clarity.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
     "name": "zyx1121/i-have-dyslexia",
     "url": "https://github.com/zyx1121/i-have-dyslexia/tree/main/skills/i-have-dyslexia",
     "description": "Reformats AI replies into short, skimmable, fixed-layout text for dyslexic readers.",

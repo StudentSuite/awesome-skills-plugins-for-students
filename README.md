@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-195-blue)
+![Skills](https://img.shields.io/badge/skills-196-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -62,7 +62,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
 | Coding & CS Education | 34 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 23 | `claude plugin install stem-bundle` |
-| Writing & Humanities | 27 | `claude plugin install writing-humanities-bundle` |
+| Writing & Humanities | 28 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 20 | `claude plugin install language-learning-bundle` |
 | College Applications & Career | 27 | `claude plugin install college-career-bundle` |
 | Google Workspace for Students | 20 | `claude plugin install google-workspace-bundle`¹ |
@@ -98,7 +98,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 34 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 26 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 27 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 28 skills |
 | 🗣️ | [Language Learning](#language-learning) | 20 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 27 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 20 skills |
@@ -272,7 +272,7 @@ Essay structuring, academic research, and literature analysis. See [Language Lea
 Four entries overlap on planning and drafting a paper with no prior note on how they differ. **kgraph57/paper-writer-skill** is scoped to IMRAD-structured scientific manuscripts — lab reports and write-ups with a fixed intro/methods/results/discussion shape. **Master-cai/Research-Paper-Writing-Skills** is a general-purpose planning-and-writing package for a research paper, not tied to one structure. **lishix520/academic-paper-skills** covers the same ground but adds reviewer-simulated quality checkpoints at each stage, for when you want the draft pressure-tested as you go. **tizzy916/humanities-writing-companion** is for humanities writing specifically, guiding the process from research question through revision rather than a lab-report format.
 
 <details open>
-<summary>Show 27 skills</summary>
+<summary>Show 28 skills</summary>
 
 - **[24kchengYe/human-skill-tree - arts-design-tutor](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-arts-design-tutor)** - Teaches art history, visual analysis, and design principles through critique.
 - **[24kchengYe/human-skill-tree - business-economics-tutor](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-business-economics-tutor)** - Tutors micro/macroeconomics and business cases with graphs and real-world anchors.
@@ -285,6 +285,7 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 - **[gnurio/nurijanian-skills - rulebook-for-arguments](https://github.com/gnurio/nurijanian-skills/tree/main/skills/rulebook-for-arguments)** - Builds and audits philosophical arguments using Weston's Rulebook for Arguments.
 - **[haowjy/creative-writing-skills - creative-writing-modes](https://github.com/haowjy/creative-writing-skills/tree/main/skills/creative-writing-modes)** - Drafts original fiction or poetry prose from a brief or outline.
 - **[haowjy/creative-writing-skills - story-review](https://github.com/haowjy/creative-writing-skills/tree/main/skills/story-review)** - Gives editorial feedback on fiction and poetry drafts: voice, pacing, and craft.
+- **[human-avatar/skills-for-humanity - s4h-writing-technical](https://github.com/human-avatar/skills-for-humanity/tree/main/skills/s4h-writing-technical)** - Writes and audits technical documentation for gaps and clarity.
 - **[jamditis/claude-skills-journalism - data-journalism](https://github.com/jamditis/claude-skills-journalism/tree/master/journalism-core/skills/data-journalism)** - Acquires, cleans, analyzes, and verifies data for a news story.
 - **[JimmyToluene/Skill-ADHD-Healer - adhd-presentation-coach](https://github.com/JimmyToluene/Skill-ADHD-Healer/tree/main/skills/adhd-presentation-coach)** - Builds a talk stage by stage, then times the rehearsal.
 - **[kgraph57/paper-writer-skill](https://github.com/kgraph57/paper-writer-skill)** - Drafts IMRAD-structured scientific manuscripts, useful for lab reports and write-ups.
