@@ -1618,6 +1618,16 @@
       "description": "Scaffolds law-student case briefs, making you state the holding first."
     },
     {
+      "name": "24kchengye-human-skill-tree-arts-design-tutor",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/24kchengYe/human-skill-tree.git",
+        "path": "skills/02-arts-design-tutor",
+        "ref": "master"
+      },
+      "description": "Teaches art history, visual analysis, and design principles through critique."
+    },
+    {
       "name": "zyx1121-i-have-dyslexia",
       "source": {
         "source": "git-subdir",
@@ -1636,6 +1646,16 @@
         "ref": "main"
       },
       "description": "Coaches GRE quant: comparison tactics, error triage, and timed drills."
+    },
+    {
+      "name": "24kchengye-human-skill-tree-university-guide",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/24kchengYe/human-skill-tree.git",
+        "path": "skills/02-university-guide",
+        "ref": "master"
+      },
+      "description": "Guides major choice, applications, and university planning for students."
     },
     {
       "name": "actionbook-rust-skills-m14-mental-model",
@@ -1738,6 +1758,16 @@
         "url": "https://github.com/ibtihal2/smart-code-tutor.git"
       },
       "description": "Tutors Python, Java, and C++ with hint ladders in Arabic, Hebrew, or English."
+    },
+    {
+      "name": "project-a-l-i-c-e-skills-adhd-mentor-adhd-comp-arch-tutor",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor.git",
+        "path": "skills/adhd-comp-arch-tutor",
+        "ref": "main"
+      },
+      "description": "Tutors RISC-V computer architecture one layer at a time."
     },
     {
       "name": "yarikleto-claude-teacher-plugin",
@@ -2060,7 +2090,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (33 skills).",
+      "description": "Coding & CS Education skills in one install (34 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -2094,7 +2124,8 @@
         "dvdksn-learn-docker",
         "weike-zhang-grounded-ai-tutor",
         "xper1os-java-tutor",
-        "ibtihal2-smart-code-tutor"
+        "ibtihal2-smart-code-tutor",
+        "project-a-l-i-c-e-skills-adhd-mentor-adhd-comp-arch-tutor"
       ]
     },
     {
@@ -2130,7 +2161,7 @@
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (26 skills).",
+      "description": "Writing & Humanities skills in one install (27 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -2157,7 +2188,8 @@
         "uchiha-madara-anuj-cca-mun-mun-core-protocol",
         "xeichelberger-how-to-speak",
         "24kchengye-human-skill-tree-business-economics-tutor",
-        "anthropics-claude-for-legal-case-brief"
+        "anthropics-claude-for-legal-case-brief",
+        "24kchengye-human-skill-tree-arts-design-tutor"
       ]
     },
     {
@@ -2189,7 +2221,7 @@
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (26 skills).",
+      "description": "College Applications & Career skills in one install (27 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -2216,7 +2248,8 @@
         "jshchnz-claude-jobs",
         "tydev-new-10xcolleges-rec-request",
         "24kchengye-human-skill-tree-k12-exam-systems",
-        "jurgendn-agent-skills-gre-quant-coach"
+        "jurgendn-agent-skills-gre-quant-coach",
+        "24kchengye-human-skill-tree-university-guide"
       ]
     },
     {
