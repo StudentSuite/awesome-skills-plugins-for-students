@@ -65,7 +65,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | Writing & Humanities | 28 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 20 | `claude plugin install language-learning-bundle` |
 | College Applications & Career | 27 | `claude plugin install college-career-bundle` |
-| Google Workspace for Students | 20 | `claude plugin install google-workspace-bundle`¹ |
+| Google Workspace for Students | 21 | `claude plugin install google-workspace-bundle`¹ |
 
 Every 🔑 entry (needs a paid API key or separate account) is excluded from
 every bundle by design, so a default bundle install never silently expects
@@ -101,7 +101,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | ✍️ | [Writing & Humanities](#writing--humanities) | 28 skills |
 | 🗣️ | [Language Learning](#language-learning) | 20 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 27 skills |
-| 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 20 skills |
+| 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 21 skills |
 | 🧩 | [Plugins](#plugins) | 31 plugins |
 
 [Install a bundle in one command](#install-a-bundle-in-one-command) &middot; [Compatibility Paths](#compatibility-paths) &middot; [Security Notice](#security-notice) &middot; [Quality Standards](#quality-standards) &middot; [Contributing](#contributing) &middot; [Contributors](#contributors) &middot; [More from StudentSuite](#more-from-studentsuite) &middot; [Sister lists](#sister-lists) &middot; [License](#license)
@@ -396,7 +396,7 @@ Three different projects answer to `gws` or a lookalike name. **googleworkspace/
 **HashemALSKKkAF/exam-prep-mcq** generates exam-prep MCQs like **sickn33/agentic-awesome-skills - examprep-ai** and **pinakdhabu/Exam-prompt** (both under [Study & Productivity](#study--productivity)), but its distinguishing feature is delivering the quiz as a native Google Form.
 
 <details open>
-<summary>Show 20 skills</summary>
+<summary>Show 21 skills</summary>
 
 - **[eranw2000/google-slides-skill](https://github.com/eranw2000/google-slides-skill)** - Redesigns Google Slides decks against branding and visually verifies output.
 - **[googleworkspace/cli - gws-meet](https://github.com/googleworkspace/cli/tree/main/skills/gws-meet)** - Manages Google Meet conference spaces, recordings, and transcripts via the `gws` CLI.
@@ -413,6 +413,7 @@ Three different projects answer to `gws` or a lookalike name. **googleworkspace/
 - **[googleworkspace/gws-slides](https://officialskills.sh/googleworkspace/skills/gws-slides)** - Read and write Google Slides presentations via the `gws` CLI.
 - **[googleworkspace/gws-tasks](https://officialskills.sh/googleworkspace/skills/gws-tasks)** - Manage Google Tasks task lists and tasks via the `gws` CLI.
 - **[HashemALSKKkAF/exam-prep-mcq](https://github.com/HashemALSKKkAF/exam-prep-mcq)** - Generates MCQ quizzes from study material and delivers them as a Google Form.
+- **[jpmalich/google-sites-architect](https://github.com/jpmalich/google-sites-architect)** - Plans and writes step-by-step build guides for Google Sites.
 - **[minicoohei/ai-agent-camp - gas-clasp-ops](https://github.com/minicoohei/ai-agent-camp/tree/main/skills/gas-clasp-ops)** - Pushes, deploys, and runs Google Apps Script projects via the clasp CLI.
 - **[omriariav/workspace-cli - gws-groups](https://github.com/omriariav/workspace-cli/tree/main/plugins/gws/skills/groups)** - Lists Google Groups and members via a separate `gws` CLI (requires Workspace admin rights).
 - **[openclaw/gogcli - gog-photos](https://github.com/openclaw/gogcli/tree/main/.agents/skills/gog-photos)** - Manages Google Photos: search, list, and download via the `gog` CLI.

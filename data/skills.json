@@ -1965,6 +1965,18 @@
     ]
   },
   {
+    "name": "jpmalich/google-sites-architect",
+    "url": "https://github.com/jpmalich/google-sites-architect",
+    "description": "Plans and writes step-by-step build guides for Google Sites.",
+    "category": "Google Workspace for Students",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
     "name": "xeichelberger/how-to-speak-",
     "url": "https://github.com/xeichelberger/how-to-speak-",
     "description": "Coaches talk openings, slides, and rehearsal using Patrick Winston's speaking rules.",
