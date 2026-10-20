@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-190-blue)
+![Skills](https://img.shields.io/badge/skills-191-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -63,7 +63,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | Coding & CS Education | 33 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 23 | `claude plugin install stem-bundle` |
 | Writing & Humanities | 26 | `claude plugin install writing-humanities-bundle` |
-| Language Learning | 18 | `claude plugin install language-learning-bundle` |
+| Language Learning | 19 | `claude plugin install language-learning-bundle` |
 | College Applications & Career | 26 | `claude plugin install college-career-bundle` |
 | Google Workspace for Students | 20 | `claude plugin install google-workspace-bundle`¹ |
 
@@ -99,7 +99,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 💻 | [Coding & CS Education](#coding--cs-education) | 33 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 26 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 26 skills |
-| 🗣️ | [Language Learning](#language-learning) | 18 skills |
+| 🗣️ | [Language Learning](#language-learning) | 19 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 26 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 20 skills |
 | 🧩 | [Plugins](#plugins) | 31 plugins |
@@ -309,7 +309,7 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 Translation practice, vocabulary drilling, and grammar correction in a target (non-English) language, for IB Language A/B and IGCSE second-language coursework.
 
 <details open>
-<summary>Show 18 skills</summary>
+<summary>Show 19 skills</summary>
 
 - **[13rianK/japanese-tutor](https://github.com/13rianK/japanese-tutor)** - Runs daily Japanese lessons with vocabulary, grammar, and graded practice.
 - **[24kchengYe/human-skill-tree - k12-languages](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-languages)** - Practices reading, writing, listening, and speaking in a second language.
@@ -323,6 +323,7 @@ Translation practice, vocabulary drilling, and grammar correction in a target (n
 - **[LuchoBazz/skills - ielts-listening-generator](https://github.com/LuchoBazz/skills/tree/main/skills/ielts-listening-generator)** - Generates IELTS-style listening transcripts and audio configs for practice.
 - **[m98/fluent](https://github.com/m98/fluent)** - Drills vocabulary and corrects target-language writing using spaced repetition.
 - **[mpuche3/ipa-transcribe](https://github.com/mpuche3/ipa-transcribe)** - Transcribes English text into stress-marked IPA to teach precise pronunciation.
+- **[Project-A-L-I-C-E/Skills-ADHD-mentor - adhd-language-tutor](https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor/tree/main/skills/adhd-language-tutor)** - Explains GRE and TOEFL vocabulary through word roots and dialogue.
 - **[Santimator/x3-suite - graded-reader](https://github.com/Santimator/x3-suite/tree/main/ai-tools/graded-reader)** - Writes HSK-leveled Chinese graded readers chapter by chapter with vocabulary validation.
 - **[SkillMedev/skills - language-learning](https://github.com/SkillMedev/skills/tree/main/skills/language-learning)** - Plans language study with mandatory shadowing and early speaking practice.
 - **[Tashamet/portuguese-brasil-tutor](https://github.com/Tashamet/portuguese-brasil-tutor)** - Teaches Brazilian Portuguese with audio lessons and spaced-repetition review.
