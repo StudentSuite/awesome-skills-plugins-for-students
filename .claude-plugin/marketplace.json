@@ -1628,6 +1628,16 @@
       "description": "Teaches art history, visual analysis, and design principles through critique."
     },
     {
+      "name": "human-avatar-skills-for-humanity-s4h-writing-rhetoric",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/human-avatar/skills-for-humanity.git",
+        "path": "skills/s4h-writing-rhetoric",
+        "ref": "main"
+      },
+      "description": "Analyzes a text's rhetorical situation, appeals, and framing."
+    },
+    {
       "name": "zyx1121-i-have-dyslexia",
       "source": {
         "source": "git-subdir",
@@ -2169,7 +2179,7 @@
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (27 skills).",
+      "description": "Writing & Humanities skills in one install (28 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -2197,7 +2207,8 @@
         "xeichelberger-how-to-speak",
         "24kchengye-human-skill-tree-business-economics-tutor",
         "anthropics-claude-for-legal-case-brief",
-        "24kchengye-human-skill-tree-arts-design-tutor"
+        "24kchengye-human-skill-tree-arts-design-tutor",
+        "human-avatar-skills-for-humanity-s4h-writing-rhetoric"
       ]
     },
     {

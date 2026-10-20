@@ -2136,6 +2136,18 @@
     ]
   },
   {
+    "name": "human-avatar/skills-for-humanity - s4h-writing-rhetoric",
+    "url": "https://github.com/human-avatar/skills-for-humanity/tree/main/skills/s4h-writing-rhetoric",
+    "description": "Analyzes a text's rhetorical situation, appeals, and framing.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
     "name": "zyx1121/i-have-dyslexia",
     "url": "https://github.com/zyx1121/i-have-dyslexia/tree/main/skills/i-have-dyslexia",
     "description": "Reformats AI replies into short, skimmable, fixed-layout text for dyslexic readers.",
