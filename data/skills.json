@@ -2259,6 +2259,18 @@
     ]
   },
   {
+    "name": "synthetic-sciences/openscience - dimensional-analysis",
+    "url": "https://github.com/synthetic-sciences/openscience/tree/main/backend/cli/skills/physics/dimensional-analysis",
+    "description": "Checks units and non-dimensionalizes physics problems with Buckingham Pi.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
     "name": "ahmeddabak/claude-arabic-writing",
     "url": "https://github.com/ahmeddabak/claude-arabic-writing",
     "description": "Writes, translates, and proofreads natural Arabic in MSA and four dialects.",

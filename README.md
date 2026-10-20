@@ -232,7 +232,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 Math, physics, chemistry, and data analysis helpers.
 
 <details open>
-<summary>Show 26 skills</summary>
+<summary>Show 27 skills</summary>
 
 - **[24kchengYe/human-skill-tree - k12-mathematics](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-mathematics)** - Tutors K-12 math with AP Calculus, IB Math, SAT, and A-Level exam strategies.
 - **[24kchengYe/human-skill-tree - k12-sciences](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-sciences)** - Tutors K-12 physics, chemistry, and biology through Socratic, inquiry-based questioning.
@@ -257,6 +257,7 @@ Math, physics, chemistry, and data analysis helpers.
 - **[somenssarkar/gurukul-ai - gurukul-ai-physics](https://github.com/somenssarkar/gurukul-ai/tree/main/.claude/skills/gurukul-ai-physics)** - Tutors physics concepts via Socratic questioning, diagrams, and misconception checks.
 - **[Stab-Rabbit-coding/SecureControllers - statics-and-dynamics](https://github.com/Stab-Rabbit-coding/SecureControllers/tree/main/.claude/skills/statics-and-dynamics)** - Solves statics and rigid-body dynamics problems with free-body diagrams.
 - **[SteadfastAsArt/geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills)** - Applies earth science and climate skills: seismic, well logs, 3D modelling, geostatistics.
+- **[synthetic-sciences/openscience - dimensional-analysis](https://github.com/synthetic-sciences/openscience/tree/main/backend/cli/skills/physics/dimensional-analysis)** - Checks units and non-dimensionalizes physics problems with Buckingham Pi.
 - **[wentorai/research-plugins - inaturalist-api](https://github.com/wentorai/research-plugins/tree/main/skills/domains/ecology/inaturalist-api)** - 🌐 Queries the iNaturalist API for biodiversity observation data.
 - **[WolframResearch/skills - astro-observation-planner](https://github.com/WolframResearch/skills/tree/main/skills/astro-observation-planner)** - 🔑 Plans a night's stargazing: twilight, Moon phase, planets, and deep-sky objects.
 - **[zLanqing/codex-claude-academic-skills - scientific-toolkit-skill](https://github.com/zLanqing/codex-claude-academic-skills/tree/main/scientific-toolkit-skill)** - Runs MATLAB/Python scientific computing, simulations, and publication-ready figures.
