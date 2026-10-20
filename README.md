@@ -60,7 +60,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | --- | :-: | --- |
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
 | Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
-| Coding & CS Education | 33 | `claude plugin install coding-cs-bundle` |
+| Coding & CS Education | 34 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 23 | `claude plugin install stem-bundle` |
 | Writing & Humanities | 27 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 18 | `claude plugin install language-learning-bundle` |
@@ -96,7 +96,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
-| 💻 | [Coding & CS Education](#coding--cs-education) | 33 skills |
+| 💻 | [Coding & CS Education](#coding--cs-education) | 34 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 26 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 27 skills |
 | 🗣️ | [Language Learning](#language-learning) | 18 skills |
@@ -186,7 +186,7 @@ Three entries generate exam-prep material with no prior note on how they differ.
 Algorithm and debugging explainers, learn-to-code starters, and CS project tooling.
 
 <details open>
-<summary>Show 33 skills</summary>
+<summary>Show 34 skills</summary>
 
 - **[0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly)** - Maps codebases into graph-backed architecture evidence.
 - **[actionbook/rust-skills - m14-mental-model](https://github.com/actionbook/rust-skills/tree/main/skills/m14-mental-model)** - Explains Rust ownership and borrowing with analogies, for learners coming from other languages.
@@ -213,6 +213,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[muhcihan/tinkercad-blockly-arduino-skill](https://github.com/muhcihan/tinkercad-blockly-arduino-skill)** - Translates Tinkercad Blockly to Arduino C and drafts beginner circuits.
 - **[NickCrew/Claude-Cortex - regex-master](https://github.com/NickCrew/Claude-Cortex/tree/main/skills/regex-master)** - Builds, explains, and debugs regular expressions token by token.
 - **[openai/jupyter-notebook](https://officialskills.sh/openai/skills/jupyter-notebook)** - Creates clean, reproducible Jupyter notebooks for experiments and tutorials, essential for data science coursework.
+- **[Project-A-L-I-C-E/Skills-ADHD-mentor - adhd-comp-arch-tutor](https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor/tree/main/skills/adhd-comp-arch-tutor)** - Tutors RISC-V computer architecture one layer at a time.
 - **[rwgb/vibe-guardrails - save-points](https://github.com/rwgb/vibe-guardrails/tree/main/skills/save-points)** - Teaches git commits and branches from zero as project save points.
 - **[shauryagangrade/intent-drift-skill](https://github.com/shauryagangrade/intent-drift-skill)** - Detects when AI-assisted coding drifts from the original goal and prompts you to re-align.
 - **[sickn33/agentic-awesome-skills - code-documentation-code-explain](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/code-documentation-code-explain)** - Explains complex code through narratives, visual diagrams, and step-by-step breakdowns.

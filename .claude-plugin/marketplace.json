@@ -1750,6 +1750,16 @@
       "description": "Tutors Python, Java, and C++ with hint ladders in Arabic, Hebrew, or English."
     },
     {
+      "name": "project-a-l-i-c-e-skills-adhd-mentor-adhd-comp-arch-tutor",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor.git",
+        "path": "skills/adhd-comp-arch-tutor",
+        "ref": "main"
+      },
+      "description": "Tutors RISC-V computer architecture one layer at a time."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -2070,7 +2080,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (33 skills).",
+      "description": "Coding & CS Education skills in one install (34 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -2104,7 +2114,8 @@
         "dvdksn-learn-docker",
         "weike-zhang-grounded-ai-tutor",
         "xper1os-java-tutor",
-        "ibtihal2-smart-code-tutor"
+        "ibtihal2-smart-code-tutor",
+        "project-a-l-i-c-e-skills-adhd-mentor-adhd-comp-arch-tutor"
       ]
     },
     {
