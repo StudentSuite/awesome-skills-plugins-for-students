@@ -2148,6 +2148,23 @@
     ]
   },
   {
+    "name": "human-avatar/skills-for-humanity - s4h-writing-rhetoric",
+    "url": "https://github.com/human-avatar/skills-for-humanity/tree/main/skills/s4h-writing-rhetoric",
+    "description": "Analyzes a text's rhetorical situation, appeals, and framing.",
+  },
+  {
+    "name": "human-avatar/skills-for-humanity - s4h-writing-technical",
+    "url": "https://github.com/human-avatar/skills-for-humanity/tree/main/skills/s4h-writing-technical",
+    "description": "Writes and audits technical documentation for gaps and clarity.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
     "name": "zyx1121/i-have-dyslexia",
     "url": "https://github.com/zyx1121/i-have-dyslexia/tree/main/skills/i-have-dyslexia",
     "description": "Reformats AI replies into short, skimmable, fixed-layout text for dyslexic readers.",
@@ -2254,6 +2271,18 @@
     ]
   },
   {
+    "name": "synthetic-sciences/openscience - dimensional-analysis",
+    "url": "https://github.com/synthetic-sciences/openscience/tree/main/backend/cli/skills/physics/dimensional-analysis",
+    "description": "Checks units and non-dimensionalizes physics problems with Buckingham Pi.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
     "name": "ahmeddabak/claude-arabic-writing",
     "url": "https://github.com/ahmeddabak/claude-arabic-writing",
     "description": "Writes, translates, and proofreads natural Arabic in MSA and four dialects.",
@@ -2339,6 +2368,18 @@
     "name": "Project-A-L-I-C-E/Skills-ADHD-mentor - adhd-comp-arch-tutor",
     "url": "https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor/tree/main/skills/adhd-comp-arch-tutor",
     "description": "Tutors RISC-V computer architecture one layer at a time.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
+    "name": "Tibsfox/gsd-skill-creator - computational-thinking",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator/tree/main/examples/skills/coding/computational-thinking",
+    "description": "Teaches decomposition, pattern recognition, abstraction, and algorithm design.",
     "category": "Coding & CS Education",
     "marker": null,
     "supported_tools": [

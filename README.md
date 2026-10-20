@@ -60,9 +60,9 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | --- | :-: | --- |
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
 | Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
-| Coding & CS Education | 34 | `claude plugin install coding-cs-bundle` |
+| Coding & CS Education | 35 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 23 | `claude plugin install stem-bundle` |
-| Writing & Humanities | 27 | `claude plugin install writing-humanities-bundle` |
+| Writing & Humanities | 28 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 20 | `claude plugin install language-learning-bundle` |
 | College Applications & Career | 27 | `claude plugin install college-career-bundle` |
 | Google Workspace for Students | 21 | `claude plugin install google-workspace-bundle`¹ |
@@ -96,9 +96,9 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
-| 💻 | [Coding & CS Education](#coding--cs-education) | 34 skills |
+| 💻 | [Coding & CS Education](#coding--cs-education) | 35 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 26 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 27 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 28 skills |
 | 🗣️ | [Language Learning](#language-learning) | 20 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 27 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 21 skills |
@@ -186,7 +186,7 @@ Three entries generate exam-prep material with no prior note on how they differ.
 Algorithm and debugging explainers, learn-to-code starters, and CS project tooling.
 
 <details open>
-<summary>Show 34 skills</summary>
+<summary>Show 35 skills</summary>
 
 - **[0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly)** - Maps codebases into graph-backed architecture evidence.
 - **[actionbook/rust-skills - m14-mental-model](https://github.com/actionbook/rust-skills/tree/main/skills/m14-mental-model)** - Explains Rust ownership and borrowing with analogies, for learners coming from other languages.
@@ -217,6 +217,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[rwgb/vibe-guardrails - save-points](https://github.com/rwgb/vibe-guardrails/tree/main/skills/save-points)** - Teaches git commits and branches from zero as project save points.
 - **[shauryagangrade/intent-drift-skill](https://github.com/shauryagangrade/intent-drift-skill)** - Detects when AI-assisted coding drifts from the original goal and prompts you to re-align.
 - **[sickn33/agentic-awesome-skills - code-documentation-code-explain](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/code-documentation-code-explain)** - Explains complex code through narratives, visual diagrams, and step-by-step breakdowns.
+- **[Tibsfox/gsd-skill-creator - computational-thinking](https://github.com/Tibsfox/gsd-skill-creator/tree/main/examples/skills/coding/computational-thinking)** - Teaches decomposition, pattern recognition, abstraction, and algorithm design.
 - **[weike-zhang/grounded-ai-tutor](https://github.com/weike-zhang/grounded-ai-tutor)** - Explains computing concepts for non-technical learners, from processes to networks.
 - **[xper1os/java-tutor](https://github.com/xper1os/java-tutor)** - Teaches Java by building a project from scratch, in Portuguese.
 - **[yappologistic/CSharp-Tutor - csharp-oop](https://github.com/yappologistic/CSharp-Tutor/tree/master/csharp-oop)** - Teaches beginner-friendly OOP fundamentals, SOLID, and design patterns in C#.
@@ -232,7 +233,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 Math, physics, chemistry, and data analysis helpers.
 
 <details open>
-<summary>Show 26 skills</summary>
+<summary>Show 27 skills</summary>
 
 - **[24kchengYe/human-skill-tree - k12-mathematics](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-mathematics)** - Tutors K-12 math with AP Calculus, IB Math, SAT, and A-Level exam strategies.
 - **[24kchengYe/human-skill-tree - k12-sciences](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-sciences)** - Tutors K-12 physics, chemistry, and biology through Socratic, inquiry-based questioning.
@@ -257,6 +258,7 @@ Math, physics, chemistry, and data analysis helpers.
 - **[somenssarkar/gurukul-ai - gurukul-ai-physics](https://github.com/somenssarkar/gurukul-ai/tree/main/.claude/skills/gurukul-ai-physics)** - Tutors physics concepts via Socratic questioning, diagrams, and misconception checks.
 - **[Stab-Rabbit-coding/SecureControllers - statics-and-dynamics](https://github.com/Stab-Rabbit-coding/SecureControllers/tree/main/.claude/skills/statics-and-dynamics)** - Solves statics and rigid-body dynamics problems with free-body diagrams.
 - **[SteadfastAsArt/geoscience-skills](https://github.com/SteadfastAsArt/geoscience-skills)** - Applies earth science and climate skills: seismic, well logs, 3D modelling, geostatistics.
+- **[synthetic-sciences/openscience - dimensional-analysis](https://github.com/synthetic-sciences/openscience/tree/main/backend/cli/skills/physics/dimensional-analysis)** - Checks units and non-dimensionalizes physics problems with Buckingham Pi.
 - **[wentorai/research-plugins - inaturalist-api](https://github.com/wentorai/research-plugins/tree/main/skills/domains/ecology/inaturalist-api)** - 🌐 Queries the iNaturalist API for biodiversity observation data.
 - **[WolframResearch/skills - astro-observation-planner](https://github.com/WolframResearch/skills/tree/main/skills/astro-observation-planner)** - 🔑 Plans a night's stargazing: twilight, Moon phase, planets, and deep-sky objects.
 - **[zLanqing/codex-claude-academic-skills - scientific-toolkit-skill](https://github.com/zLanqing/codex-claude-academic-skills/tree/main/scientific-toolkit-skill)** - Runs MATLAB/Python scientific computing, simulations, and publication-ready figures.
@@ -272,7 +274,7 @@ Essay structuring, academic research, and literature analysis. See [Language Lea
 Four entries overlap on planning and drafting a paper with no prior note on how they differ. **kgraph57/paper-writer-skill** is scoped to IMRAD-structured scientific manuscripts — lab reports and write-ups with a fixed intro/methods/results/discussion shape. **Master-cai/Research-Paper-Writing-Skills** is a general-purpose planning-and-writing package for a research paper, not tied to one structure. **lishix520/academic-paper-skills** covers the same ground but adds reviewer-simulated quality checkpoints at each stage, for when you want the draft pressure-tested as you go. **tizzy916/humanities-writing-companion** is for humanities writing specifically, guiding the process from research question through revision rather than a lab-report format.
 
 <details open>
-<summary>Show 27 skills</summary>
+<summary>Show 28 skills</summary>
 
 - **[24kchengYe/human-skill-tree - arts-design-tutor](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-arts-design-tutor)** - Teaches art history, visual analysis, and design principles through critique.
 - **[24kchengYe/human-skill-tree - business-economics-tutor](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-business-economics-tutor)** - Tutors micro/macroeconomics and business cases with graphs and real-world anchors.
@@ -285,6 +287,8 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 - **[gnurio/nurijanian-skills - rulebook-for-arguments](https://github.com/gnurio/nurijanian-skills/tree/main/skills/rulebook-for-arguments)** - Builds and audits philosophical arguments using Weston's Rulebook for Arguments.
 - **[haowjy/creative-writing-skills - creative-writing-modes](https://github.com/haowjy/creative-writing-skills/tree/main/skills/creative-writing-modes)** - Drafts original fiction or poetry prose from a brief or outline.
 - **[haowjy/creative-writing-skills - story-review](https://github.com/haowjy/creative-writing-skills/tree/main/skills/story-review)** - Gives editorial feedback on fiction and poetry drafts: voice, pacing, and craft.
+- **[human-avatar/skills-for-humanity - s4h-writing-rhetoric](https://github.com/human-avatar/skills-for-humanity/tree/main/skills/s4h-writing-rhetoric)** - Analyzes a text's rhetorical situation, appeals, and framing.
+- **[human-avatar/skills-for-humanity - s4h-writing-technical](https://github.com/human-avatar/skills-for-humanity/tree/main/skills/s4h-writing-technical)** - Writes and audits technical documentation for gaps and clarity.
 - **[jamditis/claude-skills-journalism - data-journalism](https://github.com/jamditis/claude-skills-journalism/tree/master/journalism-core/skills/data-journalism)** - Acquires, cleans, analyzes, and verifies data for a news story.
 - **[JimmyToluene/Skill-ADHD-Healer - adhd-presentation-coach](https://github.com/JimmyToluene/Skill-ADHD-Healer/tree/main/skills/adhd-presentation-coach)** - Builds a talk stage by stage, then times the rehearsal.
 - **[kgraph57/paper-writer-skill](https://github.com/kgraph57/paper-writer-skill)** - Drafts IMRAD-structured scientific manuscripts, useful for lab reports and write-ups.
