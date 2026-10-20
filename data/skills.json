@@ -2151,6 +2151,13 @@
     "name": "human-avatar/skills-for-humanity - s4h-writing-rhetoric",
     "url": "https://github.com/human-avatar/skills-for-humanity/tree/main/skills/s4h-writing-rhetoric",
     "description": "Analyzes a text's rhetorical situation, appeals, and framing.",
+    "category": "Writing & Humanities",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   },
   {
     "name": "human-avatar/skills-for-humanity - s4h-writing-technical",
