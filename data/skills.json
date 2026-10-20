@@ -2274,5 +2274,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "Project-A-L-I-C-E/Skills-ADHD-mentor - adhd-comp-arch-tutor",
+    "url": "https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor/tree/main/skills/adhd-comp-arch-tutor",
+    "description": "Tutors RISC-V computer architecture one layer at a time.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
