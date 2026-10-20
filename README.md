@@ -311,7 +311,7 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 Translation practice, vocabulary drilling, and grammar correction in a target (non-English) language, for IB Language A/B and IGCSE second-language coursework.
 
 <details open>
-<summary>Show 18 skills</summary>
+<summary>Show 19 skills</summary>
 
 - **[13rianK/japanese-tutor](https://github.com/13rianK/japanese-tutor)** - Runs daily Japanese lessons with vocabulary, grammar, and graded practice.
 - **[24kchengYe/human-skill-tree - k12-languages](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-languages)** - Practices reading, writing, listening, and speaking in a second language.
@@ -325,6 +325,7 @@ Translation practice, vocabulary drilling, and grammar correction in a target (n
 - **[LuchoBazz/skills - ielts-listening-generator](https://github.com/LuchoBazz/skills/tree/main/skills/ielts-listening-generator)** - Generates IELTS-style listening transcripts and audio configs for practice.
 - **[m98/fluent](https://github.com/m98/fluent)** - Drills vocabulary and corrects target-language writing using spaced repetition.
 - **[mpuche3/ipa-transcribe](https://github.com/mpuche3/ipa-transcribe)** - Transcribes English text into stress-marked IPA to teach precise pronunciation.
+- **[Project-A-L-I-C-E/Skills-ADHD-mentor - adhd-language-tutor](https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor/tree/main/skills/adhd-language-tutor)** - Explains GRE and TOEFL vocabulary through word roots and dialogue.
 - **[Santimator/x3-suite - graded-reader](https://github.com/Santimator/x3-suite/tree/main/ai-tools/graded-reader)** - Writes HSK-leveled Chinese graded readers chapter by chapter with vocabulary validation.
 - **[SkillMedev/skills - language-learning](https://github.com/SkillMedev/skills/tree/main/skills/language-learning)** - Plans language study with mandatory shadowing and early speaking practice.
 - **[Tashamet/portuguese-brasil-tutor](https://github.com/Tashamet/portuguese-brasil-tutor)** - Teaches Brazilian Portuguese with audio lessons and spaced-repetition review.

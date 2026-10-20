@@ -1718,6 +1718,16 @@
       "description": "Writes, translates, and proofreads natural Arabic in MSA and four dialects."
     },
     {
+      "name": "project-a-l-i-c-e-skills-adhd-mentor-adhd-language-tutor",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor.git",
+        "path": "skills/adhd-language-tutor",
+        "ref": "main"
+      },
+      "description": "Explains GRE and TOEFL vocabulary through word roots and dialogue."
+    },
+    {
       "name": "dvdksn-learn-docker",
       "source": {
         "source": "url",
@@ -2185,7 +2195,7 @@
     {
       "name": "language-learning-bundle",
       "source": "./bundles/language-learning-bundle",
-      "description": "Language Learning skills in one install (18 skills).",
+      "description": "Language Learning skills in one install (19 skills).",
       "dependencies": [
         "13riank-japanese-tutor",
         "gislio-claude-language-tutor",
@@ -2204,7 +2214,8 @@
         "luchobazz-skills-ielts-listening-generator",
         "ahmtsahin-deutsch-dna",
         "tashamet-portuguese-brasil-tutor",
-        "ahmeddabak-claude-arabic-writing"
+        "ahmeddabak-claude-arabic-writing",
+        "project-a-l-i-c-e-skills-adhd-mentor-adhd-language-tutor"
       ]
     },
     {
