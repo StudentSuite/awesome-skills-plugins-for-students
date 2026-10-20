@@ -1628,6 +1628,26 @@
       "description": "Teaches art history, visual analysis, and design principles through critique."
     },
     {
+      "name": "human-avatar-skills-for-humanity-s4h-writing-rhetoric",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/human-avatar/skills-for-humanity.git",
+        "path": "skills/s4h-writing-rhetoric",
+        "ref": "main"
+      },
+      "description": "Analyzes a text's rhetorical situation, appeals, and framing."
+    },
+    {
+      "name": "human-avatar-skills-for-humanity-s4h-writing-technical",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/human-avatar/skills-for-humanity.git",
+        "path": "skills/s4h-writing-technical",
+        "ref": "main"
+      },
+      "description": "Writes and audits technical documentation for gaps and clarity."
+    },
+    {
       "name": "zyx1121-i-have-dyslexia",
       "source": {
         "source": "git-subdir",
@@ -1708,6 +1728,16 @@
         "url": "https://github.com/fitelson/proof-craft.git"
       },
       "description": "Writes and reviews readable proofs using standard textbook techniques."
+    },
+    {
+      "name": "synthetic-sciences-openscience-dimensional-analysis",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/synthetic-sciences/openscience.git",
+        "path": "backend/cli/skills/physics/dimensional-analysis",
+        "ref": "main"
+      },
+      "description": "Checks units and non-dimensionalizes physics problems with Buckingham Pi."
     },
     {
       "name": "ahmeddabak-claude-arabic-writing",
@@ -2150,7 +2180,7 @@
     {
       "name": "stem-bundle",
       "source": "./bundles/stem-bundle",
-      "description": "STEM Subjects skills in one install (23 skills; 3 paid-key skills excluded, install separately).",
+      "description": "STEM Subjects skills in one install (24 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "24kchengye-human-skill-tree-k12-sciences",
         "abelsr-computational-physics",
@@ -2174,13 +2204,14 @@
         "k-dense-ai-scientific-agent-skills-biopython",
         "24kchengye-human-skill-tree-k12-mathematics",
         "huanglibo389-math-olympiad-skills-math-olympiad",
-        "fitelson-proof-craft"
+        "fitelson-proof-craft",
+        "synthetic-sciences-openscience-dimensional-analysis"
       ]
     },
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (27 skills).",
+      "description": "Writing & Humanities skills in one install (28 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -2208,7 +2239,9 @@
         "xeichelberger-how-to-speak",
         "24kchengye-human-skill-tree-business-economics-tutor",
         "anthropics-claude-for-legal-case-brief",
-        "24kchengye-human-skill-tree-arts-design-tutor"
+        "24kchengye-human-skill-tree-arts-design-tutor",
+        "human-avatar-skills-for-humanity-s4h-writing-rhetoric"
+        "human-avatar-skills-for-humanity-s4h-writing-technical"
       ]
     },
     {
