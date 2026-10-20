@@ -2334,5 +2334,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "Tibsfox/gsd-skill-creator - computational-thinking",
+    "url": "https://github.com/Tibsfox/gsd-skill-creator/tree/main/examples/skills/coding/computational-thinking",
+    "description": "Teaches decomposition, pattern recognition, abstraction, and algorithm design.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

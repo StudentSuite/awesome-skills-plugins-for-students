@@ -1778,6 +1778,16 @@
       "description": "Tutors RISC-V computer architecture one layer at a time."
     },
     {
+      "name": "tibsfox-gsd-skill-creator-computational-thinking",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Tibsfox/gsd-skill-creator.git",
+        "path": "examples/skills/coding/computational-thinking",
+        "ref": "main"
+      },
+      "description": "Teaches decomposition, pattern recognition, abstraction, and algorithm design."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -2098,7 +2108,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (34 skills).",
+      "description": "Coding & CS Education skills in one install (35 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -2133,7 +2143,8 @@
         "weike-zhang-grounded-ai-tutor",
         "xper1os-java-tutor",
         "ibtihal2-smart-code-tutor",
-        "project-a-l-i-c-e-skills-adhd-mentor-adhd-comp-arch-tutor"
+        "project-a-l-i-c-e-skills-adhd-mentor-adhd-comp-arch-tutor",
+        "tibsfox-gsd-skill-creator-computational-thinking"
       ]
     },
     {
