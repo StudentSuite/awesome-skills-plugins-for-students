@@ -1498,6 +1498,14 @@
       "description": "Organizes Google Drive into folders via a local CLI with dry-run moves."
     },
     {
+      "name": "jpmalich-google-sites-architect",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/jpmalich/google-sites-architect.git"
+      },
+      "description": "Plans and writes step-by-step build guides for Google Sites."
+    },
+    {
       "name": "xeichelberger-how-to-speak",
       "source": {
         "source": "url",
@@ -2264,7 +2272,7 @@
     {
       "name": "google-workspace-bundle",
       "source": "./bundles/google-workspace-bundle",
-      "description": "Google Workspace for Students skills in one install (20 skills).",
+      "description": "Google Workspace for Students skills in one install (21 skills).",
       "dependencies": [
         "eranw2000-google-slides-skill",
         "googleworkspace-cli-gws-meet",
@@ -2285,7 +2293,8 @@
         "openclaw-gogcli-gog-photos",
         "omriariav-workspace-cli-gws-groups",
         "minicoohei-ai-agent-camp-gas-clasp-ops",
-        "watashi-00-drive-organizer-agent"
+        "watashi-00-drive-organizer-agent",
+        "jpmalich-google-sites-architect"
       ]
     }
   ]
