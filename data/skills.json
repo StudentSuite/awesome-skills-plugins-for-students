@@ -2230,6 +2230,18 @@
     ]
   },
   {
+    "name": "vini-porto/interlocutor",
+    "url": "https://github.com/vini-porto/interlocutor",
+    "description": "Practices any language through adaptive conversation with CEFR level tracking.",
+    "category": "Language Learning",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
     "name": "dvdksn/learn-docker",
     "url": "https://github.com/dvdksn/learn-docker",
     "description": "Teaches Docker hands-on, from first container to Compose.",

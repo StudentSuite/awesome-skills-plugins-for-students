@@ -1698,6 +1698,14 @@
       "description": "Writes, translates, and proofreads natural Arabic in MSA and four dialects."
     },
     {
+      "name": "vini-porto-interlocutor",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/vini-porto/interlocutor.git"
+      },
+      "description": "Practices any language through adaptive conversation with CEFR level tracking."
+    },
+    {
       "name": "dvdksn-learn-docker",
       "source": {
         "source": "url",
@@ -2153,7 +2161,7 @@
     {
       "name": "language-learning-bundle",
       "source": "./bundles/language-learning-bundle",
-      "description": "Language Learning skills in one install (18 skills).",
+      "description": "Language Learning skills in one install (19 skills).",
       "dependencies": [
         "13riank-japanese-tutor",
         "gislio-claude-language-tutor",
@@ -2172,7 +2180,8 @@
         "luchobazz-skills-ielts-listening-generator",
         "ahmtsahin-deutsch-dna",
         "tashamet-portuguese-brasil-tutor",
-        "ahmeddabak-claude-arabic-writing"
+        "ahmeddabak-claude-arabic-writing",
+        "vini-porto-interlocutor"
       ]
     },
     {
