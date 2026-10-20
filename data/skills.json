@@ -2160,6 +2160,18 @@
     ]
   },
   {
+    "name": "24kchengYe/human-skill-tree - university-guide",
+    "url": "https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-university-guide",
+    "description": "Guides major choice, applications, and university planning for students.",
+    "category": "College Applications & Career",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
     "name": "actionbook/rust-skills - m14-mental-model",
     "url": "https://github.com/actionbook/rust-skills/tree/main/skills/m14-mental-model",
     "description": "Explains Rust ownership and borrowing with analogies, for learners coming from other languages.",
