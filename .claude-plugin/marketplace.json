@@ -1618,6 +1618,16 @@
       "description": "Scaffolds law-student case briefs, making you state the holding first."
     },
     {
+      "name": "24kchengye-human-skill-tree-arts-design-tutor",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/24kchengYe/human-skill-tree.git",
+        "path": "skills/02-arts-design-tutor",
+        "ref": "master"
+      },
+      "description": "Teaches art history, visual analysis, and design principles through critique."
+    },
+    {
       "name": "zyx1121-i-have-dyslexia",
       "source": {
         "source": "git-subdir",
@@ -2120,7 +2130,7 @@
     {
       "name": "writing-humanities-bundle",
       "source": "./bundles/writing-humanities-bundle",
-      "description": "Writing & Humanities skills in one install (26 skills).",
+      "description": "Writing & Humanities skills in one install (27 skills).",
       "dependencies": [
         "lishix520-academic-paper-skills",
         "basicmachines-co-basic-memory-memory-literary-analysis",
@@ -2147,7 +2157,8 @@
         "uchiha-madara-anuj-cca-mun-mun-core-protocol",
         "xeichelberger-how-to-speak",
         "24kchengye-human-skill-tree-business-economics-tutor",
-        "anthropics-claude-for-legal-case-brief"
+        "anthropics-claude-for-legal-case-brief",
+        "24kchengye-human-skill-tree-arts-design-tutor"
       ]
     },
     {
