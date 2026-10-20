@@ -1638,6 +1638,16 @@
       "description": "Coaches GRE quant: comparison tactics, error triage, and timed drills."
     },
     {
+      "name": "24kchengye-human-skill-tree-university-guide",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/24kchengYe/human-skill-tree.git",
+        "path": "skills/02-university-guide",
+        "ref": "master"
+      },
+      "description": "Guides major choice, applications, and university planning for students."
+    },
+    {
       "name": "actionbook-rust-skills-m14-mental-model",
       "source": {
         "source": "git-subdir",
@@ -2178,7 +2188,7 @@
     {
       "name": "college-career-bundle",
       "source": "./bundles/college-career-bundle",
-      "description": "College Applications & Career skills in one install (26 skills).",
+      "description": "College Applications & Career skills in one install (27 skills).",
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
@@ -2205,7 +2215,8 @@
         "jshchnz-claude-jobs",
         "tydev-new-10xcolleges-rec-request",
         "24kchengye-human-skill-tree-k12-exam-systems",
-        "jurgendn-agent-skills-gre-quant-coach"
+        "jurgendn-agent-skills-gre-quant-coach",
+        "24kchengye-human-skill-tree-university-guide"
       ]
     },
     {
