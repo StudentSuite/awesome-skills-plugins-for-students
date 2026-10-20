@@ -60,11 +60,11 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | --- | :-: | --- |
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
 | Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
-| Coding & CS Education | 33 | `claude plugin install coding-cs-bundle` |
+| Coding & CS Education | 34 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 23 | `claude plugin install stem-bundle` |
-| Writing & Humanities | 26 | `claude plugin install writing-humanities-bundle` |
-| Language Learning | 19 | `claude plugin install language-learning-bundle` |
-| College Applications & Career | 26 | `claude plugin install college-career-bundle` |
+| Writing & Humanities | 27 | `claude plugin install writing-humanities-bundle` |
+| Language Learning | 18 | `claude plugin install language-learning-bundle` |
+| College Applications & Career | 27 | `claude plugin install college-career-bundle` |
 | Google Workspace for Students | 20 | `claude plugin install google-workspace-bundle`¹ |
 
 Every 🔑 entry (needs a paid API key or separate account) is excluded from
@@ -96,11 +96,11 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
-| 💻 | [Coding & CS Education](#coding--cs-education) | 33 skills |
+| 💻 | [Coding & CS Education](#coding--cs-education) | 34 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 26 skills |
-| ✍️ | [Writing & Humanities](#writing--humanities) | 26 skills |
-| 🗣️ | [Language Learning](#language-learning) | 19 skills |
-| 🎓 | [College Applications & Career](#college-applications--career) | 26 skills |
+| ✍️ | [Writing & Humanities](#writing--humanities) | 27 skills |
+| 🗣️ | [Language Learning](#language-learning) | 18 skills |
+| 🎓 | [College Applications & Career](#college-applications--career) | 27 skills |
 | 🔵 | [Google Workspace for Students](#google-workspace-for-students) | 20 skills |
 | 🧩 | [Plugins](#plugins) | 31 plugins |
 
@@ -186,7 +186,7 @@ Three entries generate exam-prep material with no prior note on how they differ.
 Algorithm and debugging explainers, learn-to-code starters, and CS project tooling.
 
 <details open>
-<summary>Show 33 skills</summary>
+<summary>Show 34 skills</summary>
 
 - **[0xsarwagya/ontoly](https://github.com/0xsarwagya/ontoly)** - Maps codebases into graph-backed architecture evidence.
 - **[actionbook/rust-skills - m14-mental-model](https://github.com/actionbook/rust-skills/tree/main/skills/m14-mental-model)** - Explains Rust ownership and borrowing with analogies, for learners coming from other languages.
@@ -213,6 +213,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[muhcihan/tinkercad-blockly-arduino-skill](https://github.com/muhcihan/tinkercad-blockly-arduino-skill)** - Translates Tinkercad Blockly to Arduino C and drafts beginner circuits.
 - **[NickCrew/Claude-Cortex - regex-master](https://github.com/NickCrew/Claude-Cortex/tree/main/skills/regex-master)** - Builds, explains, and debugs regular expressions token by token.
 - **[openai/jupyter-notebook](https://officialskills.sh/openai/skills/jupyter-notebook)** - Creates clean, reproducible Jupyter notebooks for experiments and tutorials, essential for data science coursework.
+- **[Project-A-L-I-C-E/Skills-ADHD-mentor - adhd-comp-arch-tutor](https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor/tree/main/skills/adhd-comp-arch-tutor)** - Tutors RISC-V computer architecture one layer at a time.
 - **[rwgb/vibe-guardrails - save-points](https://github.com/rwgb/vibe-guardrails/tree/main/skills/save-points)** - Teaches git commits and branches from zero as project save points.
 - **[shauryagangrade/intent-drift-skill](https://github.com/shauryagangrade/intent-drift-skill)** - Detects when AI-assisted coding drifts from the original goal and prompts you to re-align.
 - **[sickn33/agentic-awesome-skills - code-documentation-code-explain](https://github.com/sickn33/agentic-awesome-skills/tree/main/skills/code-documentation-code-explain)** - Explains complex code through narratives, visual diagrams, and step-by-step breakdowns.
@@ -271,8 +272,9 @@ Essay structuring, academic research, and literature analysis. See [Language Lea
 Four entries overlap on planning and drafting a paper with no prior note on how they differ. **kgraph57/paper-writer-skill** is scoped to IMRAD-structured scientific manuscripts — lab reports and write-ups with a fixed intro/methods/results/discussion shape. **Master-cai/Research-Paper-Writing-Skills** is a general-purpose planning-and-writing package for a research paper, not tied to one structure. **lishix520/academic-paper-skills** covers the same ground but adds reviewer-simulated quality checkpoints at each stage, for when you want the draft pressure-tested as you go. **tizzy916/humanities-writing-companion** is for humanities writing specifically, guiding the process from research question through revision rather than a lab-report format.
 
 <details open>
-<summary>Show 26 skills</summary>
+<summary>Show 27 skills</summary>
 
+- **[24kchengYe/human-skill-tree - arts-design-tutor](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-arts-design-tutor)** - Teaches art history, visual analysis, and design principles through critique.
 - **[24kchengYe/human-skill-tree - business-economics-tutor](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-business-economics-tutor)** - Tutors micro/macroeconomics and business cases with graphs and real-world anchors.
 - **[anthropics/claude-for-legal - case-brief](https://github.com/anthropics/claude-for-legal/tree/main/law-student/skills/case-brief)** - Scaffolds law-student case briefs, making you state the holding first.
 - **[basicmachines-co/basic-memory - memory-literary-analysis](https://github.com/basicmachines-co/basic-memory/tree/main/skills/memory-literary-analysis)** - Analyzes literary works into a searchable knowledge graph.
@@ -323,6 +325,7 @@ Translation practice, vocabulary drilling, and grammar correction in a target (n
 - **[LuchoBazz/skills - ielts-listening-generator](https://github.com/LuchoBazz/skills/tree/main/skills/ielts-listening-generator)** - Generates IELTS-style listening transcripts and audio configs for practice.
 - **[m98/fluent](https://github.com/m98/fluent)** - Drills vocabulary and corrects target-language writing using spaced repetition.
 - **[mpuche3/ipa-transcribe](https://github.com/mpuche3/ipa-transcribe)** - Transcribes English text into stress-marked IPA to teach precise pronunciation.
+- **[Project-A-L-I-C-E/Skills-ADHD-mentor - adhd-language-tutor](https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor/tree/main/skills/adhd-language-tutor)** - Explains GRE and TOEFL vocabulary through word roots and dialogue.
 - **[Santimator/x3-suite - graded-reader](https://github.com/Santimator/x3-suite/tree/main/ai-tools/graded-reader)** - Writes HSK-leveled Chinese graded readers chapter by chapter with vocabulary validation.
 - **[SkillMedev/skills - language-learning](https://github.com/SkillMedev/skills/tree/main/skills/language-learning)** - Plans language study with mandatory shadowing and early speaking practice.
 - **[Tashamet/portuguese-brasil-tutor](https://github.com/Tashamet/portuguese-brasil-tutor)** - Teaches Brazilian Portuguese with audio lessons and spaced-repetition review.
@@ -344,9 +347,10 @@ Personal-statement tools overlap here too. To pick one: **Academic-Essay-Reviewe
 Several resume tools overlap here. To pick one: **tailored-resume-generator** and **resume-tailoring-skill** do plain tailoring to a single job description; **ResumeSkills** adds ATS-compatibility scoring and interview prep; **career-ops** wraps a full job-search workflow that also scores listings and tracks applications; **resume-tailor-plugin** (under [Plugins](#plugins)) is the same tailoring packaged as a full Claude Code plugin rather than a single skill; and **danielrosehill/Claude-Career-Plugin** (also under [Plugins](#plugins)) bundles resume, cover-letter, and interview-prep commands into one broader career-operations plugin.
 
 <details open>
-<summary>Show 26 skills</summary>
+<summary>Show 27 skills</summary>
 
 - **[24kchengYe/human-skill-tree - k12-exam-systems](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-exam-systems)** - Coaches SAT, ACT, AP, and IB exam strategy with error analysis and study plans.
+- **[24kchengYe/human-skill-tree - university-guide](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-university-guide)** - Guides major choice, applications, and university planning for students.
 - **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[borghei/Claude-Skills - research/grants](https://github.com/borghei/Claude-Skills/tree/main/research/grants)** - Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate.
 - **[Canhada-Labs/ceo-orchestration - study-abroad-advisory](https://github.com/Canhada-Labs/ceo-orchestration/tree/main/.claude/skills/domains/edtech/skills/study-abroad-advisory)** - Advises on study-abroad destinations, school lists, essays, and visa prep.
