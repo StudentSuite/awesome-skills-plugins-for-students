@@ -1826,6 +1826,16 @@
       "description": "Teaches decomposition, pattern recognition, abstraction, and algorithm design."
     },
     {
+      "name": "vostride-agent-qa-agent-qa-authoring",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/vostride/agent-qa.git",
+        "path": "skills/agent-qa-authoring",
+        "ref": "main"
+      },
+      "description": "Authors web and mobile regression tests for CS projects."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -2146,7 +2156,7 @@
     {
       "name": "coding-cs-bundle",
       "source": "./bundles/coding-cs-bundle",
-      "description": "Coding & CS Education skills in one install (35 skills).",
+      "description": "Coding & CS Education skills in one install (36 skills).",
       "dependencies": [
         "0xsarwagya-ontoly",
         "aidankinzett-claude-git-pr-skill",
@@ -2182,7 +2192,8 @@
         "xper1os-java-tutor",
         "ibtihal2-smart-code-tutor",
         "project-a-l-i-c-e-skills-adhd-mentor-adhd-comp-arch-tutor",
-        "tibsfox-gsd-skill-creator-computational-thinking"
+        "tibsfox-gsd-skill-creator-computational-thinking",
+        "vostride-agent-qa-agent-qa-authoring"
       ]
     },
     {
