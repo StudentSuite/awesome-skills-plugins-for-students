@@ -2394,5 +2394,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "vostride/agent-qa - agent-qa-authoring",
+    "url": "https://github.com/vostride/agent-qa/tree/main/skills/agent-qa-authoring",
+    "description": "Authors web and mobile regression tests for CS projects.",
+    "category": "Coding & CS Education",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
