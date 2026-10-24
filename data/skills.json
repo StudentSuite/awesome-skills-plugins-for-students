@@ -2406,5 +2406,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "InvisCat/mnemonic-skill",
+    "url": "https://github.com/InvisCat/mnemonic-skill",
+    "description": "Builds personal phonetic mnemonics to help remember hard vocabulary.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

@@ -1836,6 +1836,14 @@
       "description": "Authors web and mobile regression tests for CS projects."
     },
     {
+      "name": "inviscat-mnemonic-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/InvisCat/mnemonic-skill.git"
+      },
+      "description": "Builds personal phonetic mnemonics to help remember hard vocabulary."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -2122,7 +2130,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (27 skills; 3 paid-key skills excluded, install separately).",
+      "description": "Study & Productivity skills in one install (28 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
@@ -2150,7 +2158,8 @@
         "jeromewang6066-syllabus-reader-skill",
         "kleinpanic-canvas-lms",
         "zyx1121-i-have-dyslexia",
-        "thiagoigfraga-active-reading-adhd-audhd"
+        "thiagoigfraga-active-reading-adhd-audhd",
+        "inviscat-mnemonic-skill"
       ]
     },
     {

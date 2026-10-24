@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-201-blue)
+![Skills](https://img.shields.io/badge/skills-202-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -59,7 +59,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | Bundle | Skills | Install |
 | --- | :-: | --- |
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
-| Study & Productivity | 27 | `claude plugin install study-productivity-bundle` |
+| Study & Productivity | 28 | `claude plugin install study-productivity-bundle` |
 | Coding & CS Education | 36 | `claude plugin install coding-cs-bundle` |
 | STEM Subjects | 24 | `claude plugin install stem-bundle` |
 | Writing & Humanities | 29 | `claude plugin install writing-humanities-bundle` |
@@ -95,7 +95,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | | Section | Count |
 | :-: | --- | :-: |
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
-| 🗂️ | [Study & Productivity](#study--productivity) | 30 skills |
+| 🗂️ | [Study & Productivity](#study--productivity) | 31 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 36 skills |
 | 🔬 | [STEM Subjects](#stem-subjects) | 27 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 29 skills |
@@ -144,7 +144,7 @@ Several spaced-repetition study tools overlap here. To pick one: **hluaguo/learn
 Three entries generate exam-prep material with no prior note on how they differ. **sickn33/agentic-awesome-skills - examprep-ai** (this section) ranks syllabus topics into a scored roadmap with MCQs and question prediction; **pinakdhabu/Exam-prompt** (this section) generates exam answers, notes, and study plans for any university; and **HashemALSKKkAF/exam-prep-mcq** (under [Google Workspace for Students](#google-workspace-for-students)) turns study material into an MCQ quiz delivered as a Google Form.
 
 <details open>
-<summary>Show 30 skills</summary>
+<summary>Show 31 skills</summary>
 
 - **[0x-man/mindmap-skill](https://github.com/0x-man/mindmap-skill)** - Generates interactive mind maps and concept maps from notes, topics, or documents.
 - **[Agents365-ai/zotero-cli-ai - zotero-cli](https://github.com/Agents365-ai/zotero-cli-ai/tree/main/skill/zotero-cli)** - 🔑 Imports, organizes, tags, and generates bibliographies from a Zotero library.
@@ -157,6 +157,7 @@ Three entries generate exam-prep material with no prior note on how they differ.
 - **[eddiebelaval/squire - habit-tracker](https://github.com/eddiebelaval/squire/tree/main/skills/habit-tracker)** - Builds habits and tracks streaks using behavioral-science techniques.
 - **[finewood2008/centaurai-team - team-project-tracker](https://github.com/finewood2008/centaurai-team/tree/team/skills/builtin/team/team-project-tracker)** - Tracks a group project's tasks, owners, and deadlines on a shared markdown kanban board.
 - **[hluaguo/learn-faster-kit](https://github.com/hluaguo/learn-faster-kit)** - AI learning coach with spaced repetition, syllabi, and progress tracking.
+- **[InvisCat/mnemonic-skill](https://github.com/InvisCat/mnemonic-skill)** - Builds personal phonetic mnemonics to help remember hard vocabulary.
 - **[jakedahn/pomodoro](https://github.com/jakedahn/pomodoro)** - Pomodoro timer skill that tracks and learns from your focus sessions.
 - **[Jellypod-Inc/school-skills - lecture-to-study-guide](https://github.com/Jellypod-Inc/school-skills/tree/main/skills/lecture-to-study-guide)** - Turns lecture notes and slides into a structured study guide.
 - **[JeromeWang6066/syllabus-reader-skill](https://github.com/JeromeWang6066/syllabus-reader-skill)** - Extracts syllabus deadlines, flags workload collisions, and exports an ICS calendar.
