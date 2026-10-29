@@ -7,134 +7,145 @@
 //   - section and badge counts match the actual number of entries
 
 import { readFileSync } from 'node:fs';
+import { resolve } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { validateCountDeclarations } from './check-counts.mjs';
 import { validateMarkers } from './check-markers.mjs';
 
 const README_PATH = new URL('../README.md', import.meta.url);
-const readme = readFileSync(README_PATH, 'utf8');
-const lines = readme.split('\n');
 
-const errors = [];
-errors.push(...validateCountDeclarations(readme));
-
-function slugify(text) {
+export function slugify(text) {
   return text
     .toLowerCase()
     .replace(/[^a-z0-9 -]/g, '')
     .replace(/ /g, '-');
 }
 
-function compareNames(a, b) {
+export function compareNames(a, b) {
   const al = a.toLowerCase();
   const bl = b.toLowerCase();
   return al < bl ? -1 : al > bl ? 1 : 0;
 }
 
-// --- Parse headings and resource-list blocks (the "<details>...</details>" sections) ---
-const h2Headings = [];
-let currentHeading = null;
-let currentItems = [];
-let inDetails = false;
-const blocks = [];
+// Runs every README.md check and returns the error messages (empty when the file is valid).
+export function checkListFormat(readme) {
+  const lines = readme.split('\n');
 
-function flushBlock() {
-  if (currentItems.length) blocks.push({ heading: currentHeading, items: currentItems });
-  currentItems = [];
-}
+  const errors = [];
+  errors.push(...validateCountDeclarations(readme));
 
-for (let i = 0; i < lines.length; i++) {
-  const line = lines[i];
-  const h2 = line.match(/^## (.+)/);
-  const h3 = line.match(/^### (.+)/);
-  if (h2) {
-    flushBlock();
-    currentHeading = h2[1].trim();
-    h2Headings.push({ text: currentHeading, line: i + 1 });
-    continue;
-  }
-  if (h3) {
-    flushBlock();
-    currentHeading = h3[1].trim();
-    continue;
-  }
-  if (line.startsWith('<details')) {
-    inDetails = true;
-    continue;
-  }
-  if (line.startsWith('</details>')) {
-    inDetails = false;
-    continue;
-  }
-  if (!inDetails) continue;
+  // --- Parse headings and resource-list blocks (the "<details>...</details>" sections) ---
+  const h2Headings = [];
+  let currentHeading = null;
+  let currentItems = [];
+  let inDetails = false;
+  const blocks = [];
 
-  if (line.startsWith('- ')) {
-    if (!/^- \*\*\[.+?\]\(.+?\)\*\* - .+\.$/.test(line)) {
-      errors.push(
-        `README.md:${i + 1}  Entry doesn't match "- **[Name](url)** - Description." format\n    ${line}`
-      );
+  function flushBlock() {
+    if (currentItems.length) blocks.push({ heading: currentHeading, items: currentItems });
+    currentItems = [];
+  }
+
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+    const h2 = line.match(/^## (.+)/);
+    const h3 = line.match(/^### (.+)/);
+    if (h2) {
+      flushBlock();
+      currentHeading = h2[1].trim();
+      h2Headings.push({ text: currentHeading, line: i + 1 });
       continue;
     }
-    const item = line.match(/^- \*\*\[(.+?)\]\((.+?)\)\*\*\s*-\s*(.+)$/);
-    currentItems.push({ name: item[1], url: item[2], description: item[3], line: i + 1 });
-  }
-}
-flushBlock();
+    if (h3) {
+      flushBlock();
+      currentHeading = h3[1].trim();
+      continue;
+    }
+    if (line.startsWith('<details')) {
+      inDetails = true;
+      continue;
+    }
+    if (line.startsWith('</details>')) {
+      inDetails = false;
+      continue;
+    }
+    if (!inDetails) continue;
 
-// --- Rule: alphabetical order + no duplicate URLs within each list ---
-for (const block of blocks) {
-  const names = block.items.map((it) => it.name);
-  const sorted = [...names].sort(compareNames);
-  if (JSON.stringify(sorted) !== JSON.stringify(names)) {
-    errors.push(
-      `Section "${block.heading}"  Entries are not alphabetically sorted (case-insensitive).\n` +
-        `    got:  ${names.join(', ')}\n` +
-        `    want: ${sorted.join(', ')}`
+    if (line.startsWith('- ')) {
+      if (!/^- \*\*\[.+?\]\(.+?\)\*\* - .+\.$/.test(line)) {
+        errors.push(
+          `README.md:${i + 1}  Entry doesn't match "- **[Name](url)** - Description." format\n    ${line}`
+        );
+        continue;
+      }
+      const item = line.match(/^- \*\*\[(.+?)\]\((.+?)\)\*\*\s*-\s*(.+)$/);
+      currentItems.push({ name: item[1], url: item[2], description: item[3], line: i + 1 });
+    }
+  }
+  flushBlock();
+
+  // --- Rule: alphabetical order + no duplicate URLs within each list ---
+  for (const block of blocks) {
+    const names = block.items.map((it) => it.name);
+    const sorted = [...names].sort(compareNames);
+    if (JSON.stringify(sorted) !== JSON.stringify(names)) {
+      errors.push(
+        `Section "${block.heading}"  Entries are not alphabetically sorted (case-insensitive).\n` +
+          `    got:  ${names.join(', ')}\n` +
+          `    want: ${sorted.join(', ')}`
+      );
+    }
+
+    const seenUrls = new Map();
+    for (const item of block.items) {
+      if (seenUrls.has(item.url)) {
+        errors.push(`README.md:${item.line}  Duplicate URL within "${block.heading}": ${item.url}`);
+      }
+      seenUrls.set(item.url, item.line);
+    }
+  }
+
+  // --- Rule: 🔑/🌐 markers, when present, are well-formed (see CONTRIBUTING.md) ---
+  errors.push(...validateMarkers(blocks.flatMap((block) => block.items)));
+
+  // --- Rule: Table of Contents matches section headings ---
+  const tocStart = lines.findIndex((l) => l.trim() === '## Table of Contents');
+  const tocEnd = lines.findIndex((l, i) => i > tocStart && l.startsWith('## '));
+  const tocLines = lines.slice(tocStart + 1, tocEnd);
+  // The ToC can be a bullet list, a table, or a line of "·"-separated links, so scan for
+  // every markdown link that points at an in-page anchor rather than assuming one shape.
+  const tocEntries = [...tocLines.join('\n').matchAll(/\[(.+?)\]\(#(.+?)\)/g)].map((m) => ({
+    text: m[1],
+    slug: m[2],
+  }));
+
+  const realHeadings = h2Headings.filter((h) => h.text !== 'Table of Contents');
+
+  for (const heading of realHeadings) {
+    const slug = slugify(heading.text);
+    if (!tocEntries.some((t) => t.slug === slug)) {
+      errors.push(`README.md:${heading.line}  Section "${heading.text}" is missing from the Table of Contents.`);
+    }
+  }
+  for (const entry of tocEntries) {
+    if (!realHeadings.some((h) => slugify(h.text) === entry.slug)) {
+      errors.push(`Table of Contents entry "${entry.text}" (#${entry.slug}) doesn't match any section heading.`);
+    }
+  }
+
+  return errors;
+}
+
+// CLI entry point: only runs when executed directly, so tests can import the checks.
+if (process.argv[1] && fileURLToPath(import.meta.url) === resolve(process.argv[1])) {
+  const errors = checkListFormat(readFileSync(README_PATH, 'utf8'));
+  if (errors.length) {
+    console.error(`✖ ${errors.length} issue(s) found:\n`);
+    for (const e of errors) console.error(`  ${e}\n`);
+    process.exit(1);
+  } else {
+    console.log(
+      '✔ README.md list format, alphabetical order, Table of Contents, and counts all check out.'
     );
   }
-
-  const seenUrls = new Map();
-  for (const item of block.items) {
-    if (seenUrls.has(item.url)) {
-      errors.push(`README.md:${item.line}  Duplicate URL within "${block.heading}": ${item.url}`);
-    }
-    seenUrls.set(item.url, item.line);
-  }
-}
-
-// --- Rule: 🔑/🌐 markers, when present, are well-formed (see CONTRIBUTING.md) ---
-errors.push(...validateMarkers(blocks.flatMap((block) => block.items)));
-
-// --- Rule: Table of Contents matches section headings ---
-const tocStart = lines.findIndex((l) => l.trim() === '## Table of Contents');
-const tocEnd = lines.findIndex((l, i) => i > tocStart && l.startsWith('## '));
-const tocLines = lines.slice(tocStart + 1, tocEnd);
-// The ToC can be a bullet list, a table, or a line of "·"-separated links, so scan for
-// every markdown link that points at an in-page anchor rather than assuming one shape.
-const tocEntries = [...tocLines.join('\n').matchAll(/\[(.+?)\]\(#(.+?)\)/g)].map((m) => ({
-  text: m[1],
-  slug: m[2],
-}));
-
-const realHeadings = h2Headings.filter((h) => h.text !== 'Table of Contents');
-
-for (const heading of realHeadings) {
-  const slug = slugify(heading.text);
-  if (!tocEntries.some((t) => t.slug === slug)) {
-    errors.push(`README.md:${heading.line}  Section "${heading.text}" is missing from the Table of Contents.`);
-  }
-}
-for (const entry of tocEntries) {
-  if (!realHeadings.some((h) => slugify(h.text) === entry.slug)) {
-    errors.push(`Table of Contents entry "${entry.text}" (#${entry.slug}) doesn't match any section heading.`);
-  }
-}
-
-if (errors.length) {
-  console.error(`✖ ${errors.length} issue(s) found:\n`);
-  for (const e of errors) console.error(`  ${e}\n`);
-  process.exit(1);
-} else {
-  console.log(
-    '✔ README.md list format, alphabetical order, Table of Contents, and counts all check out.'
-  );
 }
