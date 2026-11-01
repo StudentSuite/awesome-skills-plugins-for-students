@@ -2418,5 +2418,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "K-Dense-AI/scientific-agent-skills - uncertainty-and-units",
+    "url": "https://github.com/K-Dense-AI/scientific-agent-skills/tree/main/skills/uncertainty-and-units",
+    "description": "Propagates measurement uncertainty and checks units in lab calculations.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
