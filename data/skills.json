@@ -2430,5 +2430,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "24kchengYe/human-skill-tree - medical-health-tutor",
+    "url": "https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-medical-health-tutor",
+    "description": "Tutors anatomy, physiology, and pharmacology through case-based clinical reasoning.",
+    "category": "STEM Subjects",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]

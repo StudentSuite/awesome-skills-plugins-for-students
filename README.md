@@ -11,7 +11,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-![Skills](https://img.shields.io/badge/skills-203-blue)
+![Skills](https://img.shields.io/badge/skills-204-blue)
 ![Plugins](https://img.shields.io/badge/plugins-31-purple)
 [![Changelog](https://img.shields.io/badge/changelog-v1.1.0-lightgrey.svg)](CHANGELOG.md)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%E2%9C%93-orange)
@@ -61,7 +61,7 @@ by its slug in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.js
 | IB & IGCSE Coursework | 11 | `claude plugin install ib-igcse-bundle` |
 | Study & Productivity | 28 | `claude plugin install study-productivity-bundle` |
 | Coding & CS Education | 36 | `claude plugin install coding-cs-bundle` |
-| STEM Subjects | 25 | `claude plugin install stem-bundle` |
+| STEM Subjects | 26 | `claude plugin install stem-bundle` |
 | Writing & Humanities | 29 | `claude plugin install writing-humanities-bundle` |
 | Language Learning | 20 | `claude plugin install language-learning-bundle` |
 | College Applications & Career | 27 | `claude plugin install college-career-bundle` |
@@ -97,7 +97,7 @@ see [CONTRIBUTING.md](CONTRIBUTING.md#install-bundles) for how it's kept in sync
 | 📚 | [IB & IGCSE Coursework](#ib--igcse-coursework) | 11 skills |
 | 🗂️ | [Study & Productivity](#study--productivity) | 31 skills |
 | 💻 | [Coding & CS Education](#coding--cs-education) | 36 skills |
-| 🔬 | [STEM Subjects](#stem-subjects) | 28 skills |
+| 🔬 | [STEM Subjects](#stem-subjects) | 29 skills |
 | ✍️ | [Writing & Humanities](#writing--humanities) | 29 skills |
 | 🗣️ | [Language Learning](#language-learning) | 20 skills |
 | 🎓 | [College Applications & Career](#college-applications--career) | 27 skills |
@@ -235,10 +235,11 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 Math, physics, chemistry, and data analysis helpers.
 
 <details open>
-<summary>Show 28 skills</summary>
+<summary>Show 29 skills</summary>
 
 - **[24kchengYe/human-skill-tree - k12-mathematics](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-mathematics)** - Tutors K-12 math with AP Calculus, IB Math, SAT, and A-Level exam strategies.
 - **[24kchengYe/human-skill-tree - k12-sciences](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-sciences)** - Tutors K-12 physics, chemistry, and biology through Socratic, inquiry-based questioning.
+- **[24kchengYe/human-skill-tree - medical-health-tutor](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-medical-health-tutor)** - Tutors anatomy, physiology, and pharmacology through case-based clinical reasoning.
 - **[abelsr/Computational-Physics](https://github.com/abelsr/Computational-Physics)** - Solves physics problems with Python and Jupyter notebooks, from mechanics to electromagnetism.
 - **[beita6969/ScienceClaw - neuroscience](https://github.com/beita6969/ScienceClaw/tree/main/skills/neuroscience)** - Guides neuroscience research: brain imaging, neural modeling, cognitive experiments.
 - **[cdmorozov/claude-tutors - math-tutor](https://github.com/cdmorozov/claude-tutors/tree/main/math-tutor)** - Explains math, probability, and statistics concepts directly, then guides practice.
