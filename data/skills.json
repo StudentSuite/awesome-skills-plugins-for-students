@@ -2326,13 +2326,15 @@
     ]
   },
   {
-    "name": "dvdksn/learn-docker",
-    "url": "https://github.com/dvdksn/learn-docker",
-    "description": "Teaches Docker hands-on, from first container to Compose.",
+    "name": "ericboy0224/learn-docker-and-k8s",
+    "url": "https://github.com/ericboy0224/learn-docker-and-k8s",
+    "description": "Teaches Docker, Linux, networking and Kubernetes through an interactive game.",
     "category": "Coding & CS Education",
     "marker": null,
     "supported_tools": [
-      "claude-code"
+      "claude-code",
+      "cursor",
+      "copilot"
     ]
   },
   {

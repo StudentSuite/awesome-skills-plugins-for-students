@@ -8,6 +8,10 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Replaced (2026-11-02)
+
+- `dvdksn/learn-docker` is replaced by `ericboy0224/learn-docker-and-k8s` (Coding & CS Education). The original is archived on GitHub (read-only since 2026-02), as the monthly repo audit reported in #338. The replacement is an interactive learning game in which the AI acts as a mentor through seven chapters: containers, image optimisation, persistence, networking (DNS, bridge networks), Compose, and two Kubernetes chapters. It ships Claude Code skills plus Cursor and Copilot rules (a Gemini file is present but was not tested); MIT per its README, 508 stars, last pushed 2026-03-27, and not run end to end. It covers more than the old entry (Linux and Kubernetes too), so the description changed. Closes #338.
+
 ### Added (2026-10-17 issue-clearing pass)
 
 - `thiagoigfraga/active-reading-adhd-audhd` (Study & Productivity) - an active-reading coach (advance organizer, chunking with recall-before-reveal, Feynman consolidation, spaced flashcards). Written for ADHD/AuDHD readers but usable for any dense textbook or paper; young repo with no stars, not run end to end. Closes #310.
