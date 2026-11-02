@@ -81,10 +81,10 @@
       "description": "Reviews Common App and UC personal statements via a simulated admissions committee."
     },
     {
-      "name": "anaydhawan-oss-launch",
+      "name": "creativeslibrary-oss-launch",
       "source": {
         "source": "url",
-        "url": "https://github.com/AnayDhawan/oss-launch.git"
+        "url": "https://github.com/CreativesLibrary/oss-launch.git"
       },
       "description": "Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal."
     },
@@ -800,10 +800,10 @@
       "description": "🌐 Finds fully-funded scholarships and matching professors scored against your grades."
     },
     {
-      "name": "santifer-career-ops",
+      "name": "career-ops-hq-career-ops",
       "source": {
         "source": "url",
-        "url": "https://github.com/santifer/career-ops.git"
+        "url": "https://github.com/career-ops-hq/career-ops.git"
       },
       "description": "Scores job listings, tailors resumes, and tracks applications for a job search."
     },
@@ -986,20 +986,20 @@
       "description": "Plans language study with mandatory shadowing and early speaking practice."
     },
     {
-      "name": "jimmytoluene-skill-adhd-healer-adhd-algorithms-tutor",
+      "name": "project-a-l-i-c-e-skills-adhd-mentor-adhd-algorithms-tutor",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/JimmyToluene/Skill-ADHD-Healer.git",
+        "url": "https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor.git",
         "path": "skills/adhd-algorithms-tutor",
         "ref": "main"
       },
       "description": "Explains algorithms and Big-O complexity one concept at a time."
     },
     {
-      "name": "jimmytoluene-skill-adhd-healer-adhd-presentation-coach",
+      "name": "project-a-l-i-c-e-skills-adhd-mentor-adhd-presentation-coach",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/JimmyToluene/Skill-ADHD-Healer.git",
+        "url": "https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor.git",
         "path": "skills/adhd-presentation-coach",
         "ref": "main"
       },
@@ -1490,10 +1490,10 @@
       "description": "Generates IELTS-style listening transcripts and audio configs for practice."
     },
     {
-      "name": "watashi-00-drive-organizer-agent",
+      "name": "ai-tollings-drive-organizer-agent",
       "source": {
         "source": "url",
-        "url": "https://github.com/watashi-00/drive-organizer-agent.git"
+        "url": "https://github.com/ai-tollings/drive-organizer-agent.git"
       },
       "description": "Organizes Google Drive into folders via a local CLI with dry-run moves."
     },
@@ -1582,10 +1582,10 @@
       "description": "🔑 Transcribes handwritten notes from images and PDFs into editable text."
     },
     {
-      "name": "ahmtsahin-deutsch-dna",
+      "name": "ahmtsahin-deutsch-loop",
       "source": {
         "source": "url",
-        "url": "https://github.com/ahmtsahin/deutsch-dna.git"
+        "url": "https://github.com/ahmtsahin/deutsch-loop.git"
       },
       "description": "Tutors German and files each mistake by root cause for spaced review."
     },
@@ -2205,7 +2205,7 @@
         "shauryagangrade-intent-drift-skill",
         "sickn33-agentic-awesome-skills-code-documentation-code-explain",
         "zarazhangrui-codebase-to-course",
-        "jimmytoluene-skill-adhd-healer-adhd-algorithms-tutor",
+        "project-a-l-i-c-e-skills-adhd-mentor-adhd-algorithms-tutor",
         "rwgb-vibe-guardrails-save-points",
         "danielpodolsky-ownyourcode-database-fundamentals",
         "nickcrew-claude-cortex-regex-master",
@@ -2277,7 +2277,7 @@
         "wentorai-research-claw-citation-styles",
         "wentorai-research-plugins-history-research-guide",
         "xwmxcz-papers-skill",
-        "jimmytoluene-skill-adhd-healer-adhd-presentation-coach",
+        "project-a-l-i-c-e-skills-adhd-mentor-adhd-presentation-coach",
         "gnurio-nurijanian-skills-rulebook-for-arguments",
         "onewave-ai-claude-skills-debate-simulator",
         "haowjy-creative-writing-skills-creative-writing-modes",
@@ -2314,7 +2314,7 @@
         "24kchengye-human-skill-tree-k12-languages",
         "yanzhanlin-ielts-claude-skills",
         "luchobazz-skills-ielts-listening-generator",
-        "ahmtsahin-deutsch-dna",
+        "ahmtsahin-deutsch-loop",
         "tashamet-portuguese-brasil-tutor",
         "ahmeddabak-claude-arabic-writing",
         "project-a-l-i-c-e-skills-adhd-mentor-adhd-language-tutor",
@@ -2328,7 +2328,7 @@
       "dependencies": [
         "espindolavinicius-linkedin-growth-skill",
         "fronkt-academic-essay-reviewer",
-        "anaydhawan-oss-launch",
+        "creativeslibrary-oss-launch",
         "borghei-claude-skills-research-grants",
         "composiohq-awesome-claude-skills-domain-name-brainstormer",
         "composiohq-awesome-claude-skills-tailored-resume-generator",
@@ -2336,7 +2336,7 @@
         "kevinryan-au-claude-cover-letter",
         "paramchoudhary-resumeskills",
         "rx290-grant-compass",
-        "santifer-career-ops",
+        "career-ops-hq-career-ops",
         "shauryagangrade-scout-issue",
         "sourikduttanyu-interview-prep",
         "varunr89-resume-tailoring-skill",
@@ -2379,7 +2379,7 @@
         "openclaw-gogcli-gog-photos",
         "omriariav-workspace-cli-gws-groups",
         "minicoohei-ai-agent-camp-gas-clasp-ops",
-        "watashi-00-drive-organizer-agent",
+        "ai-tollings-drive-organizer-agent",
         "jpmalich-google-sites-architect"
       ]
     }

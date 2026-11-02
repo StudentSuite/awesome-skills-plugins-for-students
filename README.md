@@ -204,7 +204,6 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[fn-jakubkarp/dsa-tutor](https://github.com/fn-jakubkarp/dsa-tutor)** - Tutors data structures and algorithms fundamentals with staged hints, not spoilers.
 - **[hmohamed01/SQL-Expert](https://github.com/hmohamed01/SQL-Expert)** - Guides writing, optimizing, and debugging T-SQL queries, good for SQL coursework practice.
 - **[ibtihal2/smart-code-tutor](https://github.com/ibtihal2/smart-code-tutor)** - Tutors Python, Java, and C++ with hint ladders in Arabic, Hebrew, or English.
-- **[JimmyToluene/Skill-ADHD-Healer - adhd-algorithms-tutor](https://github.com/JimmyToluene/Skill-ADHD-Healer/tree/main/skills/adhd-algorithms-tutor)** - Explains algorithms and Big-O complexity one concept at a time.
 - **[karanb192/algo-sensei](https://github.com/karanb192/algo-sensei)** - Generates LeetCode-style problems with progressive hints and mock interviews.
 - **[kirilxd/claude-tutor](https://github.com/kirilxd/claude-tutor)** - Personal tutor with adaptive quizzes and SM-2 spaced repetition.
 - **[mattpocock/skills - diagnosing-bugs](https://github.com/mattpocock/skills/tree/main/skills/engineering/diagnosing-bugs)** - Disciplined debug loop: reproduce, minimize, hypothesize, instrument, fix.
@@ -214,6 +213,7 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[muhcihan/tinkercad-blockly-arduino-skill](https://github.com/muhcihan/tinkercad-blockly-arduino-skill)** - Translates Tinkercad Blockly to Arduino C and drafts beginner circuits.
 - **[NickCrew/Claude-Cortex - regex-master](https://github.com/NickCrew/Claude-Cortex/tree/main/skills/regex-master)** - Builds, explains, and debugs regular expressions token by token.
 - **[openai/jupyter-notebook](https://officialskills.sh/openai/skills/jupyter-notebook)** - Creates clean, reproducible Jupyter notebooks for experiments and tutorials, essential for data science coursework.
+- **[Project-A-L-I-C-E/Skills-ADHD-mentor - adhd-algorithms-tutor](https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor/tree/main/skills/adhd-algorithms-tutor)** - Explains algorithms and Big-O complexity one concept at a time.
 - **[Project-A-L-I-C-E/Skills-ADHD-mentor - adhd-comp-arch-tutor](https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor/tree/main/skills/adhd-comp-arch-tutor)** - Tutors RISC-V computer architecture one layer at a time.
 - **[rwgb/vibe-guardrails - save-points](https://github.com/rwgb/vibe-guardrails/tree/main/skills/save-points)** - Teaches git commits and branches from zero as project save points.
 - **[shauryagangrade/intent-drift-skill](https://github.com/shauryagangrade/intent-drift-skill)** - Detects when AI-assisted coding drifts from the original goal and prompts you to re-align.
@@ -294,7 +294,6 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 - **[human-avatar/skills-for-humanity - s4h-writing-rhetoric](https://github.com/human-avatar/skills-for-humanity/tree/main/skills/s4h-writing-rhetoric)** - Analyzes a text's rhetorical situation, appeals, and framing.
 - **[human-avatar/skills-for-humanity - s4h-writing-technical](https://github.com/human-avatar/skills-for-humanity/tree/main/skills/s4h-writing-technical)** - Writes and audits technical documentation for gaps and clarity.
 - **[jamditis/claude-skills-journalism - data-journalism](https://github.com/jamditis/claude-skills-journalism/tree/master/journalism-core/skills/data-journalism)** - Acquires, cleans, analyzes, and verifies data for a news story.
-- **[JimmyToluene/Skill-ADHD-Healer - adhd-presentation-coach](https://github.com/JimmyToluene/Skill-ADHD-Healer/tree/main/skills/adhd-presentation-coach)** - Builds a talk stage by stage, then times the rehearsal.
 - **[kgraph57/paper-writer-skill](https://github.com/kgraph57/paper-writer-skill)** - Drafts IMRAD-structured scientific manuscripts, useful for lab reports and write-ups.
 - **[lishix520/academic-paper-skills](https://github.com/lishix520/academic-paper-skills)** - Plans and drafts academic papers through reviewer-simulated quality checkpoints.
 - **[markpitt/claude-skills - gcse-english-literature-tutor](https://github.com/markpitt/claude-skills/tree/main/skills/gcse-english-literature-tutor)** - Tutors GCSE English Literature essays, including unseen-poetry commentary.
@@ -302,6 +301,7 @@ Four entries overlap on planning and drafting a paper with no prior note on how 
 - **[NeoLabHQ/context-engineering-kit - write-concisely](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/docs/skills/write-concisely)** - Applies *The Elements of Style* principles to tighten essays and cut wordiness.
 - **[OneWave-AI/claude-skills - debate-simulator](https://github.com/OneWave-AI/claude-skills/tree/main/debate-simulator)** - Runs structured debates with opposing personas: openings, rebuttals, cross-exam, closings.
 - **[phuryn/pm-skills - grammar-check](https://github.com/phuryn/pm-skills/tree/main/pm-toolkit/skills/grammar-check)** - Flags grammar, logic, and flow errors with targeted fixes, no full rewrite.
+- **[Project-A-L-I-C-E/Skills-ADHD-mentor - adhd-presentation-coach](https://github.com/Project-A-L-I-C-E/Skills-ADHD-mentor/tree/main/skills/adhd-presentation-coach)** - Builds a talk stage by stage, then times the rehearsal.
 - **[tizzy916/humanities-writing-companion](https://github.com/tizzy916/humanities-writing-companion)** - Guides humanities writing from research question through revision and disclosure.
 - **[UCHIHA-MADARA-ANUJ/CCA-Mun - mun-core-protocol](https://github.com/UCHIHA-MADARA-ANUJ/CCA-Mun/tree/main/skills/01_mun_core_protocol)** - Guides Model UN research, position papers, resolutions, and procedure.
 - **[wentorai/Research-Claw - citation-styles](https://github.com/wentorai/Research-Claw/tree/main/skills/citation-styles)** - Formats in-text citations and reference lists in MLA, APA, and Chicago style.
@@ -324,7 +324,7 @@ Translation practice, vocabulary drilling, and grammar correction in a target (n
 - **[13rianK/japanese-tutor](https://github.com/13rianK/japanese-tutor)** - Runs daily Japanese lessons with vocabulary, grammar, and graded practice.
 - **[24kchengYe/human-skill-tree - k12-languages](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-languages)** - Practices reading, writing, listening, and speaking in a second language.
 - **[ahmeddabak/claude-arabic-writing](https://github.com/ahmeddabak/claude-arabic-writing)** - Writes, translates, and proofreads natural Arabic in MSA and four dialects.
-- **[ahmtsahin/deutsch-dna](https://github.com/ahmtsahin/deutsch-dna)** - Tutors German and files each mistake by root cause for spaced review.
+- **[ahmtsahin/deutsch-loop](https://github.com/ahmtsahin/deutsch-loop)** - Tutors German and files each mistake by root cause for spaced review.
 - **[dinqe/language-tutor](https://github.com/dinqe/language-tutor)** - Diagnoses your level and runs adaptive per-language tutoring sessions with an error ledger.
 - **[gislio/claude-language-tutor](https://github.com/gislio/claude-language-tutor)** - Assesses your CEFR level and runs adaptive lessons in any target language.
 - **[hamsamilton/lang-tutor](https://github.com/hamsamilton/lang-tutor)** - Gives grammar corrections and vocabulary help in your target language.
@@ -359,11 +359,12 @@ Several resume tools overlap here. To pick one: **tailored-resume-generator** an
 
 - **[24kchengYe/human-skill-tree - k12-exam-systems](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/01-k12-exam-systems)** - Coaches SAT, ACT, AP, and IB exam strategy with error analysis and study plans.
 - **[24kchengYe/human-skill-tree - university-guide](https://github.com/24kchengYe/human-skill-tree/tree/master/skills/02-university-guide)** - Guides major choice, applications, and university planning for students.
-- **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[borghei/Claude-Skills - research/grants](https://github.com/borghei/Claude-Skills/tree/main/research/grants)** - Structures a scholarship or grant proposal around fit, narrative, and budget instead of boilerplate.
 - **[Canhada-Labs/ceo-orchestration - study-abroad-advisory](https://github.com/Canhada-Labs/ceo-orchestration/tree/main/.claude/skills/domains/edtech/skills/study-abroad-advisory)** - Advises on study-abroad destinations, school lists, essays, and visa prep.
+- **[career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops)** - Scores job listings, tailors resumes, and tracks applications for a job search.
 - **[ComposioHQ/awesome-claude-skills - domain-name-brainstormer](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/domain-name-brainstormer)** - 🌐 Generates domain name ideas and checks availability across TLDs for side projects.
 - **[ComposioHQ/awesome-claude-skills - tailored-resume-generator](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/tailored-resume-generator)** - Analyzes job descriptions and tailors resumes to highlight relevant experience and skills.
+- **[CreativesLibrary/oss-launch](https://github.com/CreativesLibrary/oss-launch)** - Shipped a side project? Scaffold the OSS launch files (README/LICENSE/CI/launch plan) and use it as application signal.
 - **[davila7/claude-code-templates - interactive-portfolio](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/interactive-portfolio)** - Scaffolds a personal portfolio or project website to link from applications.
 - **[davila7/claude-code-templates - salary-negotiation-prep](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/career/salary-negotiation-prep)** - Researches market pay and drafts a salary negotiation or counter-offer script.
 - **[espindolavinicius/linkedin-growth-skill](https://github.com/espindolavinicius/linkedin-growth-skill)** - Audits and rewrites LinkedIn profiles into a monthly content calendar.
@@ -377,7 +378,6 @@ Several resume tools overlap here. To pick one: **tailored-resume-generator** an
 - **[noamseg/interview-coach-skill](https://github.com/noamseg/interview-coach-skill)** - Coaches networking outreach, informational-interview requests, and referral asks for job seekers.
 - **[Paramchoudhary/ResumeSkills](https://github.com/Paramchoudhary/ResumeSkills)** - Resume optimization, ATS scoring, and interview prep skills.
 - **[rx290/grant-compass](https://github.com/rx290/grant-compass)** - 🌐 Finds fully-funded scholarships and matching professors scored against your grades.
-- **[santifer/career-ops](https://github.com/santifer/career-ops)** - Scores job listings, tailors resumes, and tracks applications for a job search.
 - **[shauryagangrade/scout-issue](https://github.com/shauryagangrade/scout-issue)** - Finds and ranks GitHub issues matched to your skills, experience, and time for open-source contributions.
 - **[sourikduttanyu/interview-prep](https://github.com/sourikduttanyu/interview-prep)** - Builds a tailored interview prep kit from your resume and a job description.
 - **[tydev-new/10xcolleges - financial-aid](https://github.com/tydev-new/10xcolleges/tree/main/college-apps/skills/financial-aid)** - Tracks FAFSA/CSS Profile deadlines and audits college award letters.
@@ -402,6 +402,7 @@ Three different projects answer to `gws` or a lookalike name. **googleworkspace/
 <details open>
 <summary>Show 21 skills</summary>
 
+- **[ai-tollings/drive-organizer-agent](https://github.com/ai-tollings/drive-organizer-agent)** - Organizes Google Drive into folders via a local CLI with dry-run moves.
 - **[eranw2000/google-slides-skill](https://github.com/eranw2000/google-slides-skill)** - Redesigns Google Slides decks against branding and visually verifies output.
 - **[googleworkspace/cli - gws-meet](https://github.com/googleworkspace/cli/tree/main/skills/gws-meet)** - Manages Google Meet conference spaces, recordings, and transcripts via the `gws` CLI.
 - **[googleworkspace/cli - gws-people](https://github.com/googleworkspace/cli/tree/main/skills/gws-people)** - Manages Google Contacts: search, create, update, and export via the `gws` CLI.
@@ -422,7 +423,6 @@ Three different projects answer to `gws` or a lookalike name. **googleworkspace/
 - **[omriariav/workspace-cli - gws-groups](https://github.com/omriariav/workspace-cli/tree/main/plugins/gws/skills/groups)** - Lists Google Groups and members via a separate `gws` CLI (requires Workspace admin rights).
 - **[openclaw/gogcli - gog-photos](https://github.com/openclaw/gogcli/tree/main/.agents/skills/gog-photos)** - Manages Google Photos: search, list, and download via the `gog` CLI.
 - **[openclaw/gogcli - gog-sites](https://github.com/openclaw/gogcli/tree/main/.agents/skills/gog-sites)** - Looks up and searches Google Sites via the `gog` CLI.
-- **[watashi-00/drive-organizer-agent](https://github.com/watashi-00/drive-organizer-agent)** - Organizes Google Drive into folders via a local CLI with dry-run moves.
 
 </details>
 

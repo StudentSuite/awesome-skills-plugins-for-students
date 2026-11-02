@@ -8,6 +8,16 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Updated (2026-11-02 moved repositories)
+
+Six entries pointed at repositories that GitHub now redirects to a new owner or name. Each old URL still opened, but the entry showed a name that no longer matches the repository. Checked on 2026-11-02 with the GitHub API (new repository exists, is not archived, description unchanged in substance) and by fetching each new URL (HTTP 200); the verification dates carry over unchanged.
+
+- `AnayDhawan/oss-launch` is now `CreativesLibrary/oss-launch`.
+- `santifer/career-ops` is now `career-ops-hq/career-ops`.
+- `watashi-00/drive-organizer-agent` is now `ai-tollings/drive-organizer-agent`.
+- `ahmtsahin/deutsch-dna` is now `ahmtsahin/deutsch-loop`.
+- `JimmyToluene/Skill-ADHD-Healer` (two skills, `adhd-algorithms-tutor` and `adhd-presentation-coach`) is now `Project-A-L-I-C-E/Skills-ADHD-mentor`; both skill folders still exist there.
+
 ### Replaced (2026-11-02)
 
 - `dvdksn/learn-docker` is replaced by `ericboy0224/learn-docker-and-k8s` (Coding & CS Education). The original is archived on GitHub (read-only since 2026-02), as the monthly repo audit reported in #338. The replacement is an interactive learning game in which the AI acts as a mentor through seven chapters: containers, image optimisation, persistence, networking (DNS, bridge networks), Compose, and two Kubernetes chapters. It ships Claude Code skills plus Cursor and Copilot rules (a Gemini file is present but was not tested); MIT per its README, 508 stars, last pushed 2026-03-27, and not run end to end. It covers more than the old entry (Linux and Kubernetes too), so the description changed. Closes #338.

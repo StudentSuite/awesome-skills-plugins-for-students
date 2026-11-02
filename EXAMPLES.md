@@ -88,7 +88,7 @@ guessing.
 Once the project works, turn it from a personal script into something a
 reviewer can actually look at.
 
-- **[AnayDhawan/oss-launch](https://github.com/AnayDhawan/oss-launch)** scaffolds the README, LICENSE, CI config, and a launch plan.
+- **[CreativesLibrary/oss-launch](https://github.com/CreativesLibrary/oss-launch)** scaffolds the README, LICENSE, CI config, and a launch plan.
 - **[davila7/claude-code-templates - interactive-portfolio](https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/creative-design/interactive-portfolio)** turns it (and your other projects) into a portfolio site to link from applications.
 
 ### 5. Put it on the application
