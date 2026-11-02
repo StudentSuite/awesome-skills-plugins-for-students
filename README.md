@@ -198,8 +198,8 @@ Algorithm and debugging explainers, learn-to-code starters, and CS project tooli
 - **[ComposioHQ/awesome-claude-skills - artifacts-builder](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/artifacts-builder)** - Builds multi-component React/Tailwind HTML artifacts for interactive demos and projects.
 - **[ComposioHQ/awesome-claude-skills - developer-growth-analysis](https://github.com/ComposioHQ/awesome-claude-skills/tree/master/developer-growth-analysis)** - Analyzes your Claude Code chat history to surface coding patterns and learning gaps.
 - **[DanielPodolsky/ownyourcode - database-fundamentals](https://github.com/DanielPodolsky/ownyourcode/tree/main/.claude/skills/fundamentals/database)** - Reviews schema design, normalization, indexes, and migrations against a junior-dev checklist.
-- **[dvdksn/learn-docker](https://github.com/dvdksn/learn-docker)** - Teaches Docker hands-on, from first container to Compose.
 - **[egouilliard-leyton/python-tutor-skill](https://github.com/egouilliard-leyton/python-tutor-skill)** - Teaches Python fundamentals to beginners through exercises and Socratic feedback.
+- **[ericboy0224/learn-docker-and-k8s](https://github.com/ericboy0224/learn-docker-and-k8s)** - Teaches Docker, Linux, networking and Kubernetes through an interactive game.
 - **[FlorianBruniaux/claude-code-ultimate-guide - self-assessment](https://github.com/FlorianBruniaux/claude-code-ultimate-guide/tree/main/.claude/skills/self-assessment)** - Assesses your Claude Code skill level and generates a personalized learning path.
 - **[fn-jakubkarp/dsa-tutor](https://github.com/fn-jakubkarp/dsa-tutor)** - Tutors data structures and algorithms fundamentals with staged hints, not spoilers.
 - **[hmohamed01/SQL-Expert](https://github.com/hmohamed01/SQL-Expert)** - Guides writing, optimizing, and debugging T-SQL queries, good for SQL coursework practice.
