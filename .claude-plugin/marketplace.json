@@ -1864,6 +1864,16 @@
       "description": "Tutors anatomy, physiology, and pharmacology through case-based clinical reasoning."
     },
     {
+      "name": "koloyaaa-foreign-academic-translator-skill-foreign-academic-translator",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/Koloyaaa/foreign-academic-translator-skill.git",
+        "path": "skills/foreign-academic-translator",
+        "ref": "main"
+      },
+      "description": "Translates foreign academic handouts into Chinese with subject glossaries."
+    },
+    {
       "name": "yarikleto-claude-teacher-plugin",
       "source": {
         "source": "url",
@@ -2150,7 +2160,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (28 skills; 3 paid-key skills excluded, install separately).",
+      "description": "Study & Productivity skills in one install (29 skills; 3 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
@@ -2179,7 +2189,8 @@
         "kleinpanic-canvas-lms",
         "zyx1121-i-have-dyslexia",
         "thiagoigfraga-active-reading-adhd-audhd",
-        "inviscat-mnemonic-skill"
+        "inviscat-mnemonic-skill",
+        "koloyaaa-foreign-academic-translator-skill-foreign-academic-translator"
       ]
     },
     {
