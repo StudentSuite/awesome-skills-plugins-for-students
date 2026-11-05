@@ -2444,5 +2444,17 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "Koloyaaa/foreign-academic-translator-skill - foreign-academic-translator",
+    "url": "https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator",
+    "description": "Translates foreign academic handouts into Chinese with subject glossaries.",
+    "category": "Study & Productivity",
+    "marker": null,
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
   }
 ]
