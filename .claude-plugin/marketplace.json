@@ -1304,14 +1304,14 @@
       "description": "Guides neuroscience research: brain imaging, neural modeling, cognitive experiments."
     },
     {
-      "name": "haowjy-creative-writing-skills-creative-writing-modes",
+      "name": "haowjy-creative-writing-skills-creative-writing-craft",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/haowjy/creative-writing-skills.git",
-        "path": "skills/creative-writing-modes",
+        "path": "skills/creative-writing-craft",
         "ref": "main"
       },
-      "description": "Drafts original fiction or poetry prose from a brief or outline."
+      "description": "Drafts, revises, and line-polishes fiction with prose and scene technique."
     },
     {
       "name": "jamditis-claude-skills-journalism-data-journalism",
@@ -2291,7 +2291,7 @@
         "project-a-l-i-c-e-skills-adhd-mentor-adhd-presentation-coach",
         "gnurio-nurijanian-skills-rulebook-for-arguments",
         "onewave-ai-claude-skills-debate-simulator",
-        "haowjy-creative-writing-skills-creative-writing-modes",
+        "haowjy-creative-writing-skills-creative-writing-craft",
         "jamditis-claude-skills-journalism-data-journalism",
         "markpitt-claude-skills-gcse-english-literature-tutor",
         "e06084-claude-screenwriting-screenwriting",

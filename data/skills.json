@@ -1725,9 +1725,9 @@
     ]
   },
   {
-    "name": "haowjy/creative-writing-skills - creative-writing-modes",
-    "url": "https://github.com/haowjy/creative-writing-skills/tree/main/skills/creative-writing-modes",
-    "description": "Drafts original fiction or poetry prose from a brief or outline.",
+    "name": "haowjy/creative-writing-skills - creative-writing-craft",
+    "url": "https://github.com/haowjy/creative-writing-skills/tree/main/skills/creative-writing-craft",
+    "description": "Drafts, revises, and line-polishes fiction with prose and scene technique.",
     "category": "Writing & Humanities",
     "marker": null,
     "supported_tools": [
