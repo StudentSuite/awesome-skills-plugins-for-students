@@ -401,5 +401,16 @@
       "cursor",
       "copilot"
     ]
+  },
+  {
+    "name": "tonydzi/second-brain-starter-kit",
+    "url": "https://github.com/tonydzi/second-brain-starter-kit",
+    "description": "Maintains an Obsidian second-brain vault with 230+ agent skills.",
+    "category": "Plugins",
+    "marker": null,
+    "supported_tools": [
+      "claude-code"
+    ],
+    "tag": "Note-Taking"
   }
 ]

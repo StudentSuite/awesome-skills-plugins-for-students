@@ -2140,6 +2140,14 @@
       "description": "Explains concepts, errors, and code plainly, ending on a next step."
     },
     {
+      "name": "tonydzi-second-brain-starter-kit",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/tonydzi/second-brain-starter-kit.git"
+      },
+      "description": "Maintains an Obsidian second-brain vault with 230+ agent skills."
+    },
+    {
       "name": "ib-igcse-bundle",
       "source": "./bundles/ib-igcse-bundle",
       "description": "IB & IGCSE Coursework skills in one install (11 skills).",
