@@ -1864,11 +1864,11 @@
       "description": "Tutors anatomy, physiology, and pharmacology through case-based clinical reasoning."
     },
     {
-      "name": "koloyaaa-foreign-academic-translator-skill-foreign-academic-translator",
+      "name": "koloyaaa-academic-translation-toolkit-foreign-academic-translator-lite",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/Koloyaaa/foreign-academic-translator-skill.git",
-        "path": "skills/foreign-academic-translator",
+        "url": "https://github.com/Koloyaaa/academic-translation-toolkit.git",
+        "path": "skills/lite/skills/foreign-academic-translator-lite",
         "ref": "main"
       },
       "description": "Translates foreign academic handouts into Chinese with subject glossaries."
@@ -2190,7 +2190,7 @@
         "zyx1121-i-have-dyslexia",
         "thiagoigfraga-active-reading-adhd-audhd",
         "inviscat-mnemonic-skill",
-        "koloyaaa-foreign-academic-translator-skill-foreign-academic-translator"
+        "koloyaaa-academic-translation-toolkit-foreign-academic-translator-lite"
       ]
     },
     {
