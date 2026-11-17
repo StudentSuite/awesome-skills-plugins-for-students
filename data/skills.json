@@ -2446,8 +2446,8 @@
     ]
   },
   {
-    "name": "Koloyaaa/foreign-academic-translator-skill - foreign-academic-translator",
-    "url": "https://github.com/Koloyaaa/foreign-academic-translator-skill/tree/main/skills/foreign-academic-translator",
+    "name": "Koloyaaa/academic-translation-toolkit - foreign-academic-translator-lite",
+    "url": "https://github.com/Koloyaaa/academic-translation-toolkit/tree/main/skills/lite/skills/foreign-academic-translator-lite",
     "description": "Translates foreign academic handouts into Chinese with subject glossaries.",
     "category": "Study & Productivity",
     "marker": null,
