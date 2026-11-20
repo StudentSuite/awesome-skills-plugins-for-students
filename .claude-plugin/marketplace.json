@@ -958,6 +958,16 @@
       "description": "Turns any codebase into an interactive HTML course for beginners."
     },
     {
+      "name": "tubeagentkit-youtube-transcript-skills-youtube-transcript",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/tubeagentkit/youtube-transcript-skills.git",
+        "path": "skills/youtube-transcript",
+        "ref": "main"
+      },
+      "description": "🔑 Fetches YouTube lecture transcripts for notes, summaries, and quizzes."
+    },
+    {
       "name": "zarazhangrui-frontend-slides",
       "source": {
         "source": "url",
@@ -2160,7 +2170,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (29 skills; 3 paid-key skills excluded, install separately).",
+      "description": "Study & Productivity skills in one install (29 skills; 4 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
