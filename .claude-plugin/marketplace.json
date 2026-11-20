@@ -2170,7 +2170,7 @@
     {
       "name": "study-productivity-bundle",
       "source": "./bundles/study-productivity-bundle",
-      "description": "Study & Productivity skills in one install (29 skills; 3 paid-key skills excluded, install separately).",
+      "description": "Study & Productivity skills in one install (29 skills; 4 paid-key skills excluded, install separately).",
       "dependencies": [
         "anthropics-docx",
         "anthropics-internal-comms",
