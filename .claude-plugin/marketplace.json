@@ -958,6 +958,16 @@
       "description": "Turns any codebase into an interactive HTML course for beginners."
     },
     {
+      "name": "tubeagentkit-youtube-transcript-skills-youtube-transcript",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/tubeagentkit/youtube-transcript-skills.git",
+        "path": "skills/youtube-transcript",
+        "ref": "main"
+      },
+      "description": "🔑 Fetches YouTube lecture transcripts for notes, summaries, and quizzes."
+    },
+    {
       "name": "zarazhangrui-frontend-slides",
       "source": {
         "source": "url",

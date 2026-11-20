@@ -1293,6 +1293,18 @@
     ]
   },
   {
+    "name": "tubeagentkit/youtube-transcript-skills - youtube-transcript",
+    "url": "https://github.com/tubeagentkit/youtube-transcript-skills/tree/main/skills/youtube-transcript",
+    "description": "Fetches YouTube lecture transcripts for notes, summaries, and quizzes.",
+    "category": "Study & Productivity",
+    "marker": "requires-key",
+    "supported_tools": [
+      "claude-code",
+      "cursor",
+      "copilot"
+    ]
+  },
+  {
     "name": "zarazhangrui/frontend-slides",
     "url": "https://github.com/zarazhangrui/frontend-slides",
     "description": "Builds animation-rich HTML presentations from scratch or converted from PowerPoint files.",
