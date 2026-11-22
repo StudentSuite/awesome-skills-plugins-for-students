@@ -8,6 +8,10 @@ software), but releases are still tagged so changes are easy to point to.
 
 ## [Unreleased]
 
+### Updated (2026-11-22 renamed plugin)
+
+- `alirezarezvani/claude-skills - research/deep-research` (Plugins, Research) is now `research/meta-research`. The upstream repository renamed the folder on 2026-11-02 ("rename deep-research to meta-research"), so the old URL returned 404 and failed the dead-link check (#344, #345). Checked on 2026-11-22: the new folder exists and its plugin manifest describes the same pipeline the entry lists (multi-source research for high-stakes questions, at least three independent sources per thesis, no fabricated citations), MIT, repository not archived. The verification date carries over unchanged. Closes #344. Closes #345.
+
 ### Updated (2026-11-02 moved repositories)
 
 Six entries pointed at repositories that GitHub now redirects to a new owner or name. Each old URL still opened, but the entry showed a name that no longer matches the repository. Checked on 2026-11-02 with the GitHub API (new repository exists, is not archived, description unchanged in substance) and by fetching each new URL (HTTP 200); the verification dates carry over unchanged.
