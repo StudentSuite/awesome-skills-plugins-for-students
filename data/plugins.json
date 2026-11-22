@@ -39,8 +39,8 @@
     "tag": "Study & Productivity"
   },
   {
-    "name": "alirezarezvani/claude-skills - research/deep-research",
-    "url": "https://github.com/alirezarezvani/claude-skills/tree/main/research/deep-research",
+    "name": "alirezarezvani/claude-skills - research/meta-research",
+    "url": "https://github.com/alirezarezvani/claude-skills/tree/main/research/meta-research",
     "description": "Runs a multi-source research pipeline with citations for high-stakes research questions.",
     "category": "Plugins",
     "marker": null,

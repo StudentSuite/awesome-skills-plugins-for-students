@@ -1912,11 +1912,11 @@
       "description": "Time-blocks the day into deep and shallow work with focus blocks, Cal Newport style."
     },
     {
-      "name": "alirezarezvani-claude-skills-research-deep-research",
+      "name": "alirezarezvani-claude-skills-research-meta-research",
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/alirezarezvani/claude-skills.git",
-        "path": "research/deep-research",
+        "path": "research/meta-research",
         "ref": "main"
       },
       "description": "Runs a multi-source research pipeline with citations for high-stakes research questions."
