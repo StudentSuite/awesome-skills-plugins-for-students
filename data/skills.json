@@ -1,4 +1,13 @@
 [
+{
+  "name": "raiyanyahya/Superlearn - superlearn",
+  "url": "https://github.com/raiyanyahya/Superlearn",
+  "description": "Builds interactive learning boards with concepts, diagrams, and runnable code.",
+  "category": "Coding & CS Education",
+  "marker": "external-service",
+  "supported_tools": ["claude-code"]
+}
+,
   {
     "name": "13rianK/japanese-tutor",
     "url": "https://github.com/13rianK/japanese-tutor",
